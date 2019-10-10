@@ -4,7 +4,7 @@ This repo contains financial information for [Springfield Devs](https://sgf.dev/
 
 ## Usage
 
-Review these documents for insights into Springfield Devs financial position and financial transactions. We provide this information in an effort to be more transparent and more accountable to our [Members](https://sgf.dev/member) and our [Sponsors](https://sgf.dev/sponsor). We are exploring other Git-friendly ways to publish this information, so that members can view differences between reporting versions
+Review these documents for insights into Springfield Devs financial position and financial transactions. We provide this information to be transparent and accountable to our [Members](https://sgf.dev/member) and our [Sponsors](https://sgf.dev/sponsor). We are exploring other Git-friendly ways to publish this information, so that members can view differences between reporting versions
 
 Contact [Springfield Devs Treasurer](mailto:treasurer@sgf.dev) with questions or comments.
 
