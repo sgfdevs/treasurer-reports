@@ -1,0 +1,992 @@
+Springfield Devs,,,,,,,,,
+Journal,,,,,,,,,
+January - December 2019,,,,,,,,,
+,,,,,,,,,
+,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
+,02/22/2019,Bill,14034470,No,Name.com,Paid by Myke Bates on 02/22/2019. Need to reimburse.,Accounts Payable (A/P),,222.50   
+,,,,No,,DEVS sgf.dev,Devs:Devs Software & Hosting,111.25   ,
+,,,,No,,DEVS springfield.dev,Devs:Devs Software & Hosting,111.25   ,
+,,,,,,,,$222.50   ,$222.50   
+,,,,,,,,,
+,04/16/2019,Bill,US2019-139570,No,Meetup.com,Paid by Myke Bates on 04/16/2019. Need to reimburse.,Accounts Payable (A/P),,89.94   
+,,,,No,,DEVS Unlimited Organizer Subscription 6 Months 04/19/19-10/19/19 ($14.99/mo),Devs:Devs Software & Hosting,89.94   ,
+,,,,,,,,$89.94   ,$89.94   
+,,,,,,,,,
+,08/02/2019,Bill,14783087,No,Name.com,Paid by Myke Bates on 08/02/2019. Need to reimburse.,Accounts Payable (A/P),,13.98   
+,,,,No,,METHOD methodconf.com,Method:Method Software & Hosting,13.98   ,
+,,,,,,,,$13.98   ,$13.98   
+,,,,,,,,,
+,08/07/2019,Bill,2600147,No,Kutak Rock,Paid by Myke Bates on 08/07/2019. Need to reimburse.,Accounts Payable (A/P),,750.00   
+,,,,No,,"Prepare the articles of incorporation for the company, Prepare the consent of the incorporator and consent of the initial directors, Prepare the bylaws, Review and revise draft corporation documents",Devs:Devs Legal,750.00   ,
+,,,,,,,,$750.00   ,$750.00   
+,,,,,,,,,
+,08/19/2019,Bill,311,No,Brad Hill Design Group,Paid by Myke Bates on 08/19/2019. Need to reimburse.,Accounts Payable (A/P),,"1,150.00   "
+,,,,No,,DEVS Branding Develop visual identity for SGF DEVS,Devs:Devs Design,575.00   ,
+,,,,No,,METHOD Branding Develop visual identity for Method Conference,Method:Method Design,575.00   ,
+,,,,,,,,"$1,150.00   ","$1,150.00   "
+,,,,,,,,,
+,08/22/2019,Bill,,No,Diamond Room / Simply Delicious,Paid by Myke Bates on 08/22/2019. Need to reimburse.,Accounts Payable (A/P),,500.00   
+,,,,No,,METHOD Deposit for Catering Services and Diamond Room Venue 03/05/2020,Method:Method Facilities & Catering,500.00   ,
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,08/23/2019,Bill,R421753607,No,Sticker Mule,Paid by Myke Bates on 08/23/2019. Need to reimburse.,Accounts Payable (A/P),,176.80   
+,,,,No,,"DEVS Custom 3.63"" x 3"" Die cut stickers (100 $96)",Devs:Devs Print Materials,90.28   ,
+,,,,No,,"METHOD Custom 4.85"" x 2"" Die cut stickers (100 $92)",Method:Method Print Materials,86.52   ,
+,,,,,,,,$176.80   ,$176.80   
+,,,,,,,,,
+,09/03/2019,Pledge,1001,No,Logic Forte,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/03/2019,Pledge,1002,No,Hearo Technologies,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/03/2019,Pledge,1003,No,EmergencMe,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/03/2019,Payment,,No,Logic Forte,,Devs Checking (7527),500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/04/2019,Payment,,No,Hearo Technologies,,Devs Checking (7527),500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/04/2019,Bill,,No,Domino's Pizza (National),,Accounts Payable (A/P),,223.19   
+,,,,No,,"Pizza Order for Dev Night
+15 12"" Hand tossed Cheese
+4 Stuffed Bread 8pc
+3 Marble Cookie Brownie 9pc
+6 Soda 2L
+8 Marinara
+3 Hot Wings 8pc
+Delivery Charge 2.49
+Tip 30",Devs:Devs Member Meals,223.19   ,
+,,,,,,,,$223.19   ,$223.19   
+,,,,,,,,,
+,09/05/2019,Bill Payment (Check),,No,Domino's Pizza (National),Dev Night 09/04,Devs Checking (7527),,223.19   
+,,,,No,,,Accounts Payable (A/P),223.19   ,
+,,,,,,,,$223.19   ,$223.19   
+,,,,,,,,,
+,09/05/2019,Payment,,No,EmergencMe,,Devs Checking (7527),500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/05/2019,Deposit,,No,PayPal Payment Fees,,Devs Checking (7527),0.01   ,
+,,,,No,,VERIFYBANK PAYPAL PAYPALRD33            19/09/05,Devs:Devs Payment Fees (PayPal),,0.01   
+,,,,,,,,$0.01   ,$0.01   
+,,,,,,,,,
+,09/05/2019,Deposit,,No,PayPal Payment Fees,,Devs Checking (7527),0.06   ,
+,,,,No,,VERIFYBANK PAYPAL PAYPALRD33            19/09/05,Devs:Devs Payment Fees (PayPal),,0.06   
+,,,,,,,,$0.06   ,$0.06   
+,,,,,,,,,
+,09/05/2019,Expenditure,,No,PayPal Payment Fees,,Devs Checking (7527),,0.07   
+,,,,No,,VERIFYBANK PAYPAL PAYPALRD33            19/09/05,Devs:Devs Payment Fees (PayPal),0.07   ,
+,,,,,,,,$0.07   ,$0.07   
+,,,,,,,,,
+,09/05/2019,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,09/06/2019,Bill,,No,Kutak Rock,,Accounts Payable (A/P),,86.25   
+,,,,No,,"Revise articles and bylaws, discuss conflict of interest policy",Devs:Devs Legal,60.00   ,
+,,,,No,,Filing Fees for Articles of Incorporation,Devs:Devs Legal,26.25   ,
+,,,,,,,,$86.25   ,$86.25   
+,,,,,,,,,
+,09/09/2019,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,09/15/2019,Bill,QSI-763090,No,Quality Logo Products,,Accounts Payable (A/P),,288.72   
+,,,,No,,"Springfield Devs Mugs for Founding Sponsors
+Q55335 Kona Joe Ceramic Mug (14 Oz.) 72@2.51
+Imprint Front
+Imprint Back
+Setup Charge 52.98
+Shipping 55.02",Devs:Devs Membership Gifts,288.72   ,
+,,,,,,,,$288.72   ,$288.72   
+,,,,,,,,,
+,09/15/2019,Bill,,No,Pizza Hut (Grant),,Accounts Payable (A/P),,201.88   
+,,,,No,,"Pizza for Dev Night
+3 Medium Original Pan
+10 Medium Hand Tossed
+6 Soda 2L
+3 Double Order Breadsticks
+2 Stuffed Garlic Knots
+2 Cinnabon Mini Rolls
+3 Cheese Stuffed Pizza
+2 Buffalo Wings
+Plates/Cups/Napkins for 55",Devs:Devs Member Meals,201.88   ,
+,,,,,,,,$201.88   ,$201.88   
+,,,,,,,,,
+,09/17/2019,Bill Payment (Check),,No,Quality Logo Products,,Devs Checking (7527),,288.72   
+,,,,No,,,Accounts Payable (A/P),288.72   ,
+,,,,,,,,$288.72   ,$288.72   
+,,,,,,,,,
+,09/18/2019,Pledge,1004,No,Logic Forte,Founding Member (Jason Klein),Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits.
+Jason Klein, Logic Forte (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,09/18/2019,Pledge,1005,No,Logic Forte,Founding Member (Pamela Klein),Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits.
+Pamela Klein, Logic Forte (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,09/18/2019,Expenditure,,No,PayPal Payment Fees,"Transaction ID: 9SJ173486A3496644
+https://www.paypal.com/activity/payment/9SJ173486A3496644",Devs PayPal,,1.03   
+,,,,No,,,Devs:Devs Payment Fees (PayPal),1.03   ,
+,,,,,,,,$1.03   ,$1.03   
+,,,,,,,,,
+,09/18/2019,Payment,,No,Logic Forte,,Devs PayPal,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,09/18/2019,Bill,12257988,No,Missouri Secretary of State,,Accounts Payable (A/P),,10.50   
+,,,,No,,Change of Registered Agent and/or Registered Office Address (Corp 59) (D),Devs:Devs Taxes & Licenses,10.50   ,
+,,,,,,,,$10.50   ,$10.50   
+,,,,,,,,,
+,09/19/2019,Transfer,,No,,https://www.paypal.com/activity/payment/4UD19920645176152,Devs PayPal,,23.97   
+,,,,No,,https://www.paypal.com/activity/payment/4UD19920645176152,Devs Checking (7527),23.97   ,
+,,,,,,,,$23.97   ,$23.97   
+,,,,,,,,,
+,09/20/2019,Bill,26191,No,Missouri Embroidery,,Accounts Payable (A/P),,590.75   
+,,,,No,,"Springfield Devs Shirts for Founding Sponsors
+Bella + Canvas Women 8413 4@13
+Bella + Canvas Men 3413 35@12.00
+Setup 25
+Sizes Over XL 3
+Shipping 10
+Sales Tax 42.77
+Credit Card Charge 3.5% 19.98",Devs:Devs Membership Gifts,590.75   ,
+,,,,,,,,$590.75   ,$590.75   
+,,,,,,,,,
+,09/20/2019,Bill Payment (Check),,No,Missouri Secretary of State,,Devs Checking (7527),,10.50   
+,,,,No,,,Accounts Payable (A/P),10.50   ,
+,,,,,,,,$10.50   ,$10.50   
+,,,,,,,,,
+,09/23/2019,Bill Payment (Check),,No,Kutak Rock,,Devs Checking (7527),,86.25   
+,,,,No,,,Accounts Payable (A/P),86.25   ,
+,,,,,,,,$86.25   ,$86.25   
+,,,,,,,,,
+,09/25/2019,Bill,112-3305835-6697004,No,Amazon Shopping,Shipped to Springfield Devs % Myke Bates. Paid by Jason Klein on 09/25/2019. Need to reimburse.,Accounts Payable (A/P),,276.40   
+,,,,No,,"DEVS Streaming Equipment: 
+Mactrem PT55 Travel Camera Tripod, 
+Logitech C920S HD Pro Webcam, 
+Cable Matters Ultra Thin HDMI Cable 6FT 2PK, 
+Blue Snowball iCE Condenser Microphone, 
+Cardioid - Black, MiraBox Capture Card USB 3.0 HDMI HSV321",Devs:Devs Hardware,276.40   ,
+,,,,,,,,$276.40   ,$276.40   
+,,,,,,,,,
+,09/28/2019,Payment,,No,Logic Forte,Paid via QuickBooks Payments: Payment ID anl8nqs1,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1006,No,Classy Llama,,Accounts Receivable (A/R),600.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Greg Johnson,Devs Revenue:Devs Memberships,,25.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jonathan Hodges,Devs Revenue:Devs Memberships,,25.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Matt Johnson,Devs Revenue:Devs Memberships,,25.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Stephen Biston,Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$600.00   ,$600.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1007,No,Self Interactive,,Accounts Receivable (A/R),525.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Charlie Rosenbury,Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$525.00   ,$525.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1008,No,Ion Wave Technologies,,Accounts Receivable (A/R),575.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Steve Dettmers,Devs Revenue:Devs Memberships,,25.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jeff Berry,Devs Revenue:Devs Memberships,,25.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Christopher Wilding,Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$575.00   ,$575.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1009,No,Mostly Serious,Founding Sponsor of Springfield Devs,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1010,No,Gravitate Solutions,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1011,No,WebArc Technologies,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/28/2019,Payment,,No,WebArc Technologies,Paid via QuickBooks Payments: Payment ID PG0252528562,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1012,No,Erik Hansen,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Erik Hansen,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1013,No,Eric Schumann,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Eric Schumann,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1014,No,Frederick Lawler,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Frederick Lawler,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1015,No,Andrew Rowell,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Andrew Rowell,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1016,No,Brenden Reeves,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Brenden Reeves,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1017,No,Dylan Buehler,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Dylan Buehler,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1018,No,Heba Elkordy,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Heba Elkordy,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Payment,,No,Dylan Buehler,Paid via QuickBooks Payments: Payment ID PI0258452150,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1019,No,Bec Braughton,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Rebecca ‘Bec’ Braughton,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1020,No,Tiffany Ford,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/benefits. No mug. Tiffany Ford,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1021,No,Jeremy Willman,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jeremy Willman,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1022,No,David Hamilton,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. David Hamilton,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1023,No,Benjamin Stange,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Benjamin Stange,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1024,No,Anthony Maughan,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus mug/benefits. No shirt. Anthony Maughan,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1025,No,Rich Clingman,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Rich Clingman,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1026,No,James  Jorgensen,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. James Jorgensen,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1027,No,Amber Gillenwaters,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Amber Gillenwaters,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1028,No,Smokie Lee,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Smokie Lee,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Pledge,1029,No,Mark Stepp,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Mark Stepp,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Payment,,No,Amber Gillenwaters,Paid via QuickBooks Payments: Payment ID PI0258453453,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Payment,,No,Eric Schumann,Paid via QuickBooks Payments: Payment ID PK0249263750,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Payment,,No,Frederick Lawler,Paid via QuickBooks Payments: Payment ID PG0252661699,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/28/2019,Payment,,No,James  Jorgensen,Paid via QuickBooks Payments: Payment ID PG0252662833,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1030,No,Ben Pomerenke,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Ben Pomerenke,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1031,No,Greg Melton,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Greg Melton,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1032,No,Jordan McAdoo,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jordan McAdoo,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1033,No,Zak Lampert,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Zak Lampert,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1034,No,Christopher Wilding,Voided - Billed to Ion Wave per John Alexander,Accounts Receivable (A/R),0.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Christopher Wilding,Devs Revenue:Devs Memberships,0.00   ,
+,,,,,,,,$0.00   ,
+,,,,,,,,,
+,09/29/2019,Pledge,1035,No,Tylor Hindery,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Tylor Hindery,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1036,No,Jack Ford,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jack Ford,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1037,No,Kevin Wyas,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Kevin Wyas,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1038,No,Jason Amschler,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jason Amschler,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1039,No,David Alger,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. David Alger,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Pledge,1042,No,Shawna Baron,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Shawna Baron, Hearo Technologies (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,09/29/2019,Payment,,No,David Alger,Paid via QuickBooks Payments: Payment ID PI0258550322,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/29/2019,Payment,,No,Erik Hansen,Paid via QuickBooks Payments: Payment ID anle28t3,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Shawna Baron,Paid via QuickBooks Payments: Payment ID PI0258571125,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Tylor Hindery,Paid via QuickBooks Payments: Payment ID PG0252802837,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Greg Melton,Paid via QuickBooks Payments: Payment ID PG0252821260,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Heba Elkordy,Paid via QuickBooks Payments: Payment ID PI0258613801,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Anthony Maughan,Paid via QuickBooks Payments: Payment ID PI0258624760,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Benjamin Stange,Paid via QuickBooks Payments: Payment ID anlh21nn,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Pledge,1043,No,Justin Taylor,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Justin Taylor,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,09/30/2019,Payment,,No,Rich Clingman,Paid via QuickBooks Payments: Payment ID PI0258768695,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/01/2019,Pledge,1040,No,Thomas Rankin,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Thomas Rankin, Hearo Technologies (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Pledge,1041,No,Levi Zitting,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Levi Zitting, EmergencMe (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Payment,,No,Jeremy Willman,Paid via QuickBooks Payments: Payment ID PI0258875047,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/01/2019,Payment,,No,Kevin Wyas,Paid via QuickBooks Payments: Payment ID PG0253138396,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/01/2019,Pledge,1044,No,Jason Arend,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jason Arend, Hearo Technologies (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Pledge,1045,No,Myke Bates,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Myke Bates, Hearo Technologies (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Pledge,1046,No,Tim Franklin,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Tim Franklin, Gravitate Solutions (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Payment,,No,Myke Bates,Paid via QuickBooks Payments: Payment ID PI0259116595,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Pledge,1047,No,Added Innovation,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,10/01/2019,Payment,,No,Added Innovation,Paid via QuickBooks Payments: Payment ID PI0259118123,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,10/01/2019,Payment,,No,Thomas Rankin,Paid via QuickBooks Payments: Payment ID PK0249929240,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/01/2019,Bill,7333,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,36.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,36.00   ,
+,,,,,,,,$36.00   ,$36.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Levi Zitting,Paid via QuickBooks Payments: Payment ID PK0249945843,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Jordan McAdoo,Paid via QuickBooks Payments: Payment ID PG0253363984,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Tiffany Ford,Paid via QuickBooks Payments: Payment ID PK0249957526,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Tim Franklin,Paid via QuickBooks Payments: Payment ID PG0253374930,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Gravitate Solutions,Paid via QuickBooks Payments: Payment ID PG0253375520,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Brenden Reeves,Paid via QuickBooks Payments: Payment ID PI0259247783,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Ben Pomerenke,Paid via QuickBooks Payments: Payment ID PK0250116462,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,David Hamilton,Paid via QuickBooks Payments: Payment ID PI0259325550,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Deposit,,No,,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),"1,775.00   ",
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0252528562,Undeposited Funds,,500.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258452150,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258453453,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0249263750,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0252661699,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0252662833,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258571125,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0252802837,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0252821260,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258613801,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258624760,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258875047,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0253138396,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0249945843,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0253363984,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0249957526,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0253374930,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0253375520,Undeposited Funds,,500.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259247783,Undeposited Funds,,50.00   
+,,,,,,,,"$1,775.00   ","$1,775.00   "
+,,,,,,,,,
+,10/02/2019,Expenditure,,No,QuickBooks Payment Fees,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,56.24   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),56.24   ,
+,,,,,,,,$56.24   ,$56.24   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Jack Ford,Paid via QuickBooks Payments: Payment ID PG0253551723,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Pledge,1048,No,Maranda Provance,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Maranda Provance, Mostly Serious (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Maranda Provance,Paid via QuickBooks Payments: Payment ID PI0259344687,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Andrew Rowell,Paid via QuickBooks Payments: Payment ID PG0253558069,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,2033,No,Bec Braughton,Jason Klein - Mobile Check Deposit,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Mark Stepp,Jason Klein - Cash to PayPal 10/03/2019,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Payment,,No,Jason Amschler,Jason Klein - Cash to PayPal 10/03/2019,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/02/2019,Bill Payment (Check),,No,Missouri Embroidery,,Devs Checking (7527),,590.75   
+,,,,No,,,Accounts Payable (A/P),590.75   ,
+,,,,,,,,$590.75   ,$590.75   
+,,,,,,,,,
+,10/02/2019,Deposit,,No,,,Devs PayPal,100.00   ,
+,,,,No,,jk PayPal 10/3,Undeposited Funds,,50.00   
+,,,,No,,jk PayPal 10/3,Undeposited Funds,,50.00   
+,,,,,,,,$100.00   ,$100.00   
+,,,,,,,,,
+,10/02/2019,Bill,,No,1Password,Paid by Myke Bates on 10/02/2019. Need to reimburse.,Accounts Payable (A/P),,59.85   
+,,,,No,,1Password Families Plan (Annual),Devs:Devs Software & Hosting,59.85   ,
+,,,,,,,,$59.85   ,$59.85   
+,,,,,,,,,
+,10/03/2019,Payment,,No,Classy Llama,Paid via QuickBooks Payments: Payment ID PI0259491055,Undeposited Funds,600.00   ,
+,,,,No,,,Accounts Receivable (A/R),,600.00   
+,,,,,,,,$600.00   ,$600.00   
+,,,,,,,,,
+,10/03/2019,Deposit,,No,,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),"1,500.00   ",
+,,,,No,,Paid via QuickBooks Payments: Payment ID anl8nqs1,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258550322,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0258768695,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259116595,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259118123,Undeposited Funds,,500.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0249929240,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0250116462,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259325550,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0253551723,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259344687,Undeposited Funds,,25.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0253558069,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259491055,Undeposited Funds,,600.00   
+,,,,,,,,"$1,500.00   ","$1,500.00   "
+,,,,,,,,,
+,10/03/2019,Expenditure,,No,QuickBooks Payment Fees,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,45.79   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),45.79   ,
+,,,,,,,,$45.79   ,$45.79   
+,,,,,,,,,
+,10/03/2019,Payment,,No,Jason Arend,Paid via QuickBooks Payments: Payment ID PI0259565861,Undeposited Funds,25.00   ,
+,,,,No,,,Accounts Receivable (A/R),,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,10/03/2019,Deposit,,No,Bec Braughton,,Devs Checking (7527),50.00   ,
+,,,,No,,jrk,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/03/2019,Transfer,,No,,https://www.paypal.com/activity/payment/01J015458S443434B,Devs PayPal,,100.00   
+,,,,No,,https://www.paypal.com/activity/payment/01J015458S443434B,Devs Checking (7527),100.00   ,
+,,,,,,,,$100.00   ,$100.00   
+,,,,,,,,,
+,10/04/2019,Deposit,,No,,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),125.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID anle28t3,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID anlh21nn,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0259565861,Undeposited Funds,,25.00   
+,,,,,,,,$125.00   ,$125.00   
+,,,,,,,,,
+,10/04/2019,Expenditure,,No,QuickBooks Payment Fees,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.98   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.98   ,
+,,,,,,,,$1.98   ,$1.98   
+,,,,,,,,,
+,10/04/2019,Bill Payment (Check),,No,Pizza Hut (Grant),,Devs Checking (7527),,201.88   
+,,,,No,,,Accounts Payable (A/P),201.88   ,
+,,,,,,,,$201.88   ,$201.88   
+,,,,,,,,,
+,10/05/2019,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,10/06/2019,Pledge,1049,No,Greg Lane,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Greg Lane,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/06/2019,Payment,,No,Greg Lane,Paid via QuickBooks Payments: Payment ID PI0260073665,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/06/2019,Pledge,1050,No,Jim Hodge,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Jim Hodge,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/06/2019,Deposit,,No,Greg Lane,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),50.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0260073665,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/06/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.70   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.70   ,
+,,,,,,,,$1.70   ,$1.70   
+,,,,,,,,,
+,10/07/2019,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,10/07/2019,Deposit,,No,Smokie Lee,,Devs Checking (7527),50.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0251327985,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/07/2019,Expenditure,,No,Sam's Club,517695 5-Shelf Storage Rack,Devs Checking (7527),,75.65   
+,,,,No,,517695 5-Shelf Storage Rack,Devs:Devs Office Supplies,75.65   ,
+,,,,,,,,$75.65   ,$75.65   
+,,,,,,,,,
+,10/08/2019,Pledge,1051,No,World Wide Technology,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,10/08/2019,Payment,,No,Smokie Lee,Paid via QuickBooks Payments: Payment ID PK0251327985,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/09/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.70   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.70   ,
+,,,,,,,,$1.70   ,$1.70   
+,,,,,,,,,
+,10/10/2019,Payment,,No,Justin Taylor,Remote Deposit by Myke Bates,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/10/2019,Payment,,No,Self Interactive,Remote Deposit by Myke Bates,Undeposited Funds,525.00   ,
+,,,,No,,,Accounts Receivable (A/R),,525.00   
+,,,,,,,,$525.00   ,$525.00   
+,,,,,,,,,
+,10/10/2019,Deposit,,No,Justin Taylor,Mobile Deposit by Myke Bates,Devs Checking (7527),50.00   ,
+,,,,No,,Remote Deposit by Myke Bates,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/10/2019,Deposit,,No,Self Interactive,Mobile Deposit by Myke Bates,Devs Checking (7527),525.00   ,
+,,,,No,,Remote Deposit by Myke Bates,Undeposited Funds,,525.00   
+,,,,,,,,$525.00   ,$525.00   
+,,,,,,,,,
+,10/14/2019,Payment,,No,World Wide Technology,Paid via QuickBooks Payments: Payment ID PG0255926032,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,10/14/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,14.75   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),14.75   ,
+,,,,,,,,$14.75   ,$14.75   
+,,,,,,,,,
+,10/14/2019,Deposit,,No,World Wide Technology,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),500.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0255926032,Undeposited Funds,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,10/14/2019,Bill,,No,Meetup.com,,Accounts Payable (A/P),,69.26   
+,,,,No,,DEVS Meetup Subscription 6 Months 10/14/2019-04/14/2019 ($16.49/mo),Devs:Devs Software & Hosting,98.94   ,
+,,,,No,,DEVS Unlimited Organizer Subscription 6 Months 04/19/19-10/19/19 ($14.99/mo) DISCOUNT/REFUND?,Devs:Devs Software & Hosting,,29.68   
+,,,,,,,,$98.94   ,$98.94   
+,,,,,,,,,
+,10/14/2019,Bill,15112945,No,Name.com,,Accounts Payable (A/P),,35.96   
+,,,,No,,DEV sgfwebdevs.com,Devs:Devs Software & Hosting,17.98   ,
+,,,,No,,DEV hack4goodsgf.com,Devs:Devs Software & Hosting,17.98   ,
+,,,,,,,,$35.96   ,$35.96   
+,,,,,,,,,
+,10/15/2019,Bill Payment (Check),,No,Meetup.com,,Devs Checking (7527),,69.26   
+,,,,No,,,Accounts Payable (A/P),69.26   ,
+,,,,,,,,$69.26   ,$69.26   
+,,,,,,,,,
+,10/15/2019,Bill Payment (Check),,No,Name.com,,Devs Checking (7527),,35.96   
+,,,,No,,,Accounts Payable (A/P),35.96   ,
+,,,,,,,,$35.96   ,$35.96   
+,,,,,,,,,
+,10/17/2019,Payment,,No,Jim Hodge,Paid via QuickBooks Payments: Payment ID PI0262202745,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/17/2019,Deposit,,No,Jim Hodge,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),50.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0262202745,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/17/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.70   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.70   ,
+,,,,,,,,$1.70   ,$1.70   
+,,,,,,,,,
+,10/17/2019,Payment,4709,No,Ion Wave Technologies,Remote Deposit by Jason Klein,Undeposited Funds,575.00   ,
+,,,,No,,,Accounts Receivable (A/R),,575.00   
+,,,,,,,,$575.00   ,$575.00   
+,,,,,,,,,
+,10/17/2019,Deposit,,No,Ion Wave Technologies,Mobile Deposit by Jason Klein,Devs Checking (7527),575.00   ,
+,,,,No,,Remote Deposit by Jason Klein,Undeposited Funds,,575.00   
+,,,,,,,,$575.00   ,$575.00   
+,,,,,,,,,
+,10/21/2019,Expenditure,,No,Meetup.com,"Meetup Renewal (duplicate, refunded 11/18)",Devs Checking (7527),,89.94   
+,,,,No,,"Meetup Renewal (duplicate, refunded 11/18)",Devs:Devs Software & Hosting,89.94   ,
+,,,,,,,,$89.94   ,$89.94   
+,,,,,,,,,
+,10/22/2019,Bill,0000 318,No,Brad Hill Design Group,,Accounts Payable (A/P),,"1,000.00   "
+,,,,No,,METHOD Event Website Responsive Design (Initial Down Payment 50%),Method:Method Design,"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,10/28/2019,Payment,,No,Zak Lampert,Paid via QuickBooks Payments: Payment ID PG0258506163,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/28/2019,Deposit,,No,Zak Lampert,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),50.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0258506163,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,10/28/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.70   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.70   ,
+,,,,,,,,$1.70   ,$1.70   
+,,,,,,,,,
+,11/01/2019,Bill,7334,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,11/04/2019,Bill Payment (Check),BILL PAY 001,No,Brad Hill Design Group,,Devs Checking (7527),,"1,000.00   "
+,,,,No,,,Accounts Payable (A/P),"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,11/05/2019,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,11/06/2019,Pledge,1052,No,Fried Design Company,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,11/06/2019,Pledge,1053,No,Mycra Therapy,,Accounts Receivable (A/R),525.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Craig Coenen,Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$525.00   ,$525.00   
+,,,,,,,,,
+,11/07/2019,Pledge,1054,No,Mike Copanos,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Mike Copanos,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/07/2019,Payment,,No,Mike Copanos,Paid via QuickBooks Payments: Payment ID PG0260658604,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/07/2019,Deposit,,No,Mike Copanos,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),50.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0260658604,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/07/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.70   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.70   ,
+,,,,,,,,$1.70   ,$1.70   
+,,,,,,,,,
+,11/07/2019,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,11/08/2019,Expenditure,,No,Pizza Hut (Grant),Dev Night 11/06/2019,Devs Checking (7527),,223.02   
+,,,,No,,Dev Night 11/06/2019,Devs:Devs Member Meals,223.02   ,
+,,,,,,,,$223.02   ,$223.02   
+,,,,,,,,,
+,11/08/2019,Expenditure,,No,Name.com,Domain Renewal (devfestsgf.com),Devs Checking (7527),,17.98   
+,,,,No,,Domain Renewal (devfestsgf.com),Devs:Devs Software & Hosting,17.98   ,
+,,,,,,,,$17.98   ,$17.98   
+,,,,,,,,,
+,11/13/2019,Pledge,1055,No,Brent Stilts,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Brent Stilts,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/14/2019,Payment,,No,Brent Stilts,Paid via QuickBooks Payments: Payment ID PI0267595494,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/14/2019,Pledge,1056,No,Mario Hernandez,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Mario Hernandez,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/14/2019,Payment,,No,Mario Hernandez,Paid via QuickBooks Payments: Payment ID PG0262014778,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/14/2019,Deposit,,No,,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),100.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PI0267595494,Undeposited Funds,,50.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0262014778,Undeposited Funds,,50.00   
+,,,,,,,,$100.00   ,$100.00   
+,,,,,,,,,
+,11/14/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,3.40   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),3.40   ,
+,,,,,,,,$3.40   ,$3.40   
+,,,,,,,,,
+,11/18/2019,Deposit,,No,Meetup.com,"Meetup Renewal (duplicate, refund)",Devs Checking (7527),89.94   ,
+,,,,No,,"Meetup Renewal (duplicate, refund)",Devs:Devs Software & Hosting,,89.94   
+,,,,,,,,$89.94   ,$89.94   
+,,,,,,,,,
+,11/19/2019,Payment,,No,Fried Design Company,,Devs Checking (7527),500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,11/21/2019,Pledge,1057,No,Austin Story,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Austin Story,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/21/2019,Pledge,1058,No,Gareth Rowell,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Gareth Rowell,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,11/26/2019,Bill Payment (Check),BILL PAY 002,No,Brad Hill Design Group,Reimbursement to Myke Bates. Paid by Myke Bates on 08/19/2019.,Devs Checking (7527),,"1,150.00   "
+,,,,No,,,Accounts Payable (A/P),"1,150.00   ",
+,,,,,,,,"$1,150.00   ","$1,150.00   "
+,,,,,,,,,
+,11/26/2019,Bill Payment (Check),BILL PAY 003,No,Amazon Shopping,Reimbursement to Jason Klein. Paid by Jason Klein on 09/25/2019.,Devs Checking (7527),,276.40   
+,,,,No,,,Accounts Payable (A/P),276.40   ,
+,,,,,,,,$276.40   ,$276.40   
+,,,,,,,,,
+,11/26/2019,Bill Payment (Check),BILL PAY 004,No,Name.com,Reimburse Myke Bates for Devs/Method domains. Originally paid to Name.com on 02/22/2019.,Devs Checking (7527),,222.50   
+,,,,No,,,Accounts Payable (A/P),222.50   ,
+,,,,,,,,$222.50   ,$222.50   
+,,,,,,,,,
+,11/26/2019,Bill Payment (Check),BILL PAY 005,No,Meetup.com,Reimburse Myke Bates for $89.94 annual Meetup.com Group fees he paid for Springfield Devs on 04/16/2019,Devs Checking (7527),,89.94   
+,,,,No,,,Accounts Payable (A/P),89.94   ,
+,,,,,,,,$89.94   ,$89.94   
+,,,,,,,,,
+,11/26/2019,Bill Payment (Check),BILL PAY 006,No,Name.com,Reimburse Myke Bates for $13.98 paid to Name.com for Devs domain on 08/02/2019.,Devs Checking (7527),,13.98   
+,,,,No,,,Accounts Payable (A/P),13.98   ,
+,,,,,,,,$13.98   ,$13.98   
+,,,,,,,,,
+,11/26/2019,Payment,,No,Mycra Therapy,Paid via QuickBooks Payments: Payment ID PK0260511748,Undeposited Funds,525.00   ,
+,,,,No,,,Accounts Receivable (A/R),,525.00   
+,,,,,,,,$525.00   ,$525.00   
+,,,,,,,,,
+,11/26/2019,Pledge,1059,No,Artistic Healing,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,11/28/2019,Deposit,,No,Mycra Therapy,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),525.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0260511748,Undeposited Funds,,525.00   
+,,,,,,,,$525.00   ,$525.00   
+,,,,,,,,,
+,11/28/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,15.48   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),15.48   ,
+,,,,,,,,$15.48   ,$15.48   
+,,,,,,,,,
+,12/01/2019,Bill,7335,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,12/02/2019,Bill,321,No,Brad Hill Design Group,,Accounts Payable (A/P),,"1,000.00   "
+,,,,No,,METHOD Event Website Responsive Design (Final Payment 50%),Method:Method Design,"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,12/03/2019,Payment,,No,Gareth Rowell,Paid via QuickBooks Payments: Payment ID PK0261618950,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,12/03/2019,Deposit,,No,Gareth Rowell,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),50.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0261618950,Undeposited Funds,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,12/03/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,1.70   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),1.70   ,
+,,,,,,,,$1.70   ,$1.70   
+,,,,,,,,,
+,12/03/2019,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,0.50   
+,,,,No,,AMAZON WEB DBT CRD 0024 12/03/19 DB078ABT,Devs:Devs Software & Hosting,0.50   ,
+,,,,,,,,$0.50   ,$0.50   
+,,,,,,,,,
+,12/05/2019,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,12/06/2019,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,12/06/2019,Expenditure,,No,Andy B's Springfield,December Social,Devs Checking (7527),,216.97   
+,,,,No,,December Social,Devs:Devs Member Meals,216.97   ,
+,,,,,,,,$216.97   ,$216.97   
+,,,,,,,,,
+,12/11/2019,Bill Payment (Check),,No,Brad Hill Design Group,,Devs Checking (7527),,"1,000.00   "
+,,,,No,,,Accounts Payable (A/P),"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,12/17/2019,Pledge,1060,No,Adam Cunningham,,Accounts Receivable (A/R),50.00   ,
+,,,,No,,Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Adam Cunningham,Devs Revenue:Devs Memberships,,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,12/17/2019,Pledge,1061,No,Kraken Commerce,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/17/2019,Pledge,1062,No,Brewer Science,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/17/2019,Pledge,1063,No,Vault Innovation Group,,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/17/2019,Payment,,No,Kraken Commerce,Paid via QuickBooks Payments: Payment ID PG0268381654,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/17/2019,Payment,,No,Adam Cunningham,Paid via QuickBooks Payments: Payment ID PK0264496241,Undeposited Funds,50.00   ,
+,,,,No,,,Accounts Receivable (A/R),,50.00   
+,,,,,,,,$50.00   ,$50.00   
+,,,,,,,,,
+,12/17/2019,Deposit,,No,,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),550.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PG0268381654,Undeposited Funds,,500.00   
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0264496241,Undeposited Funds,,50.00   
+,,,,,,,,$550.00   ,$550.00   
+,,,,,,,,,
+,12/17/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,16.45   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),16.45   ,
+,,,,,,,,$16.45   ,$16.45   
+,,,,,,,,,
+,12/21/2019,Payment,,No,Artistic Healing,Paid via QuickBooks Payments: Payment ID PK0265356051,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/22/2019,Deposit,,No,Artistic Healing,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),500.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PK0265356051,Undeposited Funds,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/22/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,14.75   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),14.75   ,
+,,,,,,,,$14.75   ,$14.75   
+,,,,,,,,,
+,12/23/2019,Pledge,1064,No,"Code Scientists, LLC",,Accounts Receivable (A/R),500.00   ,
+,,,,No,,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Devs Revenue:Devs Sponsorships,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/23/2019,Pledge,1065,No,Melisa Hamilton,,Accounts Receivable (A/R),25.00   ,
+,,,,No,,"Founding Member of Springfield Devs. Lifetime recognition plus shirt/mug benefits. Melisa Hamilton, Mycra (50% Founding Sponsor Discount)",Devs Revenue:Devs Memberships,,25.00   
+,,,,,,,,$25.00   ,$25.00   
+,,,,,,,,,
+,12/30/2019,Pledge,1066,No,Logic Forte,Speaker Sponsorship (Taylor Otwell) for METHOD Developer Conference 03/05/2020,Accounts Receivable (A/R),900.00   ,
+,,,,No,,Speaker Sponsorship (Taylor Otwell) for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Method Revenue:Method Sponsorships,,"1,000.00   "
+,,,,No,,Springfield Devs Founding Sponsor Discount (-10%),Method Revenue:Method Sponsorships,100.00   ,
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,12/30/2019,Payment,,No,Logic Forte,Paid via QuickBooks Payments: Payment ID anuwyfzb,Undeposited Funds,900.00   ,
+,,,,No,,,Accounts Receivable (A/R),,900.00   
+,,,,,,,,$900.00   ,$900.00   
+,,,,,,,,,
+,12/30/2019,Deposit,,No,Logic Forte,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),900.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID anuwyfzb,Undeposited Funds,,900.00   
+,,,,,,,,$900.00   ,$900.00   
+,,,,,,,,,
+,12/30/2019,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,9.00   
+,,,,No,,Logic Forte (1% + 0.00),Method:Method Payment Fees (Intuit),9.00   ,
+,,,,,,,,$9.00   ,$9.00   
+,,,,,,,,,
+,12/30/2019,Expenditure,,No,Apple Developer Program,,Devs Checking (7527),,99.00   
+,,,,No,,APPLE.COM/U DBT CRD 1035 12/29/19 DBZT64P9,Devs:Devs Software & Hosting,99.00   ,
+,,,,,,,,$99.00   ,$99.00   
+,,,,,,,,,
+,12/31/2019,Bill Payment (Check),BILL PAY 008,No,Kutak Rock,Reimbursement to Myke Bates. Paid by Myke Bates on 08/07/2019.,Devs Checking (7527),,750.00   
+,,,,No,,,Accounts Payable (A/P),750.00   ,
+,,,,,,,,$750.00   ,$750.00   
+,,,,,,,,,
+,12/31/2019,Bill Payment (Check),BILL PAY 007,No,Diamond Room / Simply Delicious,Reimbursement to Myke Bates. Paid by Myke Bates on 08/22/2019.,Devs Checking (7527),,500.00   
+,,,,No,,,Accounts Payable (A/P),500.00   ,
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,12/31/2019,Bill Payment (Check),BILL PAY 009,No,Sticker Mule,Reimbursement to Myke Bates. Paid by Myke Bates on 08/23/2019.,Devs Checking (7527),,176.80   
+,,,,No,,,Accounts Payable (A/P),176.80   ,
+,,,,,,,,$176.80   ,$176.80   
+,,,,,,,,,
+,12/31/2019,Bill Payment (Check),BILL PAY 010,No,1Password,Reimbursement to Myke Bates. Paid by Myke Bates on 10/02/2019.,Devs Checking (7527),,59.85   
+,,,,No,,,Accounts Payable (A/P),59.85   ,
+,,,,,,,,$59.85   ,$59.85   
+,,,,,,,,,
+,12/31/2019,Bill,781,No,Pillar Insurance Springfield,,Accounts Payable (A/P),,"1,079.00   "
+,,,,No,,"Star Insurance Company CP0950895 - Directors & Officers, General Liability, Participation Fee",Devs:Devs Insurance,"1,079.00   ",
+,,,,,,,,"$1,079.00   ","$1,079.00   "
+,,,,,,,,,
+TOTAL,,,,,,,,"$46,412.82   ","$46,412.82   "
+,,,,,,,,,
+,,,,,,,,,
+"Monday, Mar 02, 2020 08:01:44 PM GMT-8",,,,,,,,,
