@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January 1 - March 2, 2020",,,,,,,,,
+"January 1 - April 11, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1026,7 +1026,92 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,,Accounts Payable (A/P),40.00   ,
 ,,,,,,,,$40.00   ,$40.00   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$89,657.15   ","$89,657.15   "
+,03/02/2020,Bill Payment (Check),,No,Facebook Ads,,Devs Checking (7527),,6.37   
+,,,,No,,,Accounts Payable (A/P),6.37   ,
+,,,,,,,,$6.37   ,$6.37   
+,,,,,,,,,
+,03/02/2020,Deposit,,No,Amazon Shopping,Partial Refund,Devs Checking (7527),6.26   ,
+,,,,No,,Partial Refund,Method:Method Door Prizes,,6.26   
+,,,,,,,,$6.26   ,$6.26   
+,,,,,,,,,
+,03/03/2020,Expenditure,,No,Amazon Web Services,398900485,Devs Checking (7527),,0.59   
+,,,,No,,398900485,Devs:Devs Software & Hosting,0.59   ,
+,,,,,,,,$0.59   ,$0.59   
+,,,,,,,,,
+,03/04/2020,Expenditure,,No,Houlihans Restaurant,Speaker Dinner for Method Conference,Devs Checking (7527),,511.41   
+,,,,No,,"Food, Drinks, Sales Tax",Method:Method Speaker Dinner,433.41   ,
+,,,,No,,Gratuity (~19.5% of ~$400),Method:Method Speaker Dinner,78.00   ,
+,,,,,,,,$511.41   ,$511.41   
+,,,,,,,,,
+,03/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,03/05/2020,Bill,,No,Diamond Room / Simply Delicious,,Accounts Payable (A/P),,710.65   
+,,,,No,,Food Gratuity for Method Conference ($3185 at 19.17%),Method:Method Facilities & Catering,610.65   ,
+,,,,No,,Bar Gratuity for Method Conference ($523 at 19.12%),Method:Method Facilities & Catering,100.00   ,
+,,,,,,,,$710.65   ,$710.65   
+,,,,,,,,,
+,03/05/2020,Receipt,1178,No,Josiah Mann,,Devs Stripe,100.00   ,
+,,,,No,,Attendee Josiah Mann,Method Revenue:Method Tickets,,100.00   
+,,,,,,,,$100.00   ,$100.00   
+,,,,,,,,,
+,03/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,03/06/2020,Bill,,No,Diamond Room / Simply Delicious,,Accounts Payable (A/P),,565.36   
+,,,,No,,Hosted Bar,Method:Method Facilities & Catering,523.00   ,
+,,,,No,,Sales Tax 8.1%,Method:Method Facilities & Catering,42.36   ,
+,,,,,,,,$565.36   ,$565.36   
+,,,,,,,,,
+,03/06/2020,Expenditure,,No,Stripe Payments,,Devs Stripe,,100.00   
+,,,,No,,Stripe 100 @ 2.9% + 1 x 0.30,Method:Method Payment Fees (Stripe),3.20   ,
+,,,,No,,Tito 100 @ 3%,Method:Method Ticket Fees,3.00   ,
+,,,,No,,Payout,Devs Checking (7527),93.80   ,
+,,,,,,,,$100.00   ,$100.00   
+,,,,,,,,,
+,03/09/2020,Bill Payment (Check),BILL PAY,No,Diamond Room / Simply Delicious,,Devs Checking (7527),,"1,276.01   "
+,,,,No,,,Accounts Payable (A/P),"1,276.01   ",
+,,,,,,,,"$1,276.01   ","$1,276.01   "
+,,,,,,,,,
+,03/09/2020,Bill Payment (Check),BILL PAY,No,Headline Productions,,Devs Checking (7527),,"1,280.10   "
+,,,,No,,,Accounts Payable (A/P),"1,280.10   ",
+,,,,,,,,"$1,280.10   ","$1,280.10   "
+,,,,,,,,,
+,03/11/2020,Bill,271567A,No,Hilton Garden Inn Springfield,,Accounts Payable (A/P),,"1,150.16   "
+,,,,No,,Hotel Rooms for Method Conf Speakers - 8 nights @ 143.77 (126 guest room + 6.30 occupancy tax + 11.47 state tax),Method:Method Speaker Travel,"1,150.16   ",
+,,,,,,,,"$1,150.16   ","$1,150.16   "
+,,,,,,,,,
+,03/12/2020,Bill Payment (Check),,No,Hilton Garden Inn Springfield,,Devs Checking (7527),,"1,150.16   "
+,,,,No,,,Accounts Payable (A/P),"1,150.16   ",
+,,,,,,,,"$1,150.16   ","$1,150.16   "
+,,,,,,,,,
+,03/25/2020,Payment,,No,World Wide Technology,,Devs Checking (7527),900.00   ,
+,,,,No,,,Accounts Receivable (A/R),,900.00   
+,,,,,,,,$900.00   ,$900.00   
+,,,,,,,,,
+,04/01/2020,Bill,7681,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,04/03/2020,Expenditure,,No,Amazon Web Services,414747233,Devs Checking (7527),,0.60   
+,,,,No,,414747233,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,04/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,04/06/2020,Payment,,No,Self Interactive,,Devs Checking (7527),450.00   ,
+,,,,No,,,Accounts Receivable (A/R),,450.00   
+,,,,,,,,$450.00   ,$450.00   
+,,,,,,,,,
+,04/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+TOTAL,,,,,,,,"$97,964.82   ","$97,964.82   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Monday, Mar 02, 2020 08:01:02 PM GMT-8",,,,,,,,,
+"Saturday, Apr 11, 2020 09:30:24 AM GMT-7",,,,,,,,,
