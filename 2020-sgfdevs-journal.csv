@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January 1 - April 11, 2020",,,,,,,,,
+"January 1 - May 6, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1111,7 +1111,47 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,,Accounts Payable (A/P),20.00   ,
 ,,,,,,,,$20.00   ,$20.00   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$97,964.82   ","$97,964.82   "
+,04/08/2020,Bill,333,No,Brad Hill Design Group,,Accounts Payable (A/P),,"1,000.00   "
+,,,,No,,DEVS Event Website Responsive Design (Initial Payment 50%),Method:Method Design,"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,04/15/2020,Expenditure,,No,Meetup.com,Organizer Subscription 04/14-10/14,Devs Checking (7527),,98.94   
+,,,,No,,Organizer Subscription 04/14-10/14,Devs:Devs Software & Hosting,98.94   ,
+,,,,,,,,$98.94   ,$98.94   
+,,,,,,,,,
+,04/15/2020,Check,,No,Internal Revenue Service,,Devs Checking (7527),,600.00   
+,,,,No,,IRS Nonprofit 501(c)(6) Application Fee,Devs:Devs Taxes & Licenses,600.00   ,
+,,,,,,,,$600.00   ,$600.00   
+,,,,,,,,,
+,04/16/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,04/16/2020,Bill Payment (Check),,No,Brad Hill Design Group,,Devs Checking (7527),,"1,000.00   "
+,,,,No,,,Accounts Payable (A/P),"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,04/30/2020,Expenditure,,No,Name.com,sgfcovidsupport.org,Devs Checking (7527),,12.98   
+,,,,No,,sgfcovidsupport.org,Devs:Devs Software & Hosting,12.98   ,
+,,,,,,,,$12.98   ,$12.98   
+,,,,,,,,,
+,05/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,05/04/2020,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,0.60   
+,,,,No,,AMAZON WEB SERVICES DBT CRD 2025 05/03/20 DBEYSGV7,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,05/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,05/05/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+TOTAL,,,,,,,,"$100,757.34   ","$100,757.34   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Saturday, Apr 11, 2020 09:30:24 AM GMT-7",,,,,,,,,
+"Wednesday, May 06, 2020 08:30:25 AM GMT-7",,,,,,,,,

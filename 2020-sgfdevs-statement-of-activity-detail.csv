@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,
 Statement of Activity Detail,,,,,,,
-"January 1 - April 11, 2020",,,,,,,
+"January 1 - May 6, 2020",,,,,,,
 ,,,,,,,
 ,Date,Transaction Type,Num,Name,Memo/Description,Split,Amount
 Ordinary Revenue/Expenditures,,,,,,,
@@ -205,14 +205,22 @@ Credit Card Charge 3.5% $9.16",Accounts Payable (A/P),270.76
 ,04/01/2020,Bill,7681,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00   
 ,04/03/2020,Expenditure,,Amazon Web Services,414747233,Devs Checking (7527),0.60   
 ,04/05/2020,Bill,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
-         Total for Devs Software & Hosting,,,,,,,$419.85   
+,04/15/2020,Expenditure,,Meetup.com,Organizer Subscription 04/14-10/14,Devs Checking (7527),98.94   
+,04/30/2020,Expenditure,,Name.com,sgfcovidsupport.org,Devs Checking (7527),12.98   
+,05/01/2020,Bill,,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00   
+,05/04/2020,Expenditure,,Amazon Web Services,AMAZON WEB SERVICES DBT CRD 2025 05/03/20 DBEYSGV7,Devs Checking (7527),0.60   
+,05/05/2020,Bill,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
+         Total for Devs Software & Hosting,,,,,,,$572.37   
          Devs Sponsor Gifts,,,,,,,
 ,02/08/2020,Bill,162673,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (Sales Tax 8.10%),Accounts Payable (A/P),40.75   
 ,02/08/2020,Bill,162673,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (18@ $27.95),Accounts Payable (A/P),503.10   
 ,02/19/2020,Expenditure,163049,BJ's Trophy,"Founding Sponsor Plaque 1@ $27.95 + Tax
 Headline Productions",Devs Checking (7527),30.21   
          Total for Devs Sponsor Gifts,,,,,,,$574.06   
-      Total for Devs,,,,,,,"$1,513.14   "
+         Devs Taxes & Licenses,,,,,,,
+,04/15/2020,Check,,Internal Revenue Service,IRS Nonprofit 501(c)(6) Application Fee,Devs Checking (7527),600.00   
+         Total for Devs Taxes & Licenses,,,,,,,$600.00   
+      Total for Devs,,,,,,,"$2,265.66   "
       Method,,,,,,,
          Method Advertising,,,,,,,
 ,02/08/2020,Expenditure,7KVN6RAMM2,Facebook Ads,Event: Method Conference 2020 (3069 impressions),Devs Checking (7527),25.00   
@@ -221,74 +229,77 @@ Headline Productions",Devs Checking (7527),30.21
          Method Attendee Badges,,,,,,,
 ,02/08/2020,Expenditure,3300212,Amazon Shopping,"Mata1 Plastic Vertical ID Card Holder (Clear, 4x3 Inch, 250 Pack), Large Size No Zipper Name Badge",Devs Checking (7527),25.99   
 ,02/10/2020,Expenditure,119025,Raymond's Trophy & Awards,Pre-Printed Badge Ribbon 10 @ 0.19,Devs Checking (7527),1.90   
+,02/10/2020,Expenditure,119025,Raymond's Trophy & Awards,Pre-Printed Badge Ribbon 10 @ 0.19,Devs Checking (7527),1.90   
+,02/10/2020,Expenditure,119025,Raymond's Trophy & Awards,Pre-Printed Badge Ribbon 10 @ 0.19,Devs Checking (7527),1.90   
 ,02/10/2020,Expenditure,119025,Raymond's Trophy & Awards,Shipping,Devs Checking (7527),16.97   
-,02/10/2020,Expenditure,119025,Raymond's Trophy & Awards,Pre-Printed Badge Ribbon 10 @ 0.19,Devs Checking (7527),1.90   
-,02/10/2020,Expenditure,119025,Raymond's Trophy & Awards,Pre-Printed Badge Ribbon 10 @ 0.19,Devs Checking (7527),1.90   
          Total for Method Attendee Badges,,,,,,,$48.66   
          Method Attendee Bags,,,,,,,
-,02/13/2020,Expenditure,DM4034102,Discount Mugs,Screen Charge,Devs Checking (7527),49.00   
-,02/13/2020,Expenditure,DM4034102,Discount Mugs,Coupon Code,Devs Checking (7527),-50.00   
 ,02/13/2020,Expenditure,DM4034102,Discount Mugs,"Item 101WB Black, Front Side Imprint 130 @ 3.48",Devs Checking (7527),452.40   
+,02/13/2020,Expenditure,DM4034102,Discount Mugs,Coupon Code,Devs Checking (7527),-50.00   
+,02/13/2020,Expenditure,DM4034102,Discount Mugs,Screen Charge,Devs Checking (7527),49.00   
          Total for Method Attendee Bags,,,,,,,$451.40   
          Method Attendee Shirts,,,,,,,
-,02/10/2020,Bill,27817,Missouri Embroidery,Sales Tax $2101@ 8.10%,Accounts Payable (A/P),170.18   
-,02/10/2020,Bill,27817,Missouri Embroidery,Shipping from Manufacturer,Accounts Payable (A/P),15.00   
-,02/10/2020,Bill,27817,Missouri Embroidery,Upcharge - Size 3XL 6@ $5,Accounts Payable (A/P),30.00   
-,02/10/2020,Bill,27817,Missouri Embroidery,Upcharge - Size 2XL 14@ $3,Accounts Payable (A/P),42.00   
 ,02/10/2020,Bill,27817,Missouri Embroidery,Ink Change - 2 Colors  2@ $7,Accounts Payable (A/P),14.00   
-,02/10/2020,Bill,27817,Missouri Embroidery,Set up Fee *Waived 3rd Set Up Fee for placing 100+ Pieces* 2@ $25,Accounts Payable (A/P),50.00   
-,02/10/2020,Bill,27817,Missouri Embroidery,"8413 Bella + Canvas - Women's Triblend Short Sleeve Tee 16@ $15
-Solid Black Triblend: AS - 7, AM - 3, AL - 3, AXL - 1, A2XL - 2
-**Price includes Two Color front, 1 Color Back. Solid black triblend - Front is rojo red and white ink. Back is white ink",Accounts Payable (A/P),240.00   
+,02/10/2020,Bill,27817,Missouri Embroidery,Sales Tax $2101@ 8.10%,Accounts Payable (A/P),170.18   
 ,02/10/2020,Bill,27817,Missouri Embroidery,"3413 Bella + Canvas - Triblend Short Sleeve T-Shirt Solid 114@ $15
 Black Triblend: AS - 7, AM - 30, AL - 37, AXL - 18, A2XL - 9, A3XL - 5
 Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
 **Price includes Two Color front, 1 Color Back. Solid black triblend - Front is rojo red and white ink. Back is white ink. Red triblend - Front is white and black ink. Back is white ink.",Accounts Payable (A/P),"1,710.00   "
+,02/10/2020,Bill,27817,Missouri Embroidery,"8413 Bella + Canvas - Women's Triblend Short Sleeve Tee 16@ $15
+Solid Black Triblend: AS - 7, AM - 3, AL - 3, AXL - 1, A2XL - 2
+**Price includes Two Color front, 1 Color Back. Solid black triblend - Front is rojo red and white ink. Back is white ink",Accounts Payable (A/P),240.00   
+,02/10/2020,Bill,27817,Missouri Embroidery,Set up Fee *Waived 3rd Set Up Fee for placing 100+ Pieces* 2@ $25,Accounts Payable (A/P),50.00   
+,02/10/2020,Bill,27817,Missouri Embroidery,Upcharge - Size 2XL 14@ $3,Accounts Payable (A/P),42.00   
+,02/10/2020,Bill,27817,Missouri Embroidery,Upcharge - Size 3XL 6@ $5,Accounts Payable (A/P),30.00   
+,02/10/2020,Bill,27817,Missouri Embroidery,Shipping from Manufacturer,Accounts Payable (A/P),15.00   
          Total for Method Attendee Shirts,,,,,,,"$2,271.18   "
          Method Audio Visual,,,,,,,
-,02/19/2020,Bill,10196,Headline Productions,Equipment Crew,Accounts Payable (A/P),"1,800.00   "
 ,02/19/2020,Bill,10196,Headline Productions,"Equipment Rental, Replacement Cost $49,521",Accounts Payable (A/P),760.20   
+,02/19/2020,Bill,10196,Headline Productions,Equipment Crew,Accounts Payable (A/P),"1,800.00   "
+,02/26/2020,Expenditure,,Amazon Shopping,"Shipping, Deliver by Friday 02/28",Devs Checking (7527),0.00   
+,02/26/2020,Expenditure,,Amazon Shopping,Sales Tax,Devs Checking (7527),4.26   
 ,02/26/2020,Expenditure,,Amazon Shopping,"2 of REAL USA Professional Grade Gaffer Tape By Gaffer Power (2 Inches x 30 Yards, Black)",Devs Checking (7527),33.98   
 ,02/26/2020,Expenditure,,Amazon Shopping,2 of Cable Matters Snagless Cat6 Ethernet Cable (Cat6 Cable/Cat 6 Cable) in Black 75 Feet,Devs Checking (7527),37.98   
 ,02/26/2020,Expenditure,,Amazon Shopping,"1 of Cable Matters Snagless Cat6 Ethernet Cable (Cat6 Cable, Cat 6 Cable) in Black 50 Feet",Devs Checking (7527),12.99   
 ,02/26/2020,Expenditure,,Amazon Shopping,2 of Cable Matters Snagless Cat6 Ethernet Cable (Cat6 Cable/Cat 6 Cable) in Black 25,Devs Checking (7527),15.98   
-,02/26/2020,Expenditure,,Amazon Shopping,"Shipping, Deliver by Friday 02/28",Devs Checking (7527),0.00   
-,02/26/2020,Expenditure,,Amazon Shopping,Sales Tax,Devs Checking (7527),4.26   
          Total for Method Audio Visual,,,,,,,"$2,665.39   "
+         Method Design,,,,,,,
+,04/08/2020,Bill,333,Brad Hill Design Group,DEVS Event Website Responsive Design (Initial Payment 50%),Accounts Payable (A/P),"1,000.00   "
+         Total for Method Design,,,,,,,"$1,000.00   "
          Method Door Prizes,,,,,,,
 ,02/21/2020,Expenditure,,Michael's Arts and Crafts,CEL BSK BUSHEL H 1915181116052  3@ 12.99 + TAX,Devs Checking (7527),42.13   
 ,02/22/2020,Expenditure,,Walmart,CC Sinl Coff  1 @ 6.48,Devs Checking (7527),6.48   
 ,02/22/2020,Expenditure,,Walmart,FS KT  5 @ 1.64,Devs Checking (7527),8.20   
-,02/22/2020,Expenditure,,Walmart,Land Coffee  4 @ 1.48,Devs Checking (7527),5.92   
-,02/22/2020,Expenditure,,Walmart,Sales Tax 8.10%,Devs Checking (7527),1.83   
-,02/22/2020,Expenditure,,Walmart,Sales Tax 5.10%,Devs Checking (7527),1.24   
-,02/22/2020,Expenditure,,Walmart,Fever Tree  2 @ 5.98,Devs Checking (7527),11.96   
-,02/22/2020,Expenditure,,Walmart,Flour Sack  1 @ 4.47,Devs Checking (7527),4.47   
 ,02/22/2020,Expenditure,,Walmart,Drinkware  2 @ 4.96,Devs Checking (7527),9.92   
+,02/22/2020,Expenditure,,Walmart,Sales Tax 8.10%,Devs Checking (7527),1.83   
+,02/22/2020,Expenditure,,Walmart,Flour Sack  1 @ 4.47,Devs Checking (7527),4.47   
+,02/22/2020,Expenditure,,Walmart,Fever Tree  2 @ 5.98,Devs Checking (7527),11.96   
+,02/22/2020,Expenditure,,Walmart,Land Coffee  4 @ 1.48,Devs Checking (7527),5.92   
+,02/22/2020,Expenditure,,Walmart,Sales Tax 5.10%,Devs Checking (7527),1.24   
 ,02/23/2020,Deposit,,Walmart,RETURNED ITEMS,Devs Checking (7527),-10.72   
+,02/27/2020,Expenditure,2343429,Amazon Shopping,2 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),100.00   
 ,02/27/2020,Expenditure,4401039-2,Amazon Shopping,"1 of: GPS Drone, DROCON 5G WiFi FPV Drone",Devs Checking (7527),169.99   
 ,02/27/2020,Expenditure,4401039-1,Amazon Shopping,Anker Soundcore Life Q20 Hybrid Active Noise Cancelling Headphones,Devs Checking (7527),59.99   
 ,02/27/2020,Expenditure,4401039-1,Amazon Shopping,"3 of: Yootech Wireless Charger, [2 Pack] Qi-Certified 10W",Devs Checking (7527),74.97   
 ,02/27/2020,Expenditure,4401039-1,Amazon Shopping,"1 of: YETI Rambler 14 oz Stainless Steel Vacuum Insulated Mug with Lid, Brick Red",Devs Checking (7527),24.99   
 ,02/27/2020,Expenditure,4401039-1,Amazon Shopping,"2 of: Audio-Technica ATH-M50xBT Wireless Bluetooth Over-Ear Headphones, Black",Devs Checking (7527),358.00   
 ,02/27/2020,Expenditure,4401039-1,Amazon Shopping,Coupon,Devs Checking (7527),-12.00   
-,02/27/2020,Expenditure,4401039-1,Amazon Shopping,Sales Tax,Devs Checking (7527),30.59   
 ,02/27/2020,Expenditure,8997855,Amazon Shopping,"1 of: Ember Temperature Control Smart Mug, 10 oz",Devs Checking (7527),79.94   
-,02/27/2020,Expenditure,2343429,Amazon Shopping,2 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),100.00   
+,02/27/2020,Expenditure,4401039-1,Amazon Shopping,Sales Tax,Devs Checking (7527),30.59   
 ,03/02/2020,Deposit,,Amazon Shopping,Partial Refund,Devs Checking (7527),-6.26   
          Total for Method Door Prizes,,,,,,,$961.64   
          Method Facilities & Catering,,,,,,,
-,02/26/2020,Bill,,Diamond Room / Simply Delicious,Credit for Deposit Received,Accounts Payable (A/P),-500.00   
-,02/26/2020,Bill,,Diamond Room / Simply Delicious,Sales Tax 8.1%,Accounts Payable (A/P),338.99   
 ,02/26/2020,Bill,,Diamond Room / Simply Delicious,Room Rental,Accounts Payable (A/P),"1,000.00   "
+,02/26/2020,Bill,,Diamond Room / Simply Delicious,Sales Tax 8.1%,Accounts Payable (A/P),338.99   
+,02/26/2020,Bill,,Diamond Room / Simply Delicious,Credit for Deposit Received,Accounts Payable (A/P),-500.00   
 ,02/26/2020,Bill,,Diamond Room / Simply Delicious,"Morning Pastries and Fruit, Taco Station Lunch, Evening Charcuterie Station ($24.50/person x 130)",Accounts Payable (A/P),"3,185.00   "
-,02/29/2020,Expenditure,550835,Walmart,Lemons x6,Devs Checking (7527),3.24   
-,02/29/2020,Expenditure,550835,Walmart,Limes x6,Devs Checking (7527),2.64   
-,02/29/2020,Expenditure,550835,Walmart,Coke x2,Devs Checking (7527),5.00   
-,02/29/2020,Expenditure,550835,Walmart,SC 20oz 12pk,Devs Checking (7527),2.64   
 ,02/29/2020,Expenditure,550835,Walmart,Ice 10lb,Devs Checking (7527),2.00   
-,02/29/2020,Expenditure,550835,Walmart,Sales Tax 5.10%,Devs Checking (7527),0.79   
 ,02/29/2020,Expenditure,550835,Walmart,Sales Tax 8.10%,Devs Checking (7527),0.39   
+,02/29/2020,Expenditure,550835,Walmart,Sales Tax 5.10%,Devs Checking (7527),0.79   
+,02/29/2020,Expenditure,550835,Walmart,SC 20oz 12pk,Devs Checking (7527),2.64   
+,02/29/2020,Expenditure,550835,Walmart,Limes x6,Devs Checking (7527),2.64   
+,02/29/2020,Expenditure,550835,Walmart,Lemons x6,Devs Checking (7527),3.24   
+,02/29/2020,Expenditure,550835,Walmart,Coke x2,Devs Checking (7527),5.00   
 ,03/05/2020,Bill,,Diamond Room / Simply Delicious,Bar Gratuity for Method Conference ($523 at 19.12%),Accounts Payable (A/P),100.00   
 ,03/05/2020,Bill,,Diamond Room / Simply Delicious,Food Gratuity for Method Conference ($3185 at 19.17%),Accounts Payable (A/P),610.65   
 ,03/06/2020,Bill,,Diamond Room / Simply Delicious,Hosted Bar,Accounts Payable (A/P),523.00   
@@ -298,8 +309,8 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
 ,01/27/2020,Expenditure,,QuickBooks Payments,Mostly Serious (2.9% + 0.25),Devs Checking (7527),26.35   
 ,01/27/2020,Expenditure,,QuickBooks Payments,Gravitate Solutions (2.9% + 0.25),Devs Checking (7527),52.45   
 ,01/27/2020,Expenditure,,QuickBooks Payments,Added Innovation (2.9% + 0.25),Devs Checking (7527),52.45   
-,02/19/2020,Expenditure,,QuickBooks Payments,Mycra Therapy (2.9% + 0.25),Devs Checking (7527),13.30   
 ,02/19/2020,Expenditure,,QuickBooks Payments,Code Scientists (1% max $10),Devs Checking (7527),10.00   
+,02/19/2020,Expenditure,,QuickBooks Payments,Mycra Therapy (2.9% + 0.25),Devs Checking (7527),13.30   
          Total for Method Payment Fees (Intuit),,,,,,,$154.55   
          Method Payment Fees (PayPal),,,,,,,
 ,02/19/2020,Bill,,PayPal Payment Fees,Katie Womersley Payment Processing Fee,Accounts Payable (A/P),4.99   
@@ -325,36 +336,36 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
          Total for Method Payment Fees (Stripe),,,,,,,$170.25   
          Method Print Materials,,,,,,,
 ,02/21/2020,Expenditure,698456,First Impressions Printing,Print Materials Deposit,Devs Checking (7527),200.00   
-,02/28/2020,Expenditure,430970,First Impressions Printing,Sales Tax,Devs Checking (7527),38.62   
-,02/28/2020,Expenditure,430970,First Impressions Printing,Method Flat Note Card 4x6  x150,Devs Checking (7527),35.03   
 ,02/28/2020,Expenditure,430970,First Impressions Printing,Method Folded Note Cards x50,Devs Checking (7527),46.77   
 ,02/28/2020,Expenditure,430970,First Impressions Printing,Method Podium Sign Foam Core,Devs Checking (7527),37.34   
 ,02/28/2020,Expenditure,430970,First Impressions Printing,Method Retractable Banner 1 Sided w/ Stand and Carry Bag,Devs Checking (7527),172.49   
-,02/28/2020,Expenditure,430970,First Impressions Printing,Creative for Conference Materials,Devs Checking (7527),180.26   
+,02/28/2020,Expenditure,430970,First Impressions Printing,Sales Tax,Devs Checking (7527),38.62   
 ,02/28/2020,Expenditure,430970,First Impressions Printing,Print Materials Deposit,Devs Checking (7527),-200.00   
 ,02/28/2020,Expenditure,430970,First Impressions Printing,Blank Envelopes for Folded Note Cards x50,Devs Checking (7527),4.84   
+,02/28/2020,Expenditure,430970,First Impressions Printing,Method Flat Note Card 4x6  x150,Devs Checking (7527),35.03   
+,02/28/2020,Expenditure,430970,First Impressions Printing,Creative for Conference Materials,Devs Checking (7527),180.26   
 ,02/29/2020,Expenditure,550835,Walmart,Cmnd Pic Hng x2,Devs Checking (7527),4.76   
          Total for Method Print Materials,,,,,,,$520.11   
          Method Speaker Dinner,,,,,,,
-,03/04/2020,Expenditure,,Houlihans Restaurant,Gratuity (~19.5% of ~$400),Devs Checking (7527),78.00   
 ,03/04/2020,Expenditure,,Houlihans Restaurant,"Food, Drinks, Sales Tax",Devs Checking (7527),433.41   
+,03/04/2020,Expenditure,,Houlihans Restaurant,Gratuity (~19.5% of ~$400),Devs Checking (7527),78.00   
          Total for Method Speaker Dinner,,,,,,,$511.41   
          Method Speaker Gifts,,,,,,,
-,02/20/2020,Expenditure,,Askinosie Chocolate LLC,Itty Bar Zamora Amazonia  31@ $0.85 + Tax,Devs Checking (7527),30.87   
 ,02/20/2020,Expenditure,,Chabom Teas and Spices,Detail Not Provided,Devs Checking (7527),68.58   
+,02/20/2020,Expenditure,,Askinosie Chocolate LLC,Itty Bar Zamora Amazonia  31@ $0.85 + Tax,Devs Checking (7527),30.87   
 ,02/22/2020,Expenditure,477011,Amazon Shopping,Sales Tax,Devs Checking (7527),1.96   
-,02/22/2020,Expenditure,477011,Amazon Shopping,"1 of: The Gift Wrap Company 4832-03 Decorative Confetti Bows, Large, Red Metallic",Devs Checking (7527),12.63   
-,02/22/2020,Expenditure,477011,Amazon Shopping,7 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),350.00   
 ,02/22/2020,Expenditure,477011,Amazon Shopping,3 of: Uber Gift Card $100,Devs Checking (7527),300.00   
+,02/22/2020,Expenditure,477011,Amazon Shopping,7 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),350.00   
+,02/22/2020,Expenditure,477011,Amazon Shopping,"1 of: The Gift Wrap Company 4832-03 Decorative Confetti Bows, Large, Red Metallic",Devs Checking (7527),12.63   
 ,02/22/2020,Expenditure,477011,Amazon Shopping,"1 of: The Gift Wrap Company Decorative Confetti Gift Bows, Large, Black, pack of 12",Devs Checking (7527),11.58   
 ,02/24/2020,Deposit,,Amazon Shopping,Adjustment,Devs Checking (7527),-0.04   
 ,02/29/2020,Expenditure,550835,Walmart,Stamp Book x20 Stamps,Devs Checking (7527),11.00   
          Total for Method Speaker Gifts,,,,,,,$786.58   
          Method Speaker Travel,,,,,,,
-,02/13/2020,Bill,,Randy Walker,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
-,02/13/2020,Bill,,Sam Basu,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
 ,02/13/2020,Bill,,Katie Womersley,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),"1,600.00   "
 ,02/13/2020,Bill,,Erika Gerdes,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),717.00   
+,02/13/2020,Bill,,Sam Basu,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
+,02/13/2020,Bill,,Randy Walker,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
 ,03/11/2020,Bill,271567A,Hilton Garden Inn Springfield,Hotel Rooms for Method Conf Speakers - 8 nights @ 143.77 (126 guest room + 6.30 occupancy tax + 11.47 state tax),Accounts Payable (A/P),"1,150.16   "
          Total for Method Speaker Travel,,,,,,,"$4,367.16   "
          Method Ticket Fees,,,,,,,
@@ -376,9 +387,9 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
 ,02/23/2020,Expenditure,,Stripe Payments,Tito 320 @ 3%,Devs Stripe,9.60   
 ,03/06/2020,Expenditure,,Stripe Payments,Tito 100 @ 3%,Devs Stripe,3.00   
          Total for Method Ticket Fees,,,,,,,$156.91   
-      Total for Method,,,,,,,"$18,418.30   "
-   Total for Expenditures,,,,,,,"$19,931.44   "
-Net Revenue,,,,,,,"$2,273.56   "
+      Total for Method,,,,,,,"$19,418.30   "
+   Total for Expenditures,,,,,,,"$21,683.96   "
+Net Revenue,,,,,,,$521.04   
 ,,,,,,,
 ,,,,,,,
-"Saturday, Apr 11, 2020 09:37:00 AM GMT-7 - Accrual Basis",,,,,,,
+"Wednesday, May 06, 2020 08:34:14 AM GMT-7 - Accrual Basis",,,,,,,
