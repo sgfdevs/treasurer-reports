@@ -1,108 +1,109 @@
 Springfield Devs,,,,,,,,
 Transaction Detail by  Account,,,,,,,,
-"January 1 - May 6, 2020",,,,,,,,
+"January - May, 2020",,,,,,,,
 ,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Split,Amount
 Devs Checking (7527),,,,,,,,
-,01/03/2020,Deposit,,No,Vault Innovation Group,System-recorded deposit for QuickBooks Payments,Undeposited Funds,500.00   
-,01/03/2020,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-0.59   
 ,01/03/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-14.75   
+,01/03/2020,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-0.59   
+,01/03/2020,Deposit,,No,Vault Innovation Group,System-recorded deposit for QuickBooks Payments,Undeposited Funds,500.00   
 ,01/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00   
 ,01/07/2020,Bill Payment (Check),,No,Missouri Embroidery,,Accounts Payable (A/P),-270.76   
+,01/10/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-15.73   
+,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
+,01/10/2020,Expenditure,,No,Pizza Hut (Grant),Dev Night January 2020,Devs:Devs Member Meals,-186.79   
 ,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
 ,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-36.00   
-,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
-,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
-,01/10/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-15.73   
-,01/10/2020,Expenditure,,No,Pizza Hut (Grant),Dev Night January 2020,Devs:Devs Member Meals,-186.79   
 ,01/10/2020,Deposit,,No,,System-recorded deposit for QuickBooks Payments,-Split-,525.00   
-,01/15/2020,Bill Payment (Check),BILL PAY 011,No,Pillar Insurance Springfield,CP0950895,Accounts Payable (A/P),"-1,079.00   "
+,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
 ,01/15/2020,Expenditure,,No,Stripe Payments,Payout (810 - 70 refund),Devs Stripe,688.00   
+,01/15/2020,Bill Payment (Check),BILL PAY 011,No,Pillar Insurance Springfield,CP0950895,Accounts Payable (A/P),"-1,079.00   "
 ,01/16/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,93.80   
 ,01/17/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,46.75   
 ,01/27/2020,Payment,,No,Hearo Technologies,Mobile Deposit Myke Bates,Accounts Receivable (A/R),675.00   
-,01/27/2020,Deposit,,No,,System-recorded deposit for QuickBooks Payments,-Split-,"5,000.00   "
 ,01/27/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",-Split-,-146.00   
+,01/27/2020,Deposit,,No,,System-recorded deposit for QuickBooks Payments,-Split-,"5,000.00   "
 ,01/28/2020,Deposit,,No,"Code Scientists, LLC",System-recorded deposit for QuickBooks Payments,Undeposited Funds,500.00   
 ,01/28/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-14.75   
 ,01/30/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,93.80   
-,02/03/2020,Expenditure,386095465,No,Amazon Web Services,,Devs:Devs Software & Hosting,-0.59   
 ,02/03/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,93.80   
+,02/03/2020,Expenditure,386095465,No,Amazon Web Services,,Devs:Devs Software & Hosting,-0.59   
 ,02/04/2020,Deposit,,No,Austin Story,System-recorded deposit for QuickBooks Payments,Undeposited Funds,50.00   
-,02/04/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-1.70   
 ,02/04/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,196.71   
+,02/04/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-1.70   
 ,02/05/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,338.15   
 ,02/06/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,112.32   
-,02/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00   
 ,02/06/2020,Expenditure,15662137,No,Name.com,"Domain Renewals (sgf.dev, springfield.dev)",-Split-,-232.48   
-,02/08/2020,Expenditure,7KVN6RAMM2,No,Facebook Ads,,Method:Method Advertising,-25.00   
+,02/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00   
 ,02/08/2020,Expenditure,3300212,No,Amazon Shopping,,Method:Method Attendee Badges,-25.99   
+,02/08/2020,Expenditure,7KVN6RAMM2,No,Facebook Ads,,Method:Method Advertising,-25.00   
 ,02/09/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,394.33   
 ,02/10/2020,Expenditure,119025,No,Raymond's Trophy & Awards,,-Split-,-22.67   
 ,02/10/2020,Payment,,No,"Hoffmann & Baron, LLP",,Accounts Receivable (A/R),500.00   
 ,02/11/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,300.23   
 ,02/13/2020,Expenditure,DM4034102,No,Discount Mugs,,-Split-,-451.40   
 ,02/13/2020,Expenditure,,No,Stripe Payments,Payout ($500 - $30 refund),Devs Stripe,439.59   
-,02/14/2020,Payment,,No,O'Reilly Auto Parts,Mobile Deposit by Myke Bates,Accounts Receivable (A/R),"1,400.00   "
 ,02/14/2020,Payment,,No,Mayhem Development,Mobile Deposit by Myke Bates,Accounts Receivable (A/R),"1,000.00   "
+,02/14/2020,Payment,,No,O'Reilly Auto Parts,Mobile Deposit by Myke Bates,Accounts Receivable (A/R),"1,400.00   "
 ,02/17/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,93.50   
 ,02/18/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,187.30   
 ,02/18/2020,Payment,,No,"Hoffmann & Baron, LLP",Remote Deposit by Myke Bates,Accounts Receivable (A/R),500.00   
-,02/19/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,562.52   
-,02/19/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",-Split-,-23.30   
-,02/19/2020,Transfer,,No,,,Devs PayPal,-450.00   
 ,02/19/2020,Deposit,,No,,System-recorded deposit for QuickBooks Payments,-Split-,"4,950.00   "
+,02/19/2020,Transfer,,No,,,Devs PayPal,-450.00   
+,02/19/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,562.52   
 ,02/19/2020,Expenditure,163049,No,BJ's Trophy,,Devs:Devs Sponsor Gifts,-30.21   
-,02/20/2020,Expenditure,,No,Chabom Teas and Spices,,Method:Method Speaker Gifts,-68.58   
-,02/20/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,768.62   
-,02/20/2020,Expenditure,,No,Askinosie Chocolate LLC,,Method:Method Speaker Gifts,-30.87   
-,02/20/2020,Transfer,,No,,,Devs PayPal,"-1,604.99   "
+,02/19/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",-Split-,-23.30   
 ,02/20/2020,Bill Payment (Check),,No,BJ's Trophy,,Accounts Payable (A/P),-543.85   
+,02/20/2020,Expenditure,,No,Chabom Teas and Spices,,Method:Method Speaker Gifts,-68.58   
+,02/20/2020,Expenditure,,No,Askinosie Chocolate LLC,,Method:Method Speaker Gifts,-30.87   
+,02/20/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,768.62   
+,02/20/2020,Transfer,,No,,,Devs PayPal,"-1,604.99   "
 ,02/21/2020,Expenditure,,No,Michael's Arts and Crafts,,Method:Method Door Prizes,-42.13   
 ,02/21/2020,Expenditure,698456,No,First Impressions Printing,,Method:Method Print Materials,-200.00   
-,02/22/2020,Expenditure,477011,No,Amazon Shopping,,-Split-,-676.17   
 ,02/22/2020,Expenditure,,No,Walmart,,-Split-,-50.02   
-,02/23/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,299.62   
+,02/22/2020,Expenditure,477011,No,Amazon Shopping,,-Split-,-676.17   
 ,02/23/2020,Deposit,,No,Walmart,,Method:Method Door Prizes,10.72   
-,02/24/2020,Payment,,No,Volt Credit Union,,Accounts Receivable (A/R),750.00   
+,02/23/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,299.62   
 ,02/24/2020,Deposit,,No,Amazon Shopping,,Method:Method Speaker Gifts,0.04   
-,02/25/2020,Expenditure,,No,Google Developer Program,Google Developer Registration Fee,Devs:Devs Software & Hosting,-25.00   
+,02/24/2020,Payment,,No,Volt Credit Union,,Accounts Receivable (A/R),750.00   
 ,02/25/2020,Bill Payment (Check),BILLPAY 13,No,Erika Gerdes,,Accounts Payable (A/P),-717.00   
+,02/25/2020,Expenditure,,No,Google Developer Program,Google Developer Registration Fee,Devs:Devs Software & Hosting,-25.00   
 ,02/25/2020,Bill Payment (Check),BILLPAY,No,Headline Productions,,Accounts Payable (A/P),"-1,280.10   "
 ,02/26/2020,Expenditure,,No,Amazon Shopping,Method Conference Network Cables/Tape,-Split-,-105.19   
 ,02/26/2020,Bill Payment (Check),BILL PAY,No,Diamond Room / Simply Delicious,,Accounts Payable (A/P),"-4,023.99   "
-,02/27/2020,Expenditure,2343429,No,Amazon Shopping,,Method:Method Door Prizes,-100.00   
+,02/27/2020,Expenditure,8997855,No,Amazon Shopping,,Method:Method Door Prizes,-79.94   
 ,02/27/2020,Expenditure,4401039-2,No,Amazon Shopping,,Method:Method Door Prizes,-169.99   
 ,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,,-Split-,-536.54   
-,02/27/2020,Expenditure,8997855,No,Amazon Shopping,,Method:Method Door Prizes,-79.94   
-,02/28/2020,Payment,,No,Marlin Network,,Accounts Receivable (A/R),500.00   
+,02/27/2020,Expenditure,2343429,No,Amazon Shopping,,Method:Method Door Prizes,-100.00   
 ,02/28/2020,Payment,,No,Marlin Network,,Accounts Receivable (A/R),450.00   
+,02/28/2020,Payment,,No,Marlin Network,,Accounts Receivable (A/R),500.00   
 ,02/28/2020,Expenditure,430970,No,First Impressions Printing,,-Split-,-315.35   
 ,02/29/2020,Expenditure,550835,No,Walmart,,-Split-,-32.46   
 ,03/01/2020,Bill Payment (Check),BILL PAY,No,Missouri Embroidery,,Accounts Payable (A/P),"-2,271.18   "
-,03/02/2020,Bill Payment (Check),AUTO,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-40.00   
-,03/02/2020,Deposit,,No,Amazon Shopping,Partial Refund,Method:Method Door Prizes,6.26   
 ,03/02/2020,Bill Payment (Check),BILL PAY,No,Randy Walker,,Accounts Payable (A/P),-450.00   
 ,03/02/2020,Bill Payment (Check),,No,Facebook Ads,,Accounts Payable (A/P),-6.37   
+,03/02/2020,Deposit,,No,Amazon Shopping,Partial Refund,Method:Method Door Prizes,6.26   
+,03/02/2020,Bill Payment (Check),AUTO,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-40.00   
 ,03/03/2020,Expenditure,,No,Amazon Web Services,398900485,Devs:Devs Software & Hosting,-0.59   
 ,03/04/2020,Expenditure,,No,Houlihans Restaurant,Speaker Dinner for Method Conference,-Split-,-511.41   
 ,03/06/2020,Expenditure,,No,Stripe Payments,Payout,Devs Stripe,93.80   
 ,03/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00   
-,03/09/2020,Bill Payment (Check),BILL PAY,No,Headline Productions,,Accounts Payable (A/P),"-1,280.10   "
 ,03/09/2020,Bill Payment (Check),BILL PAY,No,Diamond Room / Simply Delicious,,Accounts Payable (A/P),"-1,276.01   "
+,03/09/2020,Bill Payment (Check),BILL PAY,No,Headline Productions,,Accounts Payable (A/P),"-1,280.10   "
 ,03/12/2020,Bill Payment (Check),,No,Hilton Garden Inn Springfield,,Accounts Payable (A/P),"-1,150.16   "
 ,03/25/2020,Payment,,No,World Wide Technology,,Accounts Receivable (A/R),900.00   
 ,04/03/2020,Expenditure,,No,Amazon Web Services,414747233,Devs:Devs Software & Hosting,-0.60   
 ,04/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00   
 ,04/06/2020,Payment,,No,Self Interactive,,Accounts Receivable (A/R),450.00   
-,04/15/2020,Expenditure,,No,Meetup.com,Organizer Subscription 04/14-10/14,Devs:Devs Software & Hosting,-98.94   
 ,04/15/2020,Check,,No,Internal Revenue Service,,Devs:Devs Taxes & Licenses,-600.00   
-,04/16/2020,Bill Payment (Check),,No,Brad Hill Design Group,,Accounts Payable (A/P),"-1,000.00   "
+,04/15/2020,Expenditure,,No,Meetup.com,Organizer Subscription 04/14-10/14,Devs:Devs Software & Hosting,-98.94   
 ,04/16/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
+,04/16/2020,Bill Payment (Check),,No,Brad Hill Design Group,,Accounts Payable (A/P),"-1,000.00   "
 ,04/30/2020,Expenditure,,No,Name.com,sgfcovidsupport.org,Devs:Devs Software & Hosting,-12.98   
 ,05/04/2020,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-0.60   
 ,05/05/2020,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00   
-Total for Devs Checking (7527),,,,,,,,$961.04   
+,05/07/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00   
+Total for Devs Checking (7527),,,,,,,,$941.04   
 Devs PayPal,,,,,,,,
 ,02/19/2020,Bill Payment (Check),PAYPAL 039W,No,Katie Womersley,,Accounts Payable (A/P),"-1,600.00   "
 ,02/19/2020,Bill Payment (Check),PAYPAL 040W,No,PayPal Payment Fees,,Accounts Payable (A/P),-4.99   
@@ -111,19 +112,19 @@ Devs PayPal,,,,,,,,
 ,02/20/2020,Transfer,,No,,,Devs Checking (7527),"1,604.99   "
 Total for Devs PayPal,,,,,,,,$0.00   
 Devs Stripe,,,,,,,,
+,01/08/2020,Receipt,1076,No,Benjamin Stange,,Method Revenue:Method Tickets,50.00   
+,01/08/2020,Receipt,1087,No,Mark Stepp,,Method Revenue:Method Tickets,50.00   
+,01/08/2020,Receipt,1081,No,Frederick Lawler,,Method Revenue:Method Tickets,0.00   
+,01/08/2020,Receipt,1078,No,Kimberly Myers,,Method Revenue:Method Tickets,100.00   
+,01/08/2020,Receipt,1088,No,Matt Johnson,,Method Revenue:Method Tickets,50.00   
+,01/08/2020,Receipt,1085,No,David Hamilton,,Method Revenue:Method Tickets,0.00   
+,01/08/2020,Receipt,1077,No,David Schlum,,Method Revenue:Method Tickets,50.00   
 ,01/08/2020,Receipt,1082,No,David Hahn,,Method Revenue:Method Tickets,50.00   
 ,01/08/2020,Receipt,1086,No,David Alger,,Method Revenue:Method Tickets,50.00   
-,01/08/2020,Receipt,1077,No,David Schlum,,Method Revenue:Method Tickets,50.00   
-,01/08/2020,Receipt,1076,No,Benjamin Stange,,Method Revenue:Method Tickets,50.00   
 ,01/08/2020,Receipt,1079,No,Erik Hansen,,-Split-,100.00   
 ,01/08/2020,Receipt,1080,No,Thomas Rankin,,Method Revenue:Method Tickets,0.00   
 ,01/08/2020,Receipt,1083,No,Keith Davis,,Method Revenue:Method Tickets,50.00   
 ,01/08/2020,Receipt,1084,No,Kevin Kirchner,,Method Revenue:Method Tickets,50.00   
-,01/08/2020,Receipt,1088,No,Matt Johnson,,Method Revenue:Method Tickets,50.00   
-,01/08/2020,Receipt,1078,No,Kimberly Myers,,Method Revenue:Method Tickets,100.00   
-,01/08/2020,Receipt,1081,No,Frederick Lawler,,Method Revenue:Method Tickets,0.00   
-,01/08/2020,Receipt,1085,No,David Hamilton,,Method Revenue:Method Tickets,0.00   
-,01/08/2020,Receipt,1087,No,Mark Stepp,,Method Revenue:Method Tickets,50.00   
 ,01/09/2020,Receipt,1089,No,Rich Clingman,,Method Revenue:Method Tickets,70.00   
 ,01/13/2020,Receipt,1090,No,Mike Copanos,,Method Revenue:Method Tickets,70.00   
 ,01/14/2020,Receipt,1091,No,Kevin Williams,,Method Revenue:Method Tickets,100.00   
@@ -133,24 +134,24 @@ Devs Stripe,,,,,,,,
 ,01/17/2020,Expenditure,,No,Stripe Payments,,-Split-,-50.00   
 ,01/27/2020,Receipt,1094,No,Shawna Baron,,Method Revenue:Method Tickets,0.00   
 ,01/28/2020,Receipt,1095,No,Christopher Wilding,,Method Revenue:Method Tickets,100.00   
-,01/30/2020,Expenditure,,No,Stripe Payments,,-Split-,-100.00   
 ,01/30/2020,Receipt,1096,No,Katie Kensinger,,Method Revenue:Method Tickets,100.00   
+,01/30/2020,Expenditure,,No,Stripe Payments,,-Split-,-100.00   
 ,01/30/2020,Receipt,1097,No,Ruby Fleener,,Method Revenue:Method Tickets,0.00   
 ,01/31/2020,Receipt,1098,No,Melisa Hamilton,,Method Revenue:Method Tickets,0.00   
-,02/03/2020,Receipt,1100,No,Daniel Chilton,,Method Revenue:Method Tickets,70.00   
+,02/03/2020,Receipt,1101,No,Landon Lewis,,Method Revenue:Method Tickets,70.00   
 ,02/03/2020,Receipt,1099,No,Kalin Bowden,,Method Revenue:Method Tickets,70.00   
 ,02/03/2020,Expenditure,,No,Stripe Payments,,-Split-,-100.00   
-,02/03/2020,Receipt,1101,No,Landon Lewis,,Method Revenue:Method Tickets,70.00   
+,02/03/2020,Receipt,1100,No,Daniel Chilton,,Method Revenue:Method Tickets,70.00   
 ,02/04/2020,Expenditure,,No,Stripe Payments,,-Split-,-210.00   
 ,02/04/2020,Receipt,1109,No,Levi Zitting,,Method Revenue:Method Tickets,60.00   
 ,02/04/2020,Receipt,1110,No,Justin Wells,,-Split-,300.00   
-,02/05/2020,Expenditure,,No,Stripe Payments,,-Split-,-360.00   
-,02/05/2020,Receipt,1112,No,Jonathan Mann,,Method Revenue:Method Tickets,70.00   
 ,02/05/2020,Receipt,1111,No,Kendall Roberts,,Method Revenue:Method Tickets,50.00   
-,02/06/2020,Expenditure,,No,Stripe Payments,,-Split-,-120.00   
+,02/05/2020,Receipt,1112,No,Jonathan Mann,,Method Revenue:Method Tickets,70.00   
+,02/05/2020,Expenditure,,No,Stripe Payments,,-Split-,-360.00   
 ,02/06/2020,Receipt,1115,No,Benjamin Ellis,,-Split-,280.00   
 ,02/06/2020,Receipt,1114,No,Mike Andrews,,Method Revenue:Method Tickets,70.00   
 ,02/06/2020,Receipt,1113,No,Chad Killingsworth,,Method Revenue:Method Tickets,70.00   
+,02/06/2020,Expenditure,,No,Stripe Payments,,-Split-,-120.00   
 ,02/08/2020,Receipt,1116,No,Christopher Baunach,,Method Revenue:Method Tickets,50.00   
 ,02/09/2020,Receipt,1117,No,Shawna Baron,,Method Revenue:Method Tickets,0.00   
 ,02/09/2020,Expenditure,,No,Stripe Payments,,-Split-,-420.00   
@@ -160,67 +161,67 @@ Devs Stripe,,,,,,,,
 ,02/12/2020,Receipt,1122,No,Volt Credit Union,,Method Revenue:Method Tickets,50.00   
 ,02/12/2020,Receipt,1120,No,Charles Hicks,,-Split-,70.00   
 ,02/12/2020,Receipt,1121,No,Otto Borchert,,-Split-,350.00   
-,02/13/2020,Receipt,1125,No,Jordan Gilmore,,Method Revenue:Method Tickets,50.00   
-,02/13/2020,Receipt,1124,No,Jared Carpenter,,Method Revenue:Method Tickets,50.00   
-,02/13/2020,Receipt,1123,No,Ben Pomerenke,,Method Revenue:Method Tickets,50.00   
 ,02/13/2020,Expenditure,,No,Stripe Payments,,-Split-,-470.00   
-,02/14/2020,Receipt,1127,No,Otto Borchert,,-Split-,100.00   
+,02/13/2020,Receipt,1123,No,Ben Pomerenke,,Method Revenue:Method Tickets,50.00   
+,02/13/2020,Receipt,1124,No,Jared Carpenter,,Method Revenue:Method Tickets,50.00   
+,02/13/2020,Receipt,1125,No,Jordan Gilmore,,Method Revenue:Method Tickets,50.00   
 ,02/14/2020,Receipt,1126,No,Landon Lewis,,Method Revenue:Method Tickets,50.00   
+,02/14/2020,Receipt,1127,No,Otto Borchert,,-Split-,100.00   
 ,02/15/2020,Receipt,1128,No,Levi Zitting,,Method Revenue:Method Tickets,0.00   
-,02/16/2020,Receipt,1130,No,Myke Bates,,Method Revenue:Method Tickets,0.00   
-,02/16/2020,Receipt,1129,No,Self Interactive,,Method Revenue:Method Tickets,0.00   
 ,02/16/2020,Receipt,1132,No,Jason Amschler,,Method Revenue:Method Tickets,0.00   
+,02/16/2020,Receipt,1129,No,Self Interactive,,Method Revenue:Method Tickets,0.00   
+,02/16/2020,Receipt,1130,No,Myke Bates,,Method Revenue:Method Tickets,0.00   
 ,02/16/2020,Receipt,1131,No,Logic Forte,,Method Revenue:Method Tickets,0.00   
+,02/17/2020,Expenditure,,No,Stripe Payments,,-Split-,-100.00   
 ,02/17/2020,Receipt,1136,No,Melissa Smith,,-Split-,200.00   
+,02/17/2020,Receipt,1140,No,Tylor Hindery,,Method Revenue:Method Tickets,50.00   
 ,02/17/2020,Receipt,1139,No,Amber Donaldson,,Method Revenue:Method Tickets,0.00   
-,02/17/2020,Receipt,1138,No,Brenden Reeves,,Method Revenue:Method Tickets,0.00   
+,02/17/2020,Receipt,1134,No,Jason Arend,,Method Revenue:Method Tickets,50.00   
 ,02/17/2020,Receipt,1137,No,David Harris,,Method Revenue:Method Tickets,100.00   
 ,02/17/2020,Receipt,1135,No,Jeremy Boles,,Method Revenue:Method Tickets,50.00   
 ,02/17/2020,Receipt,1133,No,Tim Franklin,,Method Revenue:Method Tickets,0.00   
-,02/17/2020,Receipt,1134,No,Jason Arend,,Method Revenue:Method Tickets,50.00   
-,02/17/2020,Receipt,1140,No,Tylor Hindery,,Method Revenue:Method Tickets,50.00   
-,02/17/2020,Expenditure,,No,Stripe Payments,,-Split-,-100.00   
+,02/17/2020,Receipt,1138,No,Brenden Reeves,,Method Revenue:Method Tickets,0.00   
 ,02/18/2020,Expenditure,,No,Stripe Payments,,-Split-,-200.00   
-,02/18/2020,Receipt,1143,No,Carwin Young,,Method Revenue:Method Tickets,100.00   
 ,02/18/2020,Receipt,1141,No,Laura Caruso,,Method Revenue:Method Tickets,50.00   
 ,02/18/2020,Receipt,1142,No,O'Reilly Auto Parts,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1159,No,Mycra Therapy,,Method Revenue:Method Tickets,50.00   
-,02/19/2020,Receipt,1149,No,Maranda Provance,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1167,No,Zackary Turner,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1168,No,Ryan Zachary De Lap,,Method Revenue:Method Tickets,50.00   
-,02/19/2020,Receipt,1169,No,Christopher Smith,,Method Revenue:Method Tickets,70.00   
-,02/19/2020,Receipt,1144,No,Carissa Hurt,,Method Revenue:Method Tickets,50.00   
-,02/19/2020,Receipt,1145,No,Tim Franklin,,Method Revenue:Method Tickets,50.00   
-,02/19/2020,Receipt,1146,No,Caleb Whitlow,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1147,No,Elliott Campbell,,Method Revenue:Method Tickets,70.00   
-,02/19/2020,Receipt,1148,No,Seth Mabry,,Method Revenue:Method Tickets,50.00   
-,02/19/2020,Receipt,1150,No,Kero Miller,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1151,No,Carmen Creswell,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1152,No,Krista Peryer,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1153,No,Wes Livesay,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1154,No,"Code Scientists, LLC",,-Split-,0.00   
-,02/19/2020,Receipt,1155,No,Scarlett Isbell,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",,-Split-,250.00   
-,02/19/2020,Receipt,1157,No,Tim Franklin,,-Split-,100.00   
-,02/19/2020,Receipt,1158,No,Kelly Crane,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1160,No,Keegan Hart,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1161,No,Marlin Network,,-Split-,0.00   
-,02/19/2020,Receipt,1162,No,Marlin Network,,-Split-,100.00   
+,02/18/2020,Receipt,1143,No,Carwin Young,,Method Revenue:Method Tickets,100.00   
 ,02/19/2020,Expenditure,,No,Stripe Payments,,-Split-,-600.00   
-,02/19/2020,Receipt,1163,No,Jordan McAdoo,,Method Revenue:Method Tickets,0.00   
-,02/19/2020,Receipt,1164,No,Mayhem Development,,-Split-,0.00   
-,02/19/2020,Receipt,1166,No,Marlin Network,,Method Revenue:Method Tickets,50.00   
+,02/19/2020,Receipt,1159,No,Mycra Therapy,,Method Revenue:Method Tickets,50.00   
 ,02/19/2020,Receipt,1165,No,Trayvon Northern,,Method Revenue:Method Tickets,50.00   
-,02/20/2020,Receipt,1172,No,Danielle Kelly,,Method Revenue:Method Tickets,50.00   
-,02/20/2020,Receipt,1171,No,Bonnie Granda,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1164,No,Mayhem Development,,-Split-,0.00   
+,02/19/2020,Receipt,1163,No,Jordan McAdoo,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1162,No,Marlin Network,,-Split-,100.00   
+,02/19/2020,Receipt,1161,No,Marlin Network,,-Split-,0.00   
+,02/19/2020,Receipt,1160,No,Keegan Hart,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1158,No,Kelly Crane,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1157,No,Tim Franklin,,-Split-,100.00   
+,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",,-Split-,250.00   
+,02/19/2020,Receipt,1155,No,Scarlett Isbell,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1154,No,"Code Scientists, LLC",,-Split-,0.00   
+,02/19/2020,Receipt,1153,No,Wes Livesay,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1152,No,Krista Peryer,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1151,No,Carmen Creswell,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1150,No,Kero Miller,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1148,No,Seth Mabry,,Method Revenue:Method Tickets,50.00   
+,02/19/2020,Receipt,1147,No,Elliott Campbell,,Method Revenue:Method Tickets,70.00   
+,02/19/2020,Receipt,1146,No,Caleb Whitlow,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1145,No,Tim Franklin,,Method Revenue:Method Tickets,50.00   
+,02/19/2020,Receipt,1144,No,Carissa Hurt,,Method Revenue:Method Tickets,50.00   
+,02/19/2020,Receipt,1169,No,Christopher Smith,,Method Revenue:Method Tickets,70.00   
+,02/19/2020,Receipt,1168,No,Ryan Zachary De Lap,,Method Revenue:Method Tickets,50.00   
+,02/19/2020,Receipt,1167,No,Zackary Turner,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1149,No,Maranda Provance,,Method Revenue:Method Tickets,0.00   
+,02/19/2020,Receipt,1166,No,Marlin Network,,Method Revenue:Method Tickets,50.00   
 ,02/20/2020,Expenditure,,No,Stripe Payments,,-Split-,-820.00   
 ,02/20/2020,Receipt,1174,No,Mark Whisler,,Method Revenue:Method Tickets,50.00   
 ,02/20/2020,Receipt,1170,No,Madison Vodicka,,Method Revenue:Method Tickets,0.00   
-,02/20/2020,Receipt,1175,No,Alexander Hansen,,Method Revenue:Method Tickets,0.00   
+,02/20/2020,Receipt,1171,No,Bonnie Granda,,Method Revenue:Method Tickets,0.00   
 ,02/20/2020,Receipt,1173,No,River Ginther,,Method Revenue:Method Tickets,100.00   
+,02/20/2020,Receipt,1172,No,Danielle Kelly,,Method Revenue:Method Tickets,50.00   
+,02/20/2020,Receipt,1175,No,Alexander Hansen,,Method Revenue:Method Tickets,0.00   
 ,02/23/2020,Expenditure,,No,Stripe Payments,,-Split-,-320.00   
-,02/26/2020,Receipt,1176,No,Tyler Edwards,,Method Revenue:Method Tickets,0.00   
 ,02/26/2020,Receipt,1177,No,Liatris Parker-Reece,,Method Revenue:Method Tickets,0.00   
+,02/26/2020,Receipt,1176,No,Tyler Edwards,,Method Revenue:Method Tickets,0.00   
 ,03/05/2020,Receipt,1178,No,Josiah Mann,,Method Revenue:Method Tickets,100.00   
 ,03/06/2020,Expenditure,,No,Stripe Payments,,-Split-,-100.00   
 Total for Devs Stripe,,,,,,,,$0.00   
@@ -268,25 +269,25 @@ Undeposited Funds,,,,,,,,
 ,01/03/2020,Deposit,,No,Vault Innovation Group,Paid via QuickBooks Payments: Payment ID PI0277233287,Devs Checking (7527),-500.00   
 ,01/03/2020,Payment,,No,Vault Innovation Group,Paid via QuickBooks Payments: Payment ID PI0277233287,Accounts Receivable (A/R),500.00   
 ,01/09/2020,Payment,,No,Melisa Hamilton,Paid via QuickBooks Payments: Payment ID PI0278252111,Accounts Receivable (A/R),25.00   
+,01/10/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PI0278377798,Devs Checking (7527),-500.00   
 ,01/10/2020,Payment,,No,Brewer Science,Paid via QuickBooks Payments: Payment ID PI0278377798,Accounts Receivable (A/R),500.00   
 ,01/10/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PI0278252111,Devs Checking (7527),-25.00   
-,01/10/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PI0278377798,Devs Checking (7527),-500.00   
-,01/27/2020,Payment,,No,Added Innovation,Paid via QuickBooks Payments: Payment ID PK0271365362,Accounts Receivable (A/R),"1,800.00   "
-,01/27/2020,Payment,,No,GigSalad,Paid via QuickBooks Payments: Payment ID PK0271347272,Accounts Receivable (A/R),500.00   
-,01/27/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PI0281021311,Devs Checking (7527),-900.00   
-,01/27/2020,Payment,,No,Mostly Serious,Paid via QuickBooks Payments: Payment ID PI0281021311,Accounts Receivable (A/R),900.00   
+,01/27/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PG0275393450,Devs Checking (7527),"-1,800.00   "
 ,01/27/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PK0271347272,Devs Checking (7527),-500.00   
 ,01/27/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PK0271365362,Devs Checking (7527),"-1,800.00   "
+,01/27/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PI0281021311,Devs Checking (7527),-900.00   
+,01/27/2020,Payment,,No,Mostly Serious,Paid via QuickBooks Payments: Payment ID PI0281021311,Accounts Receivable (A/R),900.00   
 ,01/27/2020,Payment,,No,Gravitate Solutions,Paid via QuickBooks Payments: Payment ID PG0275393450,Accounts Receivable (A/R),"1,800.00   "
-,01/27/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PG0275393450,Devs Checking (7527),"-1,800.00   "
-,01/28/2020,Deposit,,No,"Code Scientists, LLC",Paid via QuickBooks Payments: Payment ID PK0271520773,Devs Checking (7527),-500.00   
+,01/27/2020,Payment,,No,GigSalad,Paid via QuickBooks Payments: Payment ID PK0271347272,Accounts Receivable (A/R),500.00   
+,01/27/2020,Payment,,No,Added Innovation,Paid via QuickBooks Payments: Payment ID PK0271365362,Accounts Receivable (A/R),"1,800.00   "
 ,01/28/2020,Payment,,No,"Code Scientists, LLC",Paid via QuickBooks Payments: Payment ID PK0271520773,Accounts Receivable (A/R),500.00   
-,02/04/2020,Payment,,No,Austin Story,Paid via QuickBooks Payments: Payment ID PG0276891256,Accounts Receivable (A/R),50.00   
+,01/28/2020,Deposit,,No,"Code Scientists, LLC",Paid via QuickBooks Payments: Payment ID PK0271520773,Devs Checking (7527),-500.00   
 ,02/04/2020,Deposit,,No,Austin Story,Paid via QuickBooks Payments: Payment ID PG0276891256,Devs Checking (7527),-50.00   
-,02/19/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID anzq1ta1,Devs Checking (7527),"-4,500.00   "
+,02/04/2020,Payment,,No,Austin Story,Paid via QuickBooks Payments: Payment ID PG0276891256,Accounts Receivable (A/R),50.00   
 ,02/19/2020,Payment,,No,Mycra Therapy,Paid via QuickBooks Payments: Payment ID PH0012487463,Accounts Receivable (A/R),450.00   
 ,02/19/2020,Payment,,No,"Code Scientists, LLC",Paid via QuickBooks Payments: Payment ID anzq1ta1,Accounts Receivable (A/R),"4,500.00   "
 ,02/19/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID PH0012487463,Devs Checking (7527),-450.00   
+,02/19/2020,Deposit,,No,,Paid via QuickBooks Payments: Payment ID anzq1ta1,Devs Checking (7527),"-4,500.00   "
 Total for Undeposited Funds,,,,,,,,$0.00   
 Accounts Payable (A/P),,,,,,,,
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00   
@@ -294,38 +295,38 @@ Accounts Payable (A/P),,,,,,,,
 ,01/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00   
 ,01/07/2020,Bill,27413,No,Missouri Embroidery,,Devs:Devs Membership Gifts,270.76   
 ,01/07/2020,Bill Payment (Check),,No,Missouri Embroidery,,Devs Checking (7527),-270.76   
+,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
+,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
+,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
 ,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-36.00   
-,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
-,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
-,01/10/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
 ,01/15/2020,Bill Payment (Check),BILL PAY 011,No,Pillar Insurance Springfield,,Devs Checking (7527),"-1,079.00   "
 ,02/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00   
 ,02/05/2020,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00   
 ,02/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00   
 ,02/08/2020,Bill,162673,No,BJ's Trophy,,-Split-,543.85   
 ,02/10/2020,Bill,27817,No,Missouri Embroidery,,-Split-,"2,271.18   "
-,02/13/2020,Bill,,No,Katie Womersley,,Method:Method Speaker Travel,"1,600.00   "
 ,02/13/2020,Bill,,No,Erika Gerdes,,Method:Method Speaker Travel,717.00   
+,02/13/2020,Bill,,No,Katie Womersley,,Method:Method Speaker Travel,"1,600.00   "
 ,02/13/2020,Bill,,No,Sam Basu,,Method:Method Speaker Travel,450.00   
 ,02/13/2020,Bill,,No,Randy Walker,,Method:Method Speaker Travel,450.00   
-,02/19/2020,Bill Payment (Check),PAYPAL 038W,No,Sam Basu,,Devs PayPal,-450.00   
 ,02/19/2020,Bill Payment (Check),PAYPAL 039W,No,Katie Womersley,,Devs PayPal,"-1,600.00   "
-,02/19/2020,Bill Payment (Check),PAYPAL 040W,No,PayPal Payment Fees,,Devs PayPal,-4.99   
-,02/19/2020,Bill,,No,PayPal Payment Fees,,Method:Method Payment Fees (PayPal),4.99   
 ,02/19/2020,Bill,10196,No,Headline Productions,Includes $2573 discount in exchange for Method Conference Sponsorship and Springfield Devs Founding Sponsorship,-Split-,"2,560.20   "
+,02/19/2020,Bill,,No,PayPal Payment Fees,,Method:Method Payment Fees (PayPal),4.99   
+,02/19/2020,Bill Payment (Check),PAYPAL 038W,No,Sam Basu,,Devs PayPal,-450.00   
+,02/19/2020,Bill Payment (Check),PAYPAL 040W,No,PayPal Payment Fees,,Devs PayPal,-4.99   
 ,02/20/2020,Bill Payment (Check),,No,BJ's Trophy,,Devs Checking (7527),-543.85   
 ,02/25/2020,Bill Payment (Check),BILLPAY,No,Headline Productions,,Devs Checking (7527),"-1,280.10   "
 ,02/25/2020,Bill Payment (Check),BILLPAY 13,No,Erika Gerdes,,Devs Checking (7527),-717.00   
 ,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,Method Conference 03/05/2020,-Split-,"4,023.99   "
 ,02/26/2020,Bill Payment (Check),BILL PAY,No,Diamond Room / Simply Delicious,,Devs Checking (7527),"-4,023.99   "
-,03/01/2020,Bill Payment (Check),BILL PAY,No,Missouri Embroidery,,Devs Checking (7527),"-2,271.18   "
-,03/01/2020,Bill,5517958,No,Facebook Ads,,Method:Method Advertising,6.37   
 ,03/01/2020,Bill,7509,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00   
+,03/01/2020,Bill,5517958,No,Facebook Ads,,Method:Method Advertising,6.37   
+,03/01/2020,Bill Payment (Check),BILL PAY,No,Missouri Embroidery,,Devs Checking (7527),"-2,271.18   "
 ,03/02/2020,Bill Payment (Check),,No,Facebook Ads,,Devs Checking (7527),-6.37   
 ,03/02/2020,Bill Payment (Check),BILL PAY,No,Randy Walker,,Devs Checking (7527),-450.00   
 ,03/02/2020,Bill Payment (Check),AUTO,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-40.00   
-,03/05/2020,Bill,,No,Diamond Room / Simply Delicious,,-Split-,710.65   
 ,03/05/2020,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00   
+,03/05/2020,Bill,,No,Diamond Room / Simply Delicious,,-Split-,710.65   
 ,03/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00   
 ,03/06/2020,Bill,,No,Diamond Room / Simply Delicious,,-Split-,565.36   
 ,03/09/2020,Bill Payment (Check),BILL PAY,No,Diamond Room / Simply Delicious,,Devs Checking (7527),"-1,276.01   "
@@ -336,17 +337,18 @@ Accounts Payable (A/P),,,,,,,,
 ,04/05/2020,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00   
 ,04/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00   
 ,04/08/2020,Bill,333,No,Brad Hill Design Group,,Method:Method Design,"1,000.00   "
-,04/16/2020,Bill Payment (Check),,No,Brad Hill Design Group,,Devs Checking (7527),"-1,000.00   "
 ,04/16/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
+,04/16/2020,Bill Payment (Check),,No,Brad Hill Design Group,,Devs Checking (7527),"-1,000.00   "
 ,05/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00   
-,05/05/2020,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00   
 ,05/05/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00   
-Total for Accounts Payable (A/P),,,,,,,,"-$1,135.00   "
+,05/05/2020,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00   
+,05/07/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00   
+Total for Accounts Payable (A/P),,,,,,,,"-$1,155.00   "
 Devs Revenue,,,,,,,,
    Devs Sponsorships,,,,,,,,
 ,01/09/2020,Pledge,1067,No,O'Reilly Auto Parts,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Accounts Receivable (A/R),500.00   
-,01/27/2020,Pledge,1069,No,Marlin Network,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Accounts Receivable (A/R),500.00   
 ,01/27/2020,Pledge,1070,No,GigSalad,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Accounts Receivable (A/R),500.00   
+,01/27/2020,Pledge,1069,No,Marlin Network,Founding Sponsor of Springfield Devs. Lifetime recognition plus benefits through December 2022.,Accounts Receivable (A/R),500.00   
    Total for Devs Sponsorships,,,,,,,,"$1,500.00   "
 Total for Devs Revenue,,,,,,,,"$1,500.00   "
 Method Revenue,,,,,,,,
@@ -364,10 +366,10 @@ Method Revenue,,,,,,,,
 ,01/27/2020,Pledge,1071,No,Mostly Serious,Springfield Devs Founding Sponsor Discount (10%),Accounts Receivable (A/R),-100.00   
 ,01/27/2020,Pledge,1074,No,Added Innovation,SPEAKER (Randy Walker) Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),"1,000.00   "
 ,01/27/2020,Pledge,1074,No,Added Innovation,BADGE Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),"1,000.00   "
-,01/30/2020,Pledge,1093,No,Marlin Network,Springfield Devs Founding Sponsor Discount -10%,Accounts Receivable (A/R),-50.00   
 ,01/30/2020,Pledge,1093,No,Marlin Network,DIVERSITY Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),500.00   
-,02/04/2020,Pledge,1102,No,Self Interactive,DIVERSITY Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),500.00   
+,01/30/2020,Pledge,1093,No,Marlin Network,Springfield Devs Founding Sponsor Discount -10%,Accounts Receivable (A/R),-50.00   
 ,02/04/2020,Pledge,1102,No,Self Interactive,Springfield Devs Founding Sponsor Discount -10%,Accounts Receivable (A/R),-50.00   
+,02/04/2020,Pledge,1102,No,Self Interactive,DIVERSITY Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),500.00   
 ,02/08/2020,Pledge,1103,No,Mayhem Development,SNACK Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),"1,000.00   "
 ,02/09/2020,Pledge,1104,No,"Hoffmann & Baron, LLP",DOOR PRIZE Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),500.00   
 ,02/11/2020,Pledge,1105,No,"Code Scientists, LLC",EVENT Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits. ALL PAYMENTS DUE BY 02/15/2020.,Accounts Receivable (A/R),"5,000.00   "
@@ -378,6 +380,12 @@ Method Revenue,,,,,,,,
 ,02/18/2020,Pledge,1108,No,"Hoffmann & Baron, LLP",DOOR PRIZE Sponsorship for METHOD Developer Conference 03/05/2020. Refer to Sponsor Packet for Terms and Sponsor Benefits.,Accounts Receivable (A/R),500.00   
    Total for Method Sponsorships,,,,,,,,"$15,575.00   "
    Method Tickets,,,,,,,,
+,01/08/2020,Receipt,1086,No,David Alger,Attendee David Alger -50% (sudo),Devs Stripe,50.00   
+,01/08/2020,Receipt,1079,No,Erik Hansen,Attendee Perry Holden -50% (sudo),Devs Stripe,50.00   
+,01/08/2020,Receipt,1079,No,Erik Hansen,Attendee Erik Hansen -50% (sudo),Devs Stripe,50.00   
+,01/08/2020,Receipt,1077,No,David Schlum,Attendee UNASSIGNED -50% (sudo),Devs Stripe,50.00   
+,01/08/2020,Receipt,1082,No,David Hahn,Attendee David Hahn -50% (sudo),Devs Stripe,50.00   
+,01/08/2020,Receipt,1076,No,Benjamin Stange,Attendee Benjamin Stange -50% (sudo),Devs Stripe,50.00   
 ,01/08/2020,Receipt,1087,No,Mark Stepp,Attendee Mark Stepp -50% (sudo),Devs Stripe,50.00   
 ,01/08/2020,Receipt,1085,No,David Hamilton,Attendee David Hamilton -100% (volunteer),Devs Stripe,0.00   
 ,01/08/2020,Receipt,1081,No,Frederick Lawler,Attendee Frederick Lawler -100% (volunteer),Devs Stripe,0.00   
@@ -386,81 +394,91 @@ Method Revenue,,,,,,,,
 ,01/08/2020,Receipt,1084,No,Kevin Kirchner,Attendee Kevin Kirchner -50% (sudo),Devs Stripe,50.00   
 ,01/08/2020,Receipt,1083,No,Keith Davis,Attendee Keith Davis -50% (sudo),Devs Stripe,50.00   
 ,01/08/2020,Receipt,1080,No,Thomas Rankin,Attendee Thomas Rankin -100% (volunteer),Devs Stripe,0.00   
-,01/08/2020,Receipt,1086,No,David Alger,Attendee David Alger -50% (sudo),Devs Stripe,50.00   
-,01/08/2020,Receipt,1079,No,Erik Hansen,Attendee Perry Holden -50% (sudo),Devs Stripe,50.00   
-,01/08/2020,Receipt,1079,No,Erik Hansen,Attendee Erik Hansen -50% (sudo),Devs Stripe,50.00   
-,01/08/2020,Receipt,1077,No,David Schlum,Attendee UNASSIGNED -50% (sudo),Devs Stripe,50.00   
-,01/08/2020,Receipt,1082,No,David Hahn,Attendee David Hahn -50% (sudo),Devs Stripe,50.00   
-,01/08/2020,Receipt,1076,No,Benjamin Stange,Attendee Benjamin Stange -50% (sudo),Devs Stripe,50.00   
 ,01/09/2020,Receipt,1089,No,Rich Clingman,Attendee Rich Clingman -30% (sgfdev),Devs Stripe,70.00   
 ,01/13/2020,Receipt,1090,No,Mike Copanos,Attendee Michael Copanos -30% (sgfdev),Devs Stripe,70.00   
 ,01/14/2020,Receipt,1091,No,Kevin Williams,Attendee Kevin Williams,Devs Stripe,100.00   
 ,01/15/2020,Receipt,1092,No,Tiffany Ford,Attendee Tiffany Ford -50% (student),Devs Stripe,50.00   
 ,01/27/2020,Receipt,1094,No,Shawna Baron,Attendee Shawna Baron -100% (volunteer),Devs Stripe,0.00   
 ,01/28/2020,Receipt,1095,No,Christopher Wilding,Attendee Christopher Wilding,Devs Stripe,100.00   
-,01/30/2020,Receipt,1096,No,Katie Kensinger,Attendee Rhyan Friesen,Devs Stripe,100.00   
 ,01/30/2020,Receipt,1097,No,Ruby Fleener,Attendee Ruby Fleener -100% (speaker),Devs Stripe,0.00   
+,01/30/2020,Receipt,1096,No,Katie Kensinger,Attendee Rhyan Friesen,Devs Stripe,100.00   
 ,01/31/2020,Receipt,1098,No,Melisa Hamilton,Attendee Melisa Hamilton -100% (volunteer),Devs Stripe,0.00   
-,02/03/2020,Receipt,1101,No,Landon Lewis,Attendee Landon Lewis -30% (banno),Devs Stripe,70.00   
-,02/03/2020,Receipt,1100,No,Daniel Chilton,Attendee Dan Chilton -30% (banno),Devs Stripe,70.00   
 ,02/03/2020,Receipt,1099,No,Kalin Bowden,Attendee Kalin Bowden -30% (sgfdev),Devs Stripe,70.00   
-,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Christy Bracher -40% (sgfdev),Devs Stripe,60.00   
-,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Warren Scott -40% (sgfdev),Devs Stripe,60.00   
+,02/03/2020,Receipt,1100,No,Daniel Chilton,Attendee Dan Chilton -30% (banno),Devs Stripe,70.00   
+,02/03/2020,Receipt,1101,No,Landon Lewis,Attendee Landon Lewis -30% (banno),Devs Stripe,70.00   
 ,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Jacob Schaum -40% (sgfdev),Devs Stripe,60.00   
-,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Trevor Glauz -40% (sgfdev),Devs Stripe,60.00   
 ,02/04/2020,Receipt,1109,No,Levi Zitting,Attendee Melissa Worthen -40% (sgfdev),Devs Stripe,60.00   
 ,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Miles Collins -40% (sgfdev),Devs Stripe,60.00   
-,02/05/2020,Receipt,1112,No,Jonathan Mann,Attendee Jonathan Mann -30% (sgfdev),Devs Stripe,70.00   
+,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Trevor Glauz -40% (sgfdev),Devs Stripe,60.00   
+,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Warren Scott -40% (sgfdev),Devs Stripe,60.00   
+,02/04/2020,Receipt,1110,No,Justin Wells,Attendee Christy Bracher -40% (sgfdev),Devs Stripe,60.00   
 ,02/05/2020,Receipt,1111,No,Kendall Roberts,Attendee Kendall Roberts -50% (student),Devs Stripe,50.00   
-,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Don Worthley -30% (sgfdev),Devs Stripe,70.00   
-,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Daniel Mayfield -30% (sgfdev),Devs Stripe,70.00   
+,02/05/2020,Receipt,1112,No,Jonathan Mann,Attendee Jonathan Mann -30% (sgfdev),Devs Stripe,70.00   
+,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Dan Bennett -30% (sgfdev),Devs Stripe,70.00   
 ,02/06/2020,Receipt,1113,No,Chad Killingsworth,Attendee Chad Killingsworth -30% (banno),Devs Stripe,70.00   
 ,02/06/2020,Receipt,1114,No,Mike Andrews,Attendee Mike Andrews -30% (sgfdev),Devs Stripe,70.00   
+,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Daniel Mayfield -30% (sgfdev),Devs Stripe,70.00   
+,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Don Worthley -30% (sgfdev),Devs Stripe,70.00   
 ,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Ben Ellis -30% (sgfdev),Devs Stripe,70.00   
-,02/06/2020,Receipt,1115,No,Benjamin Ellis,Attendee Dan Bennett -30% (sgfdev),Devs Stripe,70.00   
 ,02/08/2020,Receipt,1116,No,Christopher Baunach,Attendee Christopher Baunach -50% (student),Devs Stripe,50.00   
 ,02/09/2020,Receipt,1117,No,Shawna Baron,Attendee Ronald J. Baron -100% (speaker),Devs Stripe,0.00   
+,02/10/2020,Receipt,1118,No,Aaron Van Gorp,Attendee Aaron Van Gorp,Devs Stripe,100.00   
 ,02/10/2020,Receipt,1119,No,Darren Williams,Attendee Darren Williams -30% (banno),Devs Stripe,70.00   
 ,02/10/2020,Receipt,1118,No,Aaron Van Gorp,Attendee Cornelius Ukena,Devs Stripe,100.00   
-,02/10/2020,Receipt,1118,No,Aaron Van Gorp,Attendee Aaron Van Gorp,Devs Stripe,100.00   
-,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Ojurere Shonekan -50% (mssu),Devs Stripe,50.00   
-,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Matt Griffin -50% (mssu),Devs Stripe,50.00   
 ,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Josh Ellis -50% (mssu),Devs Stripe,50.00   
-,02/12/2020,Receipt,1122,No,Volt Credit Union,Attendee Mark Gertiser -50% (volt),Devs Stripe,50.00   
+,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Matt Griffin -50% (mssu),Devs Stripe,50.00   
+,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Ojurere Shonekan -50% (mssu),Devs Stripe,50.00   
 ,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Clayton Woodbridge -50% (mssu),Devs Stripe,50.00   
+,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Dulio Gonzalez -50% (mssu),Devs Stripe,50.00   
 ,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Michael Blades -50% (mssu),Devs Stripe,50.00   
 ,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Otto Borchert -50% (mssu),Devs Stripe,50.00   
 ,02/12/2020,Receipt,1120,No,Charles Hicks,Attendee CK Hicks -30% (sgfdev) Manual Refund,Devs Stripe,-30.00   
 ,02/12/2020,Receipt,1120,No,Charles Hicks,Attendee CK Hicks,Devs Stripe,100.00   
-,02/12/2020,Receipt,1121,No,Otto Borchert,Attendee Dulio Gonzalez -50% (mssu),Devs Stripe,50.00   
+,02/12/2020,Receipt,1122,No,Volt Credit Union,Attendee Mark Gertiser -50% (volt),Devs Stripe,50.00   
 ,02/13/2020,Receipt,1124,No,Jared Carpenter,Attendee Jared Carpenter -50% (codesci),Devs Stripe,50.00   
 ,02/13/2020,Receipt,1125,No,Jordan Gilmore,Attendee Jordan Gilmore -50% (codesci),Devs Stripe,50.00   
 ,02/13/2020,Receipt,1123,No,Ben Pomerenke,Attendee Ben Pomerenke -50% (wwt),Devs Stripe,50.00   
-,02/14/2020,Receipt,1127,No,Otto Borchert,Attendee Rebecca Collins -50% (mssu),Devs Stripe,50.00   
-,02/14/2020,Receipt,1126,No,Landon Lewis,Attendee Frankie Barrios -50% (student),Devs Stripe,50.00   
 ,02/14/2020,Receipt,1127,No,Otto Borchert,Attendee Trinidad Guerrero -50% (mssu),Devs Stripe,50.00   
+,02/14/2020,Receipt,1126,No,Landon Lewis,Attendee Frankie Barrios -50% (student),Devs Stripe,50.00   
+,02/14/2020,Receipt,1127,No,Otto Borchert,Attendee Rebecca Collins -50% (mssu),Devs Stripe,50.00   
 ,02/15/2020,Receipt,1128,No,Levi Zitting,Attendee Levi Zitting -100% (volunteer),Devs Stripe,0.00   
+,02/16/2020,Receipt,1131,No,Logic Forte,Attendee Jason Klein -100% (volunteer),Devs Stripe,0.00   
 ,02/16/2020,Receipt,1132,No,Jason Amschler,Attendee Jason Amschler -100% (volunteer),Devs Stripe,0.00   
 ,02/16/2020,Receipt,1130,No,Myke Bates,Attendee Myke Bates -100% (volunteer),Devs Stripe,0.00   
 ,02/16/2020,Receipt,1129,No,Self Interactive,Attendee Charlie Rosenbury -100% (volunteer),Devs Stripe,0.00   
-,02/16/2020,Receipt,1131,No,Logic Forte,Attendee Jason Klein -100% (volunteer),Devs Stripe,0.00   
 ,02/17/2020,Receipt,1136,No,Melissa Smith,Attendee Randy Baker -50% (kind),Devs Stripe,50.00   
-,02/17/2020,Receipt,1133,No,Tim Franklin,Attendee Tim Franklin -100% (volunteer),Devs Stripe,0.00   
-,02/17/2020,Receipt,1134,No,Jason Arend,Attendee Jason Arend -50% (kind),Devs Stripe,50.00   
 ,02/17/2020,Receipt,1136,No,Melissa Smith,Attendee Carter Luther -50% (kind),Devs Stripe,50.00   
 ,02/17/2020,Receipt,1136,No,Melissa Smith,Attendee Will Vandergrift -50% (kind),Devs Stripe,50.00   
 ,02/17/2020,Receipt,1136,No,Melissa Smith,Attendee Kevin Waterland -50% (kind),Devs Stripe,50.00   
-,02/17/2020,Receipt,1135,No,Jeremy Boles,Attendee Jeremy Boles -50% (kind),Devs Stripe,50.00   
-,02/17/2020,Receipt,1139,No,Amber Donaldson,Attendee Amber Donaldson -100% (scholarship),Devs Stripe,0.00   
 ,02/17/2020,Receipt,1140,No,Tylor Hindery,Attendee Tylor Hindery -50% (kind),Devs Stripe,50.00   
-,02/17/2020,Receipt,1137,No,David Harris,Attendee David Harris,Devs Stripe,100.00   
+,02/17/2020,Receipt,1139,No,Amber Donaldson,Attendee Amber Donaldson -100% (scholarship),Devs Stripe,0.00   
 ,02/17/2020,Receipt,1138,No,Brenden Reeves,Attendee Brenden Reeves -100% (scholarship),Devs Stripe,0.00   
-,02/18/2020,Receipt,1141,No,Laura Caruso,Attendee Laura Caruso -50% (wwt),Devs Stripe,50.00   
-,02/18/2020,Receipt,1142,No,O'Reilly Auto Parts,Attendee Kirk Coleman -100% (sponsor),Devs Stripe,0.00   
+,02/17/2020,Receipt,1137,No,David Harris,Attendee David Harris,Devs Stripe,100.00   
+,02/17/2020,Receipt,1135,No,Jeremy Boles,Attendee Jeremy Boles -50% (kind),Devs Stripe,50.00   
+,02/17/2020,Receipt,1133,No,Tim Franklin,Attendee Tim Franklin -100% (volunteer),Devs Stripe,0.00   
+,02/17/2020,Receipt,1134,No,Jason Arend,Attendee Jason Arend -50% (kind),Devs Stripe,50.00   
 ,02/18/2020,Receipt,1143,No,Carwin Young,Attendee Carwin Young,Devs Stripe,100.00   
+,02/18/2020,Receipt,1142,No,O'Reilly Auto Parts,Attendee Kirk Coleman -100% (sponsor),Devs Stripe,0.00   
+,02/18/2020,Receipt,1141,No,Laura Caruso,Attendee Laura Caruso -50% (wwt),Devs Stripe,50.00   
+,02/19/2020,Receipt,1163,No,Jordan McAdoo,Attendee Jordan McAdoo -100% (scholarship),Devs Stripe,0.00   
+,02/19/2020,Receipt,1162,No,Marlin Network,Attendee Eli Estes -50% (marlinnetwork),Devs Stripe,50.00   
+,02/19/2020,Receipt,1162,No,Marlin Network,Attendee Brian Norris -50% (marlinnetwork),Devs Stripe,50.00   
+,02/19/2020,Receipt,1161,No,Marlin Network,Attendee Jeff Kern -100% (sponsor),Devs Stripe,0.00   
+,02/19/2020,Receipt,1161,No,Marlin Network,Attendee Megan Blevins -100% (sponsor),Devs Stripe,0.00   
+,02/19/2020,Receipt,1160,No,Keegan Hart,Attendee Keegan Hart -100% (studentscholarship),Devs Stripe,0.00   
+,02/19/2020,Receipt,1158,No,Kelly Crane,Attendee Kelly Crane -100% (scholarship),Devs Stripe,0.00   
+,02/19/2020,Receipt,1157,No,Tim Franklin,Attendee Mark Rosenkrans -50% (gravitate),Devs Stripe,50.00   
+,02/19/2020,Receipt,1157,No,Tim Franklin,Attendee Curt Buechter -50% (gravitate),Devs Stripe,50.00   
+,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Grant Jennings -50% (codesci),Devs Stripe,50.00   
+,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Enoch Pyle -50% (codesci),Devs Stripe,50.00   
+,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Josh Sutterfield -50% (codesci),Devs Stripe,50.00   
+,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Morgen Ohmsted -50% (codesci),Devs Stripe,50.00   
+,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Tara Walton -50% (codesci),Devs Stripe,50.00   
+,02/19/2020,Receipt,1155,No,Scarlett Isbell,Attendee Scarlett Isbell -100% (scholarship),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1154,No,"Code Scientists, LLC",Attendee Joel Nel -100% (sponsor),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1154,No,"Code Scientists, LLC",Attendee Markus Pope -100% (sponsor),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1153,No,Wes Livesay,Attendee Wes Livesay -100% (sponsor),Devs Stripe,0.00   
+,02/19/2020,Receipt,1152,No,Krista Peryer,Attendee Krista Peryer -100% (scholarship),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1151,No,Carmen Creswell,Attendee Carmen Creswell -100% (scholarship),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1150,No,Kero Miller,Attendee Kero Miller -100% (scholarship),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1148,No,Seth Mabry,Attendee Seth Mabry -50% (codesci),Devs Stripe,50.00   
@@ -473,34 +491,18 @@ Method Revenue,,,,,,,,
 ,02/19/2020,Receipt,1168,No,Ryan Zachary De Lap,Attendee Ryan De Lap -50% (student),Devs Stripe,50.00   
 ,02/19/2020,Receipt,1149,No,Maranda Provance,Attendee Maranda Provance -100% (sponsor),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1159,No,Mycra Therapy,Attendee Craig Coenen -50% (kind),Devs Stripe,50.00   
-,02/19/2020,Receipt,1155,No,Scarlett Isbell,Attendee Scarlett Isbell -100% (scholarship),Devs Stripe,0.00   
-,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Tara Walton -50% (codesci),Devs Stripe,50.00   
-,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Morgen Ohmsted -50% (codesci),Devs Stripe,50.00   
-,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Josh Sutterfield -50% (codesci),Devs Stripe,50.00   
-,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Enoch Pyle -50% (codesci),Devs Stripe,50.00   
-,02/19/2020,Receipt,1156,No,"Code Scientists, LLC",Attendee Grant Jennings -50% (codesci),Devs Stripe,50.00   
-,02/19/2020,Receipt,1157,No,Tim Franklin,Attendee Curt Buechter -50% (gravitate),Devs Stripe,50.00   
-,02/19/2020,Receipt,1157,No,Tim Franklin,Attendee Mark Rosenkrans -50% (gravitate),Devs Stripe,50.00   
-,02/19/2020,Receipt,1158,No,Kelly Crane,Attendee Kelly Crane -100% (scholarship),Devs Stripe,0.00   
-,02/19/2020,Receipt,1160,No,Keegan Hart,Attendee Keegan Hart -100% (studentscholarship),Devs Stripe,0.00   
-,02/19/2020,Receipt,1161,No,Marlin Network,Attendee Megan Blevins -100% (sponsor),Devs Stripe,0.00   
-,02/19/2020,Receipt,1161,No,Marlin Network,Attendee Jeff Kern -100% (sponsor),Devs Stripe,0.00   
-,02/19/2020,Receipt,1162,No,Marlin Network,Attendee Brian Norris -50% (marlinnetwork),Devs Stripe,50.00   
-,02/19/2020,Receipt,1162,No,Marlin Network,Attendee Eli Estes -50% (marlinnetwork),Devs Stripe,50.00   
-,02/19/2020,Receipt,1163,No,Jordan McAdoo,Attendee Jordan McAdoo -100% (scholarship),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1164,No,Mayhem Development,Attendee Jim Carr -100% (sponsor),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1164,No,Mayhem Development,Attendee Maddie Carr -100% (sponsor),Devs Stripe,0.00   
 ,02/19/2020,Receipt,1165,No,Trayvon Northern,Attendee Trayvon Northern -50% (kind),Devs Stripe,50.00   
 ,02/19/2020,Receipt,1166,No,Marlin Network,Attendee Hannah Sartin -50% (marlinnetwork),Devs Stripe,50.00   
-,02/19/2020,Receipt,1152,No,Krista Peryer,Attendee Krista Peryer -100% (scholarship),Devs Stripe,0.00   
-,02/20/2020,Receipt,1172,No,Danielle Kelly,Attendee Danielle Kelly -50% (student),Devs Stripe,50.00   
-,02/20/2020,Receipt,1173,No,River Ginther,Attendee River Ginther,Devs Stripe,100.00   
-,02/20/2020,Receipt,1175,No,Alexander Hansen,Attendee Alexander Hansen -100% (studentscholarship),Devs Stripe,0.00   
-,02/20/2020,Receipt,1170,No,Madison Vodicka,Attendee Madison Vodicka -100% (scholarship),Devs Stripe,0.00   
 ,02/20/2020,Receipt,1171,No,Bonnie Granda,Attendee Bonnie Granda -100% (scholarship),Devs Stripe,0.00   
 ,02/20/2020,Receipt,1174,No,Mark Whisler,Attendee Mark Whisler -50% (kind),Devs Stripe,50.00   
-,02/26/2020,Receipt,1177,No,Liatris Parker-Reece,Attendee Liatris Parker-Reece -100% (studentscholarship),Devs Stripe,0.00   
+,02/20/2020,Receipt,1173,No,River Ginther,Attendee River Ginther,Devs Stripe,100.00   
+,02/20/2020,Receipt,1175,No,Alexander Hansen,Attendee Alexander Hansen -100% (studentscholarship),Devs Stripe,0.00   
+,02/20/2020,Receipt,1172,No,Danielle Kelly,Attendee Danielle Kelly -50% (student),Devs Stripe,50.00   
+,02/20/2020,Receipt,1170,No,Madison Vodicka,Attendee Madison Vodicka -100% (scholarship),Devs Stripe,0.00   
 ,02/26/2020,Receipt,1176,No,Tyler Edwards,Attendee Tyler Edwards -100% (studentscholarship),Devs Stripe,0.00   
+,02/26/2020,Receipt,1177,No,Liatris Parker-Reece,Attendee Liatris Parker-Reece -100% (studentscholarship),Devs Stripe,0.00   
 ,03/05/2020,Receipt,1178,No,Josiah Mann,Attendee Josiah Mann,Devs Stripe,100.00   
    Total for Method Tickets,,,,,,,,"$5,130.00   "
 Total for Method Revenue,,,,,,,,"$20,705.00   "
@@ -531,8 +533,8 @@ Credit Card Charge 3.5% $9.16",Accounts Payable (A/P),270.76
 ,02/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00   
 ,02/03/2020,Expenditure,386095465,No,Amazon Web Services,Amazon Web Services,Devs Checking (7527),0.59   
 ,02/05/2020,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
-,02/06/2020,Expenditure,15662137,No,Name.com,Domain Renewal (springfield.dev),Devs Checking (7527),116.24   
 ,02/06/2020,Expenditure,15662137,No,Name.com,Domain Renewal (sgf.dev),Devs Checking (7527),116.24   
+,02/06/2020,Expenditure,15662137,No,Name.com,Domain Renewal (springfield.dev),Devs Checking (7527),116.24   
 ,02/25/2020,Expenditure,,No,Google Developer Program,Google Developer Registration Fee,Devs Checking (7527),25.00   
 ,03/01/2020,Bill,7509,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00   
 ,03/03/2020,Expenditure,,No,Amazon Web Services,398900485,Devs Checking (7527),0.59   
@@ -547,8 +549,8 @@ Credit Card Charge 3.5% $9.16",Accounts Payable (A/P),270.76
 ,05/05/2020,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
    Total for Devs Software & Hosting,,,,,,,,$572.37   
    Devs Sponsor Gifts,,,,,,,,
-,02/08/2020,Bill,162673,No,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (Sales Tax 8.10%),Accounts Payable (A/P),40.75   
 ,02/08/2020,Bill,162673,No,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (18@ $27.95),Accounts Payable (A/P),503.10   
+,02/08/2020,Bill,162673,No,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (Sales Tax 8.10%),Accounts Payable (A/P),40.75   
 ,02/19/2020,Expenditure,163049,No,BJ's Trophy,"Founding Sponsor Plaque 1@ $27.95 + Tax
 Headline Productions",Devs Checking (7527),30.21   
    Total for Devs Sponsor Gifts,,,,,,,,$574.06   
@@ -574,19 +576,19 @@ Method,,,,,,,,
 ,02/13/2020,Expenditure,DM4034102,No,Discount Mugs,"Item 101WB Black, Front Side Imprint 130 @ 3.48",Devs Checking (7527),452.40   
    Total for Method Attendee Bags,,,,,,,,$451.40   
    Method Attendee Shirts,,,,,,,,
-,02/10/2020,Bill,27817,No,Missouri Embroidery,"8413 Bella + Canvas - Women's Triblend Short Sleeve Tee 16@ $15
-Solid Black Triblend: AS - 7, AM - 3, AL - 3, AXL - 1, A2XL - 2
-**Price includes Two Color front, 1 Color Back. Solid black triblend - Front is rojo red and white ink. Back is white ink",Accounts Payable (A/P),240.00   
 ,02/10/2020,Bill,27817,No,Missouri Embroidery,Set up Fee *Waived 3rd Set Up Fee for placing 100+ Pieces* 2@ $25,Accounts Payable (A/P),50.00   
-,02/10/2020,Bill,27817,No,Missouri Embroidery,Ink Change - 2 Colors  2@ $7,Accounts Payable (A/P),14.00   
-,02/10/2020,Bill,27817,No,Missouri Embroidery,Upcharge - Size 2XL 14@ $3,Accounts Payable (A/P),42.00   
 ,02/10/2020,Bill,27817,No,Missouri Embroidery,Upcharge - Size 3XL 6@ $5,Accounts Payable (A/P),30.00   
-,02/10/2020,Bill,27817,No,Missouri Embroidery,Shipping from Manufacturer,Accounts Payable (A/P),15.00   
-,02/10/2020,Bill,27817,No,Missouri Embroidery,Sales Tax $2101@ 8.10%,Accounts Payable (A/P),170.18   
 ,02/10/2020,Bill,27817,No,Missouri Embroidery,"3413 Bella + Canvas - Triblend Short Sleeve T-Shirt Solid 114@ $15
 Black Triblend: AS - 7, AM - 30, AL - 37, AXL - 18, A2XL - 9, A3XL - 5
 Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
 **Price includes Two Color front, 1 Color Back. Solid black triblend - Front is rojo red and white ink. Back is white ink. Red triblend - Front is white and black ink. Back is white ink.",Accounts Payable (A/P),"1,710.00   "
+,02/10/2020,Bill,27817,No,Missouri Embroidery,"8413 Bella + Canvas - Women's Triblend Short Sleeve Tee 16@ $15
+Solid Black Triblend: AS - 7, AM - 3, AL - 3, AXL - 1, A2XL - 2
+**Price includes Two Color front, 1 Color Back. Solid black triblend - Front is rojo red and white ink. Back is white ink",Accounts Payable (A/P),240.00   
+,02/10/2020,Bill,27817,No,Missouri Embroidery,Upcharge - Size 2XL 14@ $3,Accounts Payable (A/P),42.00   
+,02/10/2020,Bill,27817,No,Missouri Embroidery,Ink Change - 2 Colors  2@ $7,Accounts Payable (A/P),14.00   
+,02/10/2020,Bill,27817,No,Missouri Embroidery,Sales Tax $2101@ 8.10%,Accounts Payable (A/P),170.18   
+,02/10/2020,Bill,27817,No,Missouri Embroidery,Shipping from Manufacturer,Accounts Payable (A/P),15.00   
    Total for Method Attendee Shirts,,,,,,,,"$2,271.18   "
    Method Audio Visual,,,,,,,,
 ,02/19/2020,Bill,10196,No,Headline Productions,Equipment Crew,Accounts Payable (A/P),"1,800.00   "
@@ -603,46 +605,46 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
    Total for Method Design,,,,,,,,"$1,000.00   "
    Method Door Prizes,,,,,,,,
 ,02/21/2020,Expenditure,,No,Michael's Arts and Crafts,CEL BSK BUSHEL H 1915181116052  3@ 12.99 + TAX,Devs Checking (7527),42.13   
-,02/22/2020,Expenditure,,No,Walmart,Drinkware  2 @ 4.96,Devs Checking (7527),9.92   
-,02/22/2020,Expenditure,,No,Walmart,Sales Tax 5.10%,Devs Checking (7527),1.24   
-,02/22/2020,Expenditure,,No,Walmart,Sales Tax 8.10%,Devs Checking (7527),1.83   
-,02/22/2020,Expenditure,,No,Walmart,Fever Tree  2 @ 5.98,Devs Checking (7527),11.96   
-,02/22/2020,Expenditure,,No,Walmart,Land Coffee  4 @ 1.48,Devs Checking (7527),5.92   
-,02/22/2020,Expenditure,,No,Walmart,FS KT  5 @ 1.64,Devs Checking (7527),8.20   
-,02/22/2020,Expenditure,,No,Walmart,CC Sinl Coff  1 @ 6.48,Devs Checking (7527),6.48   
 ,02/22/2020,Expenditure,,No,Walmart,Flour Sack  1 @ 4.47,Devs Checking (7527),4.47   
+,02/22/2020,Expenditure,,No,Walmart,CC Sinl Coff  1 @ 6.48,Devs Checking (7527),6.48   
+,02/22/2020,Expenditure,,No,Walmart,Fever Tree  2 @ 5.98,Devs Checking (7527),11.96   
+,02/22/2020,Expenditure,,No,Walmart,FS KT  5 @ 1.64,Devs Checking (7527),8.20   
+,02/22/2020,Expenditure,,No,Walmart,Land Coffee  4 @ 1.48,Devs Checking (7527),5.92   
+,02/22/2020,Expenditure,,No,Walmart,Drinkware  2 @ 4.96,Devs Checking (7527),9.92   
+,02/22/2020,Expenditure,,No,Walmart,Sales Tax 8.10%,Devs Checking (7527),1.83   
+,02/22/2020,Expenditure,,No,Walmart,Sales Tax 5.10%,Devs Checking (7527),1.24   
 ,02/23/2020,Deposit,,No,Walmart,RETURNED ITEMS,Devs Checking (7527),-10.72   
-,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,Anker Soundcore Life Q20 Hybrid Active Noise Cancelling Headphones,Devs Checking (7527),59.99   
-,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,"2 of: Audio-Technica ATH-M50xBT Wireless Bluetooth Over-Ear Headphones, Black",Devs Checking (7527),358.00   
-,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,Coupon,Devs Checking (7527),-12.00   
 ,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,Sales Tax,Devs Checking (7527),30.59   
+,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,Coupon,Devs Checking (7527),-12.00   
+,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,"2 of: Audio-Technica ATH-M50xBT Wireless Bluetooth Over-Ear Headphones, Black",Devs Checking (7527),358.00   
+,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,"1 of: YETI Rambler 14 oz Stainless Steel Vacuum Insulated Mug with Lid, Brick Red",Devs Checking (7527),24.99   
+,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,"3 of: Yootech Wireless Charger, [2 Pack] Qi-Certified 10W",Devs Checking (7527),74.97   
+,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,Anker Soundcore Life Q20 Hybrid Active Noise Cancelling Headphones,Devs Checking (7527),59.99   
+,02/27/2020,Expenditure,8997855,No,Amazon Shopping,"1 of: Ember Temperature Control Smart Mug, 10 oz",Devs Checking (7527),79.94   
 ,02/27/2020,Expenditure,2343429,No,Amazon Shopping,2 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),100.00   
 ,02/27/2020,Expenditure,4401039-2,No,Amazon Shopping,"1 of: GPS Drone, DROCON 5G WiFi FPV Drone",Devs Checking (7527),169.99   
-,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,"1 of: YETI Rambler 14 oz Stainless Steel Vacuum Insulated Mug with Lid, Brick Red",Devs Checking (7527),24.99   
-,02/27/2020,Expenditure,8997855,No,Amazon Shopping,"1 of: Ember Temperature Control Smart Mug, 10 oz",Devs Checking (7527),79.94   
-,02/27/2020,Expenditure,4401039-1,No,Amazon Shopping,"3 of: Yootech Wireless Charger, [2 Pack] Qi-Certified 10W",Devs Checking (7527),74.97   
 ,03/02/2020,Deposit,,No,Amazon Shopping,Partial Refund,Devs Checking (7527),-6.26   
    Total for Method Door Prizes,,,,,,,,$961.64   
    Method Facilities & Catering,,,,,,,,
 ,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,"Morning Pastries and Fruit, Taco Station Lunch, Evening Charcuterie Station ($24.50/person x 130)",Accounts Payable (A/P),"3,185.00   "
-,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,Credit for Deposit Received,Accounts Payable (A/P),-500.00   
-,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,Sales Tax 8.1%,Accounts Payable (A/P),338.99   
 ,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,Room Rental,Accounts Payable (A/P),"1,000.00   "
-,02/29/2020,Expenditure,550835,No,Walmart,Limes x6,Devs Checking (7527),2.64   
-,02/29/2020,Expenditure,550835,No,Walmart,Lemons x6,Devs Checking (7527),3.24   
-,02/29/2020,Expenditure,550835,No,Walmart,Sales Tax 5.10%,Devs Checking (7527),0.79   
+,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,Sales Tax 8.1%,Accounts Payable (A/P),338.99   
+,02/26/2020,Bill,,No,Diamond Room / Simply Delicious,Credit for Deposit Received,Accounts Payable (A/P),-500.00   
 ,02/29/2020,Expenditure,550835,No,Walmart,Sales Tax 8.10%,Devs Checking (7527),0.39   
-,02/29/2020,Expenditure,550835,No,Walmart,Ice 10lb,Devs Checking (7527),2.00   
-,02/29/2020,Expenditure,550835,No,Walmart,SC 20oz 12pk,Devs Checking (7527),2.64   
+,02/29/2020,Expenditure,550835,No,Walmart,Lemons x6,Devs Checking (7527),3.24   
 ,02/29/2020,Expenditure,550835,No,Walmart,Coke x2,Devs Checking (7527),5.00   
+,02/29/2020,Expenditure,550835,No,Walmart,SC 20oz 12pk,Devs Checking (7527),2.64   
+,02/29/2020,Expenditure,550835,No,Walmart,Ice 10lb,Devs Checking (7527),2.00   
+,02/29/2020,Expenditure,550835,No,Walmart,Limes x6,Devs Checking (7527),2.64   
+,02/29/2020,Expenditure,550835,No,Walmart,Sales Tax 5.10%,Devs Checking (7527),0.79   
 ,03/05/2020,Bill,,No,Diamond Room / Simply Delicious,Bar Gratuity for Method Conference ($523 at 19.12%),Accounts Payable (A/P),100.00   
 ,03/05/2020,Bill,,No,Diamond Room / Simply Delicious,Food Gratuity for Method Conference ($3185 at 19.17%),Accounts Payable (A/P),610.65   
 ,03/06/2020,Bill,,No,Diamond Room / Simply Delicious,Hosted Bar,Accounts Payable (A/P),523.00   
 ,03/06/2020,Bill,,No,Diamond Room / Simply Delicious,Sales Tax 8.1%,Accounts Payable (A/P),42.36   
    Total for Method Facilities & Catering,,,,,,,,"$5,316.70   "
    Method Payment Fees (Intuit),,,,,,,,
-,01/27/2020,Expenditure,,No,QuickBooks Payments,Added Innovation (2.9% + 0.25),Devs Checking (7527),52.45   
 ,01/27/2020,Expenditure,,No,QuickBooks Payments,Gravitate Solutions (2.9% + 0.25),Devs Checking (7527),52.45   
+,01/27/2020,Expenditure,,No,QuickBooks Payments,Added Innovation (2.9% + 0.25),Devs Checking (7527),52.45   
 ,01/27/2020,Expenditure,,No,QuickBooks Payments,Mostly Serious (2.9% + 0.25),Devs Checking (7527),26.35   
 ,02/19/2020,Expenditure,,No,QuickBooks Payments,Code Scientists (1% max $10),Devs Checking (7527),10.00   
 ,02/19/2020,Expenditure,,No,QuickBooks Payments,Mycra Therapy (2.9% + 0.25),Devs Checking (7527),13.30   
@@ -671,14 +673,14 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
    Total for Method Payment Fees (Stripe),,,,,,,,$170.25   
    Method Print Materials,,,,,,,,
 ,02/21/2020,Expenditure,698456,No,First Impressions Printing,Print Materials Deposit,Devs Checking (7527),200.00   
+,02/28/2020,Expenditure,430970,No,First Impressions Printing,Blank Envelopes for Folded Note Cards x50,Devs Checking (7527),4.84   
+,02/28/2020,Expenditure,430970,No,First Impressions Printing,Sales Tax,Devs Checking (7527),38.62   
 ,02/28/2020,Expenditure,430970,No,First Impressions Printing,Method Podium Sign Foam Core,Devs Checking (7527),37.34   
+,02/28/2020,Expenditure,430970,No,First Impressions Printing,Method Folded Note Cards x50,Devs Checking (7527),46.77   
+,02/28/2020,Expenditure,430970,No,First Impressions Printing,Method Flat Note Card 4x6  x150,Devs Checking (7527),35.03   
 ,02/28/2020,Expenditure,430970,No,First Impressions Printing,Method Retractable Banner 1 Sided w/ Stand and Carry Bag,Devs Checking (7527),172.49   
 ,02/28/2020,Expenditure,430970,No,First Impressions Printing,Creative for Conference Materials,Devs Checking (7527),180.26   
 ,02/28/2020,Expenditure,430970,No,First Impressions Printing,Print Materials Deposit,Devs Checking (7527),-200.00   
-,02/28/2020,Expenditure,430970,No,First Impressions Printing,Blank Envelopes for Folded Note Cards x50,Devs Checking (7527),4.84   
-,02/28/2020,Expenditure,430970,No,First Impressions Printing,Sales Tax,Devs Checking (7527),38.62   
-,02/28/2020,Expenditure,430970,No,First Impressions Printing,Method Flat Note Card 4x6  x150,Devs Checking (7527),35.03   
-,02/28/2020,Expenditure,430970,No,First Impressions Printing,Method Folded Note Cards x50,Devs Checking (7527),46.77   
 ,02/29/2020,Expenditure,550835,No,Walmart,Cmnd Pic Hng x2,Devs Checking (7527),4.76   
    Total for Method Print Materials,,,,,,,,$520.11   
    Method Speaker Dinner,,,,,,,,
@@ -688,19 +690,19 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
    Method Speaker Gifts,,,,,,,,
 ,02/20/2020,Expenditure,,No,Askinosie Chocolate LLC,Itty Bar Zamora Amazonia  31@ $0.85 + Tax,Devs Checking (7527),30.87   
 ,02/20/2020,Expenditure,,No,Chabom Teas and Spices,Detail Not Provided,Devs Checking (7527),68.58   
-,02/22/2020,Expenditure,477011,No,Amazon Shopping,"1 of: The Gift Wrap Company 4832-03 Decorative Confetti Bows, Large, Red Metallic",Devs Checking (7527),12.63   
-,02/22/2020,Expenditure,477011,No,Amazon Shopping,3 of: Uber Gift Card $100,Devs Checking (7527),300.00   
-,02/22/2020,Expenditure,477011,No,Amazon Shopping,7 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),350.00   
-,02/22/2020,Expenditure,477011,No,Amazon Shopping,"1 of: The Gift Wrap Company Decorative Confetti Gift Bows, Large, Black, pack of 12",Devs Checking (7527),11.58   
 ,02/22/2020,Expenditure,477011,No,Amazon Shopping,Sales Tax,Devs Checking (7527),1.96   
+,02/22/2020,Expenditure,477011,No,Amazon Shopping,7 of: Amazon.com Gift Card in a Black Gift Box,Devs Checking (7527),350.00   
+,02/22/2020,Expenditure,477011,No,Amazon Shopping,3 of: Uber Gift Card $100,Devs Checking (7527),300.00   
+,02/22/2020,Expenditure,477011,No,Amazon Shopping,"1 of: The Gift Wrap Company Decorative Confetti Gift Bows, Large, Black, pack of 12",Devs Checking (7527),11.58   
+,02/22/2020,Expenditure,477011,No,Amazon Shopping,"1 of: The Gift Wrap Company 4832-03 Decorative Confetti Bows, Large, Red Metallic",Devs Checking (7527),12.63   
 ,02/24/2020,Deposit,,No,Amazon Shopping,Adjustment,Devs Checking (7527),-0.04   
 ,02/29/2020,Expenditure,550835,No,Walmart,Stamp Book x20 Stamps,Devs Checking (7527),11.00   
    Total for Method Speaker Gifts,,,,,,,,$786.58   
    Method Speaker Travel,,,,,,,,
-,02/13/2020,Bill,,No,Sam Basu,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
-,02/13/2020,Bill,,No,Randy Walker,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
-,02/13/2020,Bill,,No,Katie Womersley,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),"1,600.00   "
 ,02/13/2020,Bill,,No,Erika Gerdes,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),717.00   
+,02/13/2020,Bill,,No,Katie Womersley,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),"1,600.00   "
+,02/13/2020,Bill,,No,Randy Walker,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
+,02/13/2020,Bill,,No,Sam Basu,Speaker Travel for Method Conference in Springfield Missouri on 03/05/2020,Accounts Payable (A/P),450.00   
 ,03/11/2020,Bill,271567A,No,Hilton Garden Inn Springfield,Hotel Rooms for Method Conf Speakers - 8 nights @ 143.77 (126 guest room + 6.30 occupancy tax + 11.47 state tax),Accounts Payable (A/P),"1,150.16   "
    Total for Method Speaker Travel,,,,,,,,"$4,367.16   "
    Method Ticket Fees,,,,,,,,
@@ -725,4 +727,4 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
 Total for Method,,,,,,,,"$19,418.30   "
 ,,,,,,,,
 ,,,,,,,,
-"Wednesday, May 06, 2020 08:36:43 AM GMT-7 - Accrual Basis",,,,,,,,
+"Monday, Jun 08, 2020 09:23:03 AM GMT-7 - Accrual Basis",,,,,,,,

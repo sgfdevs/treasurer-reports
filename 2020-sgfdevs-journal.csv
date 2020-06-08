@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January 1 - May 6, 2020",,,,,,,,,
+"January - May, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1151,7 +1151,11 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,,Accounts Payable (A/P),20.00   ,
 ,,,,,,,,$20.00   ,$20.00   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$100,757.34   ","$100,757.34   "
+,05/07/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+TOTAL,,,,,,,,"$100,777.34   ","$100,777.34   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Wednesday, May 06, 2020 08:30:25 AM GMT-7",,,,,,,,,
+"Monday, Jun 08, 2020 09:22:27 AM GMT-7",,,,,,,,,
