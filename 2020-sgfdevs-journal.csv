@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - May, 2020",,,,,,,,,
+"January - June, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1112,7 +1112,7 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,,,,,$20.00   ,$20.00   
 ,,,,,,,,,
 ,04/08/2020,Bill,333,No,Brad Hill Design Group,,Accounts Payable (A/P),,"1,000.00   "
-,,,,No,,DEVS Event Website Responsive Design (Initial Payment 50%),Method:Method Design,"1,000.00   ",
+,,,,No,,DEVS Event Website Responsive Design (Initial Payment 50%),Devs:Devs Design,"1,000.00   ",
 ,,,,,,,,"$1,000.00   ","$1,000.00   "
 ,,,,,,,,,
 ,04/15/2020,Expenditure,,No,Meetup.com,Organizer Subscription 04/14-10/14,Devs Checking (7527),,98.94   
@@ -1155,7 +1155,43 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,,Accounts Payable (A/P),20.00   ,
 ,,,,,,,,$20.00   ,$20.00   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$100,777.34   ","$100,777.34   "
+,06/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,06/03/2020,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,0.60   
+,,,,No,,AMAZON WEB SERVICES DBT CRD 1557 06/02/20 DBEWR7LH,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,06/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,06/08/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,06/14/2020,Bill,341,No,Brad Hill Design Group,,Accounts Payable (A/P),,"1,000.00   "
+,,,,No,,DEVS Event Website Responsive Design (Final Payment 50%),Devs:Devs Design,"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,06/15/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,06/23/2020,Payment,,No,Mostly Serious,Paid via QuickBooks Payments: Payment ID PL0032393209,Undeposited Funds,500.00   ,
+,,,,No,,,Accounts Receivable (A/R),,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,06/23/2020,Deposit,,No,Mostly Serious,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),500.00   ,
+,,,,No,,Paid via QuickBooks Payments: Payment ID PL0032393209,Undeposited Funds,,500.00   
+,,,,,,,,$500.00   ,$500.00   
+,,,,,,,,,
+,06/23/2020,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,14.75   
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),14.75   ,
+,,,,,,,,$14.75   ,$14.75   
+,,,,,,,,,
+TOTAL,,,,,,,,"$102,872.69   ","$102,872.69   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Monday, Jun 08, 2020 09:22:27 AM GMT-7",,,,,,,,,
+"Tuesday, Jul 07, 2020 04:00:00 PM GMT-7",,,,,,,,,
