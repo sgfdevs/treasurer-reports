@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - June, 2020",,,,,,,,,
+"January - July, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1191,7 +1191,43 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),14.75   ,
 ,,,,,,,,$14.75   ,$14.75   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$102,872.69   ","$102,872.69   "
+,07/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,07/01/2020,Bill,29050581,No,Zoom Video,07/01/2020-07/31/2020,Accounts Payable (A/P),,14.99   
+,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,07/02/2020,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99   
+,,,,No,,,Accounts Payable (A/P),14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,07/03/2020,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,0.60   
+,,,,No,,AMAZON WEB SERVICES DBT CRD 2139 07/03/20 DBX1S014,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,07/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,07/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,07/07/2020,Bill Payment (Check),FBO,No,Brad Hill Design Group,SGF DEVS,Devs Checking (7527),,"1,000.00   "
+,,,,No,,,Accounts Payable (A/P),"1,000.00   ",
+,,,,,,,,"$1,000.00   ","$1,000.00   "
+,,,,,,,,,
+,07/09/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,07/10/2020,Expenditure,,No,Name.com,"Domain Renewals (helpsgf.com, methodconf.com)",Devs Checking (7527),,35.96   
+,,,,No,,"Domain Renewals (helpsgf.com, methodconf.com)",Devs:Devs Software & Hosting,35.96   ,
+,,,,,,,,$35.96   ,$35.96   
+,,,,,,,,,
+TOTAL,,,,,,,,"$104,019.23   ","$104,019.23   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Tuesday, Jul 07, 2020 04:00:00 PM GMT-7",,,,,,,,,
+"Monday, Aug 10, 2020 08:45:35 PM GMT-7",,,,,,,,,
