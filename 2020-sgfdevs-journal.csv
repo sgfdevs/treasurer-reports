@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - July, 2020",,,,,,,,,
+"January - August, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1227,7 +1227,43 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,"Domain Renewals (helpsgf.com, methodconf.com)",Devs:Devs Software & Hosting,35.96   ,
 ,,,,,,,,$35.96   ,$35.96   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$104,019.23   ","$104,019.23   "
+,08/01/2020,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99   
+,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,08/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,08/03/2020,Expenditure,,No,Walmart,,Devs Checking (7527),,19.18   
+,,,,No,,Wal-Mart Super C POS DEB 1603 08/02/20 35350853,Devs:Devs Member Meals,19.18   ,
+,,,,,,,,$19.18   ,$19.18   
+,,,,,,,,,
+,08/03/2020,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99   
+,,,,No,,,Accounts Payable (A/P),14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,08/04/2020,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,0.60   
+,,,,No,,AMAZON WEB SERVICES DBT CRD 1230 08/03/20 DBINVP2O,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,08/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,08/05/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,08/07/2020,Expenditure,,No,Pizza Hut (Grant),Dev Night Pizza,Devs Checking (7527),,62.60   
+,,,,No,,Dev Night Pizza,Devs:Devs Member Meals,62.60   ,
+,,,,,,,,$62.60   ,$62.60   
+,,,,,,,,,
+,08/24/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+TOTAL,,,,,,,,"$104,211.59   ","$104,211.59   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Monday, Aug 10, 2020 08:45:35 PM GMT-7",,,,,,,,,
+"Sunday, Oct 04, 2020 05:07:25 PM GMT-7",,,,,,,,,
