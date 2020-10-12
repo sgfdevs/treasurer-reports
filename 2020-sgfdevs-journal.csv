@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - August, 2020",,,,,,,,,
+"January - September, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1263,7 +1263,43 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,,Accounts Payable (A/P),20.00   ,
 ,,,,,,,,$20.00   ,$20.00   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$104,211.59   ","$104,211.59   "
+,09/01/2020,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99   
+,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,09/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,09/02/2020,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99   
+,,,,No,,,Accounts Payable (A/P),14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,09/03/2020,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,0.60   
+,,,,No,,AMAZON WEB SERVICES DBT CRD 0038 09/03/20 DB1123GQ,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,09/04/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,09/04/2020,Expenditure,,No,Pizza Hut (Grant),Dev Night Food,Devs Checking (7527),,63.85   
+,,,,No,,Dev Night Food,Devs:Devs Member Meals,63.85   ,
+,,,,,,,,$63.85   ,$63.85   
+,,,,,,,,,
+,09/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,09/08/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,09/30/2020,Expenditure,,No,Name.com,sgfwebdevs.com 1YR,Devs Checking (7527),,17.98   
+,,,,No,,sgfwebdevs.com 1YR,Devs:Devs Software & Hosting,17.98   ,
+,,,,,,,,$17.98   ,$17.98   
+,,,,,,,,,
+TOTAL,,,,,,,,"$104,404.00   ","$104,404.00   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Sunday, Oct 04, 2020 05:07:25 PM GMT-7",,,,,,,,,
+"Sunday, Oct 11, 2020 06:32:22 PM GMT-7",,,,,,,,,
