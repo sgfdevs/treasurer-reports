@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,
 Statement of Activity Detail,,,,,,,
-"January - September, 2020",,,,,,,
+"January - October, 2020",,,,,,,
 ,,,,,,,
 ,Date,Transaction Type,Num,Name,Memo/Description,Split,Amount
 Ordinary Revenue/Expenditures,,,,,,,
@@ -179,7 +179,8 @@ Ordinary Revenue/Expenditures,,,,,,,
 ,08/03/2020,Expenditure,,Walmart,Wal-Mart Super C POS DEB 1603 08/02/20 35350853,Devs Checking (7527),19.18   
 ,08/07/2020,Expenditure,,Pizza Hut (Grant),Dev Night Pizza,Devs Checking (7527),62.60   
 ,09/04/2020,Expenditure,,Pizza Hut (Grant),Dev Night Food,Devs Checking (7527),63.85   
-         Total for Devs Member Meals,,,,,,,$332.42   
+,10/09/2020,Expenditure,,Pizza Hut (Grant),Dev Night Food,Devs Checking (7527),57.00   
+         Total for Devs Member Meals,,,,,,,$389.42   
          Devs Membership Gifts,,,,,,,
 ,01/07/2020,Bill,27413,Missouri Embroidery,"Springfield Devs Shirts for Founding Sponsors
 Bella + Canvas Men 3413 17@ $12.00
@@ -230,12 +231,20 @@ Credit Card Charge 3.5% $9.16",Accounts Payable (A/P),270.76
 ,08/01/2020,Bill,,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99   
 ,08/04/2020,Expenditure,,Amazon Web Services,AMAZON WEB SERVICES DBT CRD 1230 08/03/20 DBINVP2O,Devs Checking (7527),0.60   
 ,08/05/2020,Bill,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
-,09/01/2020,Bill,,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99   
 ,09/01/2020,Bill,,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00   
+,09/01/2020,Bill,,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99   
 ,09/03/2020,Expenditure,,Amazon Web Services,AMAZON WEB SERVICES DBT CRD 0038 09/03/20 DB1123GQ,Devs Checking (7527),0.60   
 ,09/05/2020,Bill,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
 ,09/30/2020,Expenditure,,Name.com,sgfwebdevs.com 1YR,Devs Checking (7527),17.98   
-         Total for Devs Software & Hosting,,,,,,,$833.68   
+,10/01/2020,Bill,,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99   
+,10/01/2020,Bill,,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00   
+,10/02/2020,Bill,,1Password,1Password Families Plan (Annual),Accounts Payable (A/P),59.85   
+,10/05/2020,Expenditure,,1Password,1Password Annual Renewal,Devs Checking (7527),59.85   
+,10/05/2020,Expenditure,,Amazon Web Services,Monthly Hosting,Devs Checking (7527),0.60   
+,10/05/2020,Bill,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00   
+,10/15/2020,Expenditure,,Meetup.com,Meetup 10/14/2020-04/14/2021,Devs Checking (7527),98.94   
+,10/19/2020,Expenditure,,Name.com,devfestsgf.com 1YR,Devs Checking (7527),17.98   
+         Total for Devs Software & Hosting,,,,,,,"$1,125.89   "
          Devs Sponsor Gifts,,,,,,,
 ,02/08/2020,Bill,162673,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (Sales Tax 8.10%),Accounts Payable (A/P),40.75   
 ,02/08/2020,Bill,162673,BJ's Trophy,Springfield Devs Founding Sponsor Plaques (18@ $27.95),Accounts Payable (A/P),503.10   
@@ -245,7 +254,7 @@ Headline Productions",Devs Checking (7527),30.21
          Devs Taxes & Licenses,,,,,,,
 ,04/15/2020,Check,,Internal Revenue Service,IRS Nonprofit 501(c)(6) Application Fee,Devs Checking (7527),600.00   
          Total for Devs Taxes & Licenses,,,,,,,$600.00   
-      Total for Devs,,,,,,,"$4,687.35   "
+      Total for Devs,,,,,,,"$5,036.56   "
       Method,,,,,,,
          Method Advertising,,,,,,,
 ,02/08/2020,Expenditure,7KVN6RAMM2,Facebook Ads,Event: Method Conference 2020 (3069 impressions),Devs Checking (7527),25.00   
@@ -410,8 +419,8 @@ Red Triblend: AL - 3, AXL - 1, A2XL - 3, A3XL - 1
 ,03/06/2020,Expenditure,,Stripe Payments,Tito 100 @ 3%,Devs Stripe,3.00   
          Total for Method Ticket Fees,,,,,,,$156.91   
       Total for Method,,,,,,,"$18,418.30   "
-   Total for Expenditures,,,,,,,"$23,105.65   "
-Net Revenue,,,,,,,-$900.65   
+   Total for Expenditures,,,,,,,"$23,454.86   "
+Net Revenue,,,,,,,"-$1,249.86   "
 ,,,,,,,
 ,,,,,,,
-"Sunday, Oct 11, 2020 06:32:57 PM GMT-7 - Accrual Basis",,,,,,,
+"Monday, Nov 09, 2020 07:28:13 PM GMT-8 - Accrual Basis",,,,,,,

@@ -1,6 +1,6 @@
 Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - September, 2020",,,,,,,,,
+"January - October, 2020",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2020,Bill,7336,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
@@ -1299,7 +1299,55 @@ Headline Productions",Devs:Devs Sponsor Gifts,30.21   ,
 ,,,,No,,sgfwebdevs.com 1YR,Devs:Devs Software & Hosting,17.98   ,
 ,,,,,,,,$17.98   ,$17.98   
 ,,,,,,,,,
-TOTAL,,,,,,,,"$104,404.00   ","$104,404.00   "
+,10/01/2020,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99   
+,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,10/01/2020,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00   
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,10/02/2020,Bill,,No,1Password,,Accounts Payable (A/P),,59.85   
+,,,,No,,1Password Families Plan (Annual),Devs:Devs Software & Hosting,59.85   ,
+,,,,,,,,$59.85   ,$59.85   
+,,,,,,,,,
+,10/05/2020,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00   
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,10/05/2020,Expenditure,,No,1Password,1Password Annual Renewal,Devs Checking (7527),,59.85   
+,,,,No,,1Password Annual Renewal,Devs:Devs Software & Hosting,59.85   ,
+,,,,,,,,$59.85   ,$59.85   
+,,,,,,,,,
+,10/05/2020,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99   
+,,,,No,,,Accounts Payable (A/P),14.99   ,
+,,,,,,,,$14.99   ,$14.99   
+,,,,,,,,,
+,10/05/2020,Expenditure,,No,Amazon Web Services,Monthly Hosting,Devs Checking (7527),,0.60   
+,,,,No,,Monthly Hosting,Devs:Devs Software & Hosting,0.60   ,
+,,,,,,,,$0.60   ,$0.60   
+,,,,,,,,,
+,10/06/2020,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,10/07/2020,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00   
+,,,,No,,,Accounts Payable (A/P),20.00   ,
+,,,,,,,,$20.00   ,$20.00   
+,,,,,,,,,
+,10/09/2020,Expenditure,,No,Pizza Hut (Grant),Dev Night Food,Devs Checking (7527),,57.00   
+,,,,No,,Dev Night Food,Devs:Devs Member Meals,57.00   ,
+,,,,,,,,$57.00   ,$57.00   
+,,,,,,,,,
+,10/15/2020,Expenditure,,No,Meetup.com,Meetup 10/14/2020-04/14/2021,Devs Checking (7527),,98.94   
+,,,,No,,Meetup 10/14/2020-04/14/2021,Devs:Devs Software & Hosting,98.94   ,
+,,,,,,,,$98.94   ,$98.94   
+,,,,,,,,,
+,10/19/2020,Expenditure,,No,Name.com,devfestsgf.com 1YR,Devs Checking (7527),,17.98   
+,,,,No,,devfestsgf.com 1YR,Devs:Devs Software & Hosting,17.98   ,
+,,,,,,,,$17.98   ,$17.98   
+,,,,,,,,,
+TOTAL,,,,,,,,"$104,808.20   ","$104,808.20   "
 ,,,,,,,,,
 ,,,,,,,,,
-"Sunday, Oct 11, 2020 06:32:22 PM GMT-7",,,,,,,,,
+"Monday, Nov 09, 2020 07:27:51 PM GMT-8",,,,,,,,,
