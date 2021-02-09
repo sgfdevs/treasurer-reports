@@ -1,0 +1,30 @@
+﻿Springfield Devs,,,,,,,,
+Transaction Detail by  Account,,,,,,,,
+January 2021,,,,,,,,
+,,,,,,,,
+,Date,Transaction Type,Num,Adj,Name,Memo/Description,Split,Amount
+Devs Checking (7527),,,,,,,,
+,01/04/2021,Bill Payment (Check),,No,Zoom Video,,Accounts Payable (A/P),-14.99  
+,01/04/2021,Expenditure,636334269,No,Amazon Web Services,,Devs:Devs Software & Hosting,-10.29  
+,01/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00  
+,01/06/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
+Total for Devs Checking (7527),,,,,,,,-$65.28  
+Accounts Payable (A/P),,,,,,,,
+,01/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
+,01/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
+,01/04/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),-14.99  
+,01/05/2021,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00  
+,01/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
+,01/06/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00  
+Total for Accounts Payable (A/P),,,,,,,,$0.00  
+Devs,,,,,,,,
+   Devs Software & Hosting,,,,,,,,
+,01/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
+,01/01/2021,Bill,,No,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
+,01/04/2021,Expenditure,636334269,No,Amazon Web Services,,Devs Checking (7527),10.29  
+,01/05/2021,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
+   Total for Devs Software & Hosting,,,,,,,,$65.28  
+Total for Devs,,,,,,,,$65.28  
+,,,,,,,,
+,,,,,,,,
+"Monday, Feb 08, 2021 04:33:09 PM GMT-8 - Accrual Basis",,,,,,,,
