@@ -1,20 +1,31 @@
 ﻿Springfield Devs,,,,,,,,
 Statement of Activity Detail,,,,,,,,
-January 2021,,,,,,,,
+"January - February, 2021",,,,,,,,
 ,,,,,,,,
 ,Date,Transaction Type,Num,Num,Name,Memo/Description,Split,Amount
 Ordinary Revenue/Expenditures,,,,,,,,
    Expenditures,,,,,,,,
       Devs,,,,,,,,
+         Devs Insurance,,,,,,,,
+,02/01/2021,Check,2001,2001,Pillar Insurance Springfield,Check               2001,Devs Checking (7527),"1,148.00  "
+         Total for Devs Insurance,,,,,,,"$1,148.00  ",
+         Devs Payment Fees (Intuit),,,,,,,,
+,02/11/2021,Expenditure,,,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),6.00  
+         Total for Devs Payment Fees (Intuit),,,,,,,$6.00  ,
          Devs Software & Hosting,,,,,,,,
 ,01/01/2021,Bill,,,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
 ,01/01/2021,Bill,,,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
 ,01/04/2021,Expenditure,636334269,636334269,Amazon Web Services,,Devs Checking (7527),10.29  
 ,01/05/2021,Bill,,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
-         Total for Devs Software & Hosting,,,,,,,$65.28  ,
-      Total for Devs,,,,,,,$65.28  ,
-   Total for Expenditures,,,,,,,$65.28  ,
-Net Revenue,,,,,,,-$65.28  ,
+,02/01/2021,Bill,,,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
+,02/01/2021,Bill,,,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
+,02/04/2021,Expenditure,,,Amazon Web Services,AMAZON WEB SERVICES DBT CRD 2058 02/04/21 DBU05BHI,Devs Checking (7527),10.22  
+,02/05/2021,Bill,,,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
+,02/08/2021,Expenditure,,,,"NAME.COM, INC DBT CRD 1221 02/06/21 DBH791RU",Devs Checking (7527),232.48  
+         Total for Devs Software & Hosting,,,,,,,$362.97  ,
+      Total for Devs,,,,,,,"$1,516.97  ",
+   Total for Expenditures,,,,,,,"$1,516.97  ",
+Net Revenue,,,,,,,"-$1,516.97  ",
 ,,,,,,,,
 ,,,,,,,,
-"Monday, Feb 08, 2021 04:33:06 PM GMT-8 - Accrual Basis",,,,,,,,
+"Tuesday, Mar 09, 2021 06:08:21 AM GMT-8 - Accrual Basis",,,,,,,,
