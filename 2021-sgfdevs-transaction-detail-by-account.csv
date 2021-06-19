@@ -1,71 +1,101 @@
-Springfield Devs,,,,,,,,
+﻿Springfield Devs,,,,,,,,
 Transaction Detail by  Account,,,,,,,,
-"January - March, 2021",,,,,,,,
+"January - May, 2021",,,,,,,,
 ,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Split,Amount
 Devs Checking (7527),,,,,,,,
 ,01/04/2021,Expenditure,636334269,No,Amazon Web Services,,Devs:Devs Software & Hosting,-10.29  
 ,01/04/2021,Bill Payment (Check),,No,Zoom Video,,Accounts Payable (A/P),-14.99  
-,01/06/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
 ,01/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00  
+,01/06/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
 ,02/01/2021,Check,2001,No,Pillar Insurance Springfield,,Devs:Devs Insurance,"-1,148.00  "
 ,02/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
 ,02/02/2021,Bill Payment (Check),,No,Zoom Video,,Accounts Payable (A/P),-14.99  
 ,02/04/2021,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-10.22  
 ,02/08/2021,Expenditure,,No,,,Devs:Devs Software & Hosting,-232.48  
 ,02/08/2021,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00  
-,02/11/2021,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-6.00  
 ,02/11/2021,Deposit,,No,Self Interactive,System-recorded deposit for QuickBooks Payments,Undeposited Funds,600.00  
+,02/11/2021,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),-6.00  
 ,03/02/2021,Bill Payment (Check),,No,Zoom Video,,Accounts Payable (A/P),-14.99  
-,03/03/2021,Payment,,No,Hearo Technologies,,Accounts Receivable (A/R),600.00  
-,03/03/2021,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-9.42  
 ,03/03/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
+,03/03/2021,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-9.42  
+,03/03/2021,Payment,,No,Hearo Technologies,,Accounts Receivable (A/R),600.00  
 ,03/09/2021,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00  
-Total for Devs Checking (7527),,,,,,,,-$	381.38  
+,04/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
+,04/05/2021,Bill Payment (Check),,No,Zoom Video,,Accounts Payable (A/P),-14.99  
+,04/05/2021,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-10.25  
+,04/08/2021,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00  
+,04/09/2021,Expenditure,,No,,,Devs:Devs Office Supplies,-17.98  
+,04/15/2021,Expenditure,,No,Meetup.com,,Devs:Devs Office Supplies,-98.94  
+,05/03/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),-20.00  
+,05/03/2021,Expenditure,,No,Amazon Web Services,,Devs:Devs Software & Hosting,-9.98  
+,05/07/2021,Bill Payment (Check),,No,Microsoft Corporation,,Accounts Payable (A/P),-20.00  
+,05/07/2021,Expenditure,,No,Pizza Hut (Grant),,Devs:Devs Member Meals,-71.45  
+Total for Devs Checking (7527),,,,,,,,-$684.97  
 Accounts Receivable (A/R),,,,,,,,
 ,02/11/2021,Payment,,No,Self Interactive,,Undeposited Funds,-600.00  
 ,03/02/2021,Pledge,1180,No,Hearo Technologies,,Devs Revenue:Devs Sponsorships,600.00  
 ,03/03/2021,Payment,,No,Hearo Technologies,,Devs Checking (7527),-600.00  
-Total for Accounts Receivable (A/R),,,,,,,,-$	600.00  
+,04/23/2021,Pledge,1181,No,Jack Henry & Associates,,Devs Revenue:Devs Sponsorships,"1,500.00  "
+Total for Accounts Receivable (A/R),,,,,,,,$900.00  
 Undeposited Funds,,,,,,,,
-,02/11/2021,Payment,,No,Self Interactive,Paid via QuickBooks Payments: Payment ID aoz5yxgx,Accounts Receivable (A/R),600.00  
 ,02/11/2021,Deposit,,No,Self Interactive,Paid via QuickBooks Payments: Payment ID aoz5yxgx,Devs Checking (7527),-600.00  
-Total for Undeposited Funds,,,,,,,,$	0.00  
+,02/11/2021,Payment,,No,Self Interactive,Paid via QuickBooks Payments: Payment ID aoz5yxgx,Accounts Receivable (A/R),600.00  
+Total for Undeposited Funds,,,,,,,,$0.00  
 Accounts Payable (A/P),,,,,,,,
-,01/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
 ,01/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
+,01/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
 ,01/04/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),-14.99  
 ,01/05/2021,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00  
-,01/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
 ,01/06/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00  
+,01/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
 ,02/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
-,02/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
 ,02/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00  
+,02/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
 ,02/02/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),-14.99  
 ,02/05/2021,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00  
 ,02/08/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
-,03/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
 ,03/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
+,03/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
 ,03/02/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),-14.99  
 ,03/03/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00  
 ,03/05/2021,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00  
 ,03/09/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
-Total for Accounts Payable (A/P),,,,,,,,$	0.00  
+,04/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00  
+,04/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
+,04/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
+,04/05/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),-14.99  
+,04/05/2021,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00  
+,04/08/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
+,05/01/2021,Bill,,No,Zoom Video,,Devs:Devs Software & Hosting,14.99  
+,05/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Devs:Devs Software & Hosting,20.00  
+,05/03/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),-20.00  
+,05/05/2021,Bill,,No,Microsoft Corporation,,Devs:Devs Software & Hosting,20.00  
+,05/07/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),-20.00  
+Total for Accounts Payable (A/P),,,,,,,,$14.99  
 Devs Revenue,,,,,,,,
    Devs Sponsorships,,,,,,,,
 ,03/02/2021,Pledge,1180,No,Hearo Technologies,Tier 1 Sponsor benefits for 12 months,Accounts Receivable (A/R),600.00  
-   Total for Devs Sponsorships,,,,,,,,$	600.00  
-Total for Devs Revenue,,,,,,,,$	600.00  
+,04/23/2021,Pledge,1181,No,Jack Henry & Associates,Tier 2 Sponsor benefits for 12 months,Accounts Receivable (A/R),"1,500.00  "
+   Total for Devs Sponsorships,,,,,,,,"$2,100.00  "
+Total for Devs Revenue,,,,,,,,"$2,100.00  "
 Devs,,,,,,,,
    Devs Insurance,,,,,,,,
 ,02/01/2021,Check,2001,No,Pillar Insurance Springfield,Check               2001,Devs Checking (7527),"1,148.00  "
-   Total for Devs Insurance,,,,,,,,"$	1,148.00  "
+   Total for Devs Insurance,,,,,,,,"$1,148.00  "
+   Devs Member Meals,,,,,,,,
+,05/07/2021,Expenditure,,No,Pizza Hut (Grant),DBT CRD 1457 DBUCM PIZZA HUT 004082 4178638722 MO C#4443,Devs Checking (7527),71.45  
+   Total for Devs Member Meals,,,,,,,,$71.45  
+   Devs Office Supplies,,,,,,,,
+,04/09/2021,Expenditure,,No,,"DBT CRD 1258 DBJV2B7Q NAME.COM, INC 7202492374 CO C#4443",Devs Checking (7527),17.98  
+,04/15/2021,Expenditure,,No,Meetup.com,DBT CRD 0609 DBJ5MLTB MEETUP ORG SUB 6M 6468384815 NY C#4443,Devs Checking (7527),98.94  
+   Total for Devs Office Supplies,,,,,,,,$116.92  
    Devs Payment Fees (Intuit),,,,,,,,
 ,02/11/2021,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),6.00  
-   Total for Devs Payment Fees (Intuit),,,,,,,,$	6.00  
+   Total for Devs Payment Fees (Intuit),,,,,,,,$6.00  
    Devs Software & Hosting,,,,,,,,
-,01/01/2021,Bill,,No,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
 ,01/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
+,01/01/2021,Bill,,No,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
 ,01/04/2021,Expenditure,636334269,No,Amazon Web Services,,Devs Checking (7527),10.29  
 ,01/05/2021,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
 ,02/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
@@ -77,8 +107,16 @@ Devs,,,,,,,,
 ,03/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
 ,03/03/2021,Expenditure,,No,Amazon Web Services,AMAZON WEB SERVICES DBT CRD 2340 03/03/21 DBJVUWQ6,Devs Checking (7527),9.42  
 ,03/05/2021,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
-   Total for Devs Software & Hosting,,,,,,,,$	427.38  
-Total for Devs,,,,,,,,"$	1,581.38  "
+,04/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
+,04/01/2021,Bill,,No,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
+,04/05/2021,Expenditure,,No,Amazon Web Services,DBT CRD 0632 DBWLJUXT AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs Checking (7527),10.25  
+,04/05/2021,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
+,05/01/2021,Bill,,No,Zoom Video,Zoom Pro Monthly Subscription,Accounts Payable (A/P),14.99  
+,05/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Accounts Payable (A/P),20.00  
+,05/03/2021,Expenditure,,No,Amazon Web Services,DBT CRD 0136 DBXCN325 AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs Checking (7527),9.98  
+,05/05/2021,Bill,,No,Microsoft Corporation,Office 365 Business Essentials ($5/mo/user),Accounts Payable (A/P),20.00  
+   Total for Devs Software & Hosting,,,,,,,,$557.59  
+Total for Devs,,,,,,,,"$1,899.96  "
 ,,,,,,,,
 ,,,,,,,,
-"Tuesday, Apr 13, 2021 05:27:21 AM GMT-7 - Accrual Basis",,,,,,,,
+"Saturday, Jun 19, 2021 06:40:08 AM GMT-7 - Accrual Basis",,,,,,,,

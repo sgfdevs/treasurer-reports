@@ -1,121 +1,189 @@
-Springfield Devs,,,,,,,,,
+﻿Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - March, 2021",,,,,,,,,
+"January - May, 2021",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
 ,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99  ,
-,,,,,,,,$	14.99  ,$	14.99  
+,,,,,,,,$14.99  ,$14.99  
 ,,,,,,,,,
 ,01/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
 ,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,01/04/2021,Expenditure,636334269,No,Amazon Web Services,,Devs Checking (7527),,10.29  
 ,,,,No,,,Devs:Devs Software & Hosting,10.29  ,
-,,,,,,,,$	10.29  ,$	10.29  
+,,,,,,,,$10.29  ,$10.29  
 ,,,,,,,,,
 ,01/04/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99  
 ,,,,No,,,Accounts Payable (A/P),14.99  ,
-,,,,,,,,$	14.99  ,$	14.99  
+,,,,,,,,$14.99  ,$14.99  
 ,,,,,,,,,
 ,01/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
 ,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,01/06/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
 ,,,,No,,,Accounts Payable (A/P),20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,01/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
 ,,,,No,,,Accounts Payable (A/P),20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,02/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
 ,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99  ,
-,,,,,,,,$	14.99  ,$	14.99  
+,,,,,,,,$14.99  ,$14.99  
 ,,,,,,,,,
 ,02/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
 ,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,02/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
 ,,,,No,,,Accounts Payable (A/P),20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,02/01/2021,Check,2001,No,Pillar Insurance Springfield,,Devs Checking (7527),,"1,148.00  "
 ,,,,No,,Check               2001,Devs:Devs Insurance,"1,148.00  ",
-,,,,,,,,"$	1,148.00  ","$	1,148.00  "
+,,,,,,,,"$1,148.00  ","$1,148.00  "
 ,,,,,,,,,
 ,02/02/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99  
 ,,,,No,,,Accounts Payable (A/P),14.99  ,
-,,,,,,,,$	14.99  ,$	14.99  
+,,,,,,,,$14.99  ,$14.99  
 ,,,,,,,,,
 ,02/04/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,10.22  
 ,,,,No,,AMAZON WEB SERVICES DBT CRD 2058 02/04/21 DBU05BHI,Devs:Devs Software & Hosting,10.22  ,
-,,,,,,,,$	10.22  ,$	10.22  
+,,,,,,,,$10.22  ,$10.22  
 ,,,,,,,,,
 ,02/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
 ,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,02/08/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
 ,,,,No,,,Accounts Payable (A/P),20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,02/08/2021,Expenditure,,No,,,Devs Checking (7527),,232.48  
 ,,,,No,,"NAME.COM, INC DBT CRD 1221 02/06/21 DBH791RU",Devs:Devs Software & Hosting,232.48  ,
-,,,,,,,,$	232.48  ,$	232.48  
+,,,,,,,,$232.48  ,$232.48  
 ,,,,,,,,,
 ,02/11/2021,Payment,,No,Self Interactive,Paid via QuickBooks Payments: Payment ID aoz5yxgx,Undeposited Funds,600.00  ,
 ,,,,No,,,Accounts Receivable (A/R),,600.00  
-,,,,,,,,$	600.00  ,$	600.00  
+,,,,,,,,$600.00  ,$600.00  
 ,,,,,,,,,
 ,02/11/2021,Deposit,,No,Self Interactive,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),600.00  ,
 ,,,,No,,Paid via QuickBooks Payments: Payment ID aoz5yxgx,Undeposited Funds,,600.00  
-,,,,,,,,$	600.00  ,$	600.00  
+,,,,,,,,$600.00  ,$600.00  
 ,,,,,,,,,
 ,02/11/2021,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,6.00  
 ,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),6.00  ,
-,,,,,,,,$	6.00  ,$	6.00  
+,,,,,,,,$6.00  ,$6.00  
 ,,,,,,,,,
 ,03/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
 ,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99  ,
-,,,,,,,,$	14.99  ,$	14.99  
+,,,,,,,,$14.99  ,$14.99  
 ,,,,,,,,,
 ,03/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
 ,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,03/02/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99  
 ,,,,No,,,Accounts Payable (A/P),14.99  ,
-,,,,,,,,$	14.99  ,$	14.99  
+,,,,,,,,$14.99  ,$14.99  
 ,,,,,,,,,
 ,03/02/2021,Pledge,1180,No,Hearo Technologies,,Accounts Receivable (A/R),600.00  ,
 ,,,,No,,Tier 1 Sponsor benefits for 12 months,Devs Revenue:Devs Sponsorships,,600.00  
-,,,,,,,,$	600.00  ,$	600.00  
+,,,,,,,,$600.00  ,$600.00  
 ,,,,,,,,,
 ,03/03/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
 ,,,,No,,,Accounts Payable (A/P),20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,03/03/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,9.42  
 ,,,,No,,AMAZON WEB SERVICES DBT CRD 2340 03/03/21 DBJVUWQ6,Devs:Devs Software & Hosting,9.42  ,
-,,,,,,,,$	9.42  ,$	9.42  
+,,,,,,,,$9.42  ,$9.42  
 ,,,,,,,,,
 ,03/03/2021,Payment,,No,Hearo Technologies,,Devs Checking (7527),600.00  ,
 ,,,,No,,,Accounts Receivable (A/R),,600.00  
-,,,,,,,,$	600.00  ,$	600.00  
+,,,,,,,,$600.00  ,$600.00  
 ,,,,,,,,,
 ,03/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
 ,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
 ,03/09/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
 ,,,,No,,,Accounts Payable (A/P),20.00  ,
-,,,,,,,,$	20.00  ,$	20.00  
+,,,,,,,,$20.00  ,$20.00  
 ,,,,,,,,,
-TOTAL,,,,,,,,"$	4,146.35  ","$	4,146.35  "
+,04/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
+,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99  ,
+,,,,,,,,$14.99  ,$14.99  
+,,,,,,,,,
+,04/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,04/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,04/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,04/05/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,10.25  
+,,,,No,,DBT CRD 0632 DBWLJUXT AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs:Devs Software & Hosting,10.25  ,
+,,,,,,,,$10.25  ,$10.25  
+,,,,,,,,,
+,04/05/2021,Bill Payment (Check),,No,Zoom Video,,Devs Checking (7527),,14.99  
+,,,,No,,,Accounts Payable (A/P),14.99  ,
+,,,,,,,,$14.99  ,$14.99  
+,,,,,,,,,
+,04/08/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,04/09/2021,Expenditure,,No,,,Devs Checking (7527),,17.98  
+,,,,No,,"DBT CRD 1258 DBJV2B7Q NAME.COM, INC 7202492374 CO C#4443",Devs:Devs Office Supplies,17.98  ,
+,,,,,,,,$17.98  ,$17.98  
+,,,,,,,,,
+,04/15/2021,Expenditure,,No,Meetup.com,,Devs Checking (7527),,98.94  
+,,,,No,,DBT CRD 0609 DBJ5MLTB MEETUP ORG SUB 6M 6468384815 NY C#4443,Devs:Devs Office Supplies,98.94  ,
+,,,,,,,,$98.94  ,$98.94  
+,,,,,,,,,
+,04/23/2021,Pledge,1181,No,Jack Henry & Associates,,Accounts Receivable (A/R),"1,500.00  ",
+,,,,No,,Tier 2 Sponsor benefits for 12 months,Devs Revenue:Devs Sponsorships,,"1,500.00  "
+,,,,,,,,"$1,500.00  ","$1,500.00  "
+,,,,,,,,,
+,05/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
+,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99  ,
+,,,,,,,,$14.99  ,$14.99  
+,,,,,,,,,
+,05/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,05/03/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,05/03/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,9.98  
+,,,,No,,DBT CRD 0136 DBXCN325 AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs:Devs Software & Hosting,9.98  ,
+,,,,,,,,$9.98  ,$9.98  
+,,,,,,,,,
+,05/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,05/07/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,05/07/2021,Expenditure,,No,Pizza Hut (Grant),,Devs Checking (7527),,71.45  
+,,,,No,,DBT CRD 1457 DBUCM PIZZA HUT 004082 4178638722 MO C#4443,Devs:Devs Member Meals,71.45  ,
+,,,,,,,,$71.45  ,$71.45  
+,,,,,,,,,
+TOTAL,,,,,,,,"$6,059.92  ","$6,059.92  "
 ,,,,,,,,,
 ,,,,,,,,,
-"Tuesday, Apr 13, 2021 05:27:02 AM GMT-7",,,,,,,,,
+"Saturday, Jun 19, 2021 06:39:39 AM GMT-7",,,,,,,,,
