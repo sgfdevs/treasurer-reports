@@ -1,6 +1,6 @@
 ﻿Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - May, 2021",,,,,,,,,
+"January - June, 2021",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
@@ -155,10 +155,6 @@ Journal,,,,,,,,,
 ,,,,No,,Tier 2 Sponsor benefits for 12 months,Devs Revenue:Devs Sponsorships,,"1,500.00  "
 ,,,,,,,,"$1,500.00  ","$1,500.00  "
 ,,,,,,,,,
-,05/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
-,,,,No,,Zoom Pro Monthly Subscription,Devs:Devs Software & Hosting,14.99  ,
-,,,,,,,,$14.99  ,$14.99  
-,,,,,,,,,
 ,05/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
 ,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
 ,,,,,,,,$20.00  ,$20.00  
@@ -183,7 +179,35 @@ Journal,,,,,,,,,
 ,,,,No,,DBT CRD 1457 DBUCM PIZZA HUT 004082 4178638722 MO C#4443,Devs:Devs Member Meals,71.45  ,
 ,,,,,,,,$71.45  ,$71.45  
 ,,,,,,,,,
-TOTAL,,,,,,,,"$6,059.92  ","$6,059.92  "
+,06/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,06/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,06/04/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,10.22  
+,,,,No,,DBT CRD 0835 DBVW5ODF AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs:Devs Software & Hosting,10.22  ,
+,,,,,,,,$10.22  ,$10.22  
+,,,,,,,,,
+,06/04/2021,Expenditure,,No,Pizza Hut (Grant),,Devs Checking (7527),,73.99  
+,,,,No,,DBT CRD 1454 DBIQT36L PIZZA HUT 004082 4178638722 MO C#4443,Devs:Devs Member Meals,73.99  ,
+,,,,,,,,$73.99  ,$73.99  
+,,,,,,,,,
+,06/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,06/09/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,06/24/2021,Payment,,No,Jack Henry & Associates,,Devs Checking (7527),"1,500.00  ",
+,,,,No,,,Accounts Receivable (A/R),,"1,500.00  "
+,,,,,,,,"$1,500.00  ","$1,500.00  "
+,,,,,,,,,
+TOTAL,,,,,,,,"$7,709.14  ","$7,709.14  "
 ,,,,,,,,,
 ,,,,,,,,,
-"Saturday, Jun 19, 2021 06:39:39 AM GMT-7",,,,,,,,,
+"Thursday, Jul 29, 2021 07:18:00 AM GMT-7",,,,,,,,,
