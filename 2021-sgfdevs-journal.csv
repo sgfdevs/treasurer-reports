@@ -1,6 +1,6 @@
 ﻿Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - June, 2021",,,,,,,,,
+"January - July, 2021",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
@@ -207,7 +207,39 @@ Journal,,,,,,,,,
 ,,,,No,,,Accounts Receivable (A/R),,"1,500.00  "
 ,,,,,,,,"$1,500.00  ","$1,500.00  "
 ,,,,,,,,,
-TOTAL,,,,,,,,"$7,709.14  ","$7,709.14  "
+,07/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,07/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,07/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,07/06/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,9.96  
+,,,,No,,DBT CRD 0416 DBXE0VQF AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs:Devs Software & Hosting,9.96  ,
+,,,,,,,,$9.96  ,$9.96  
+,,,,,,,,,
+,07/06/2021,Bill Payment (Check),,No,Microsoft Corporation,,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,07/09/2021,Expenditure,,No,Pizza Hut (Grant),,Devs Checking (7527),,122.78  
+,,,,No,,DBT CRD 1113 DBBXKMPK PIZZA HUT 004082 4178638722 MO C#4443,Devs:Devs Member Meals,122.78  ,
+,,,,,,,,$122.78  ,$122.78  
+,,,,,,,,,
+,07/12/2021,Expenditure,,No,,,Devs Checking (7527),,39.96  
+,,,,No,,"DBT CRD 1137 DBV8SOB7 NAME.COM, INC 7202492374 CO C#4443",Devs:Devs Office Supplies,39.96  ,
+,,,,,,,,$39.96  ,$39.96  
+,,,,,,,,,
+,07/27/2021,Pledge,1182,No,World Wide Technology,,Accounts Receivable (A/R),"1,500.00  ",
+,,,,No,,Tier 2 Sponsor benefits for 12 months,Devs Revenue:Devs Sponsorships,,"1,500.00  "
+,,,,,,,,"$1,500.00  ","$1,500.00  "
+,,,,,,,,,
+TOTAL,,,,,,,,"$9,461.84  ","$9,461.84  "
 ,,,,,,,,,
 ,,,,,,,,,
-"Thursday, Jul 29, 2021 07:18:00 AM GMT-7",,,,,,,,,
+"Sunday, Aug 08, 2021 10:22:36 AM GMT-7",,,,,,,,,
