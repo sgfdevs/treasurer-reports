@@ -1,6 +1,6 @@
 ﻿Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - August, 2021",,,,,,,,,
+"January - September, 2021",,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
@@ -284,7 +284,47 @@ Journal,,,,,,,,,
 ,,,,No,,"DBT CRD 0107 DB4JV2Y1 PRINTFUL, INC. CHARLOTTE NC C#4443",Supplies & Materials,17.99  ,
 ,,,,,,,,$17.99  ,$17.99  
 ,,,,,,,,,
-TOTAL,,,,,,,,"$13,971.85  ","$13,971.85  "
+,09/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,09/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,09/02/2021,Deposit,,No,Stripe Payments,,Devs Checking (7527),22.02  ,
+,,,,No,,TRANSFER STRIPE XXXX5600 ID #ST-K4C0F8V6O2C9 21/09/02 TRACE #XXXX2159,Merchandise,,22.02  
+,,,,,,,,$22.02  ,$22.02  
+,,,,,,,,,
+,09/03/2021,Expenditure,,No,Printful,,Devs Checking (7527),,35.88  
+,,,,No,,"DBT CRD 1029 DBYJVTCE PRINTFUL, INC. CHARLOTTE NC C#4443",Cost of Goods Sold,35.88  ,
+,,,,,,,,$35.88  ,$35.88  
+,,,,,,,,,
+,09/03/2021,Expenditure,,No,Printful,,Devs Checking (7527),,35.53  
+,,,,No,,"DBT CRD 1555 DBCOZZ96 PRINTFUL, INC. CHARLOTTE NC C#4443",Cost of Goods Sold,35.53  ,
+,,,,,,,,$35.53  ,$35.53  
+,,,,,,,,,
+,09/03/2021,Expenditure,,No,Pizza Hut (Grant),,Devs Checking (7527),,86.37  
+,,,,No,,DBT CRD 1538 DBYWCAWJ PIZZA HUT 004082 4178638722 MO C#4443,Devs:Devs Member Meals,86.37  ,
+,,,,,,,,$86.37  ,$86.37  
+,,,,,,,,,
+,09/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,09/07/2021,Deposit,,No,Stripe Payments,,Devs Checking (7527),92.09  ,
+,,,,No,,TRANSFER STRIPE XXXX5600 ID #ST-V4U7B5O0N3G1 21/09/07 TRACE #XXXX6827,Merchandise,,92.09  
+,,,,,,,,$92.09  ,$92.09  
+,,,,,,,,,
+,09/07/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,10.25  
+,,,,No,,DBT CRD 0439 DBL678QX AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs:Devs Software & Hosting,10.25  ,
+,,,,,,,,$10.25  ,$10.25  
+,,,,,,,,,
+,09/07/2021,Expenditure,,No,Microsoft Corporation,,Devs Checking (7527),,27.58  
+,,,,No,,DBT CRD 2108 DBUFR6AX MSFT E0100FP4UY MSBILL.INFO WA C#4443,Devs:Devs Software & Hosting,27.58  ,
+,,,,,,,,$27.58  ,$27.58  
+,,,,,,,,,
+TOTAL,,,,,,,,"$14,341.57  ","$14,341.57  "
 ,,,,,,,,,
 ,,,,,,,,,
-"Thursday, Sep 30, 2021 09:08:19 AM GMT-7",,,,,,,,,
+"Friday, Oct 01, 2021 09:05:38 AM GMT-7",,,,,,,,,
