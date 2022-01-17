@@ -1,6 +1,6 @@
 ﻿Springfield Devs,,,,,,,,,
 Journal,,,,,,,,,
-"January - November, 2021",,,,,,,,,
+January - December 2021,,,,,,,,,
 ,,,,,,,,,
 ,Date,Transaction Type,Num,Adj,Name,Memo/Description,Account,Debit,Credit
 ,01/01/2021,Bill,,No,Zoom Video,,Accounts Payable (A/P),,14.99  
@@ -416,7 +416,51 @@ Journal,,,,,,,,,
 ,,,,No,,TRAN FEE INTUIT 71567085 9215986202 ID #524771999141966 21000026552016,Devs:Devs Payment Fees (Intuit),43.75  ,
 ,,,,,,,,$43.75  ,$43.75  
 ,,,,,,,,,
-TOTAL,,,,,,,,"$19,529.23  ","$19,529.23  "
+,12/01/2021,Bill,,No,Logic Forte (QuickBooks Subscription),,Accounts Payable (A/P),,20.00  
+,,,,No,,Intuit QuickBooks Essentials ($40/month) - Reimburse Actual Cost,Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,12/01/2021,Bill Payment (Check),,No,Logic Forte (QuickBooks Subscription),,Devs Checking (7527),,20.00  
+,,,,No,,,Accounts Payable (A/P),20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,12/03/2021,Expenditure,,No,Amazon Web Services,,Devs Checking (7527),,9.96  
+,,,,No,,DBT CRD 0609 DBYNKASC AMAZON WEB SERVICES AWS.AMAZON.CO WA C#4443,Devs:Devs Software & Hosting,9.96  ,
+,,,,,,,,$9.96  ,$9.96  
+,,,,,,,,,
+,12/03/2021,Expenditure,,No,Andy B's Springfield,,Devs Checking (7527),,58.37  
+,,,,No,,DBT CRD 1759 DBHTWK9F ANDY B S SPRINGFIELD SPRINGFIELD MO C#4443,Devs:Devs Member Meals,58.37  ,
+,,,,,,,,$58.37  ,$58.37  
+,,,,,,,,,
+,12/03/2021,Expenditure,,No,Andy B's Springfield,,Devs Checking (7527),,186.75  
+,,,,No,,DBT CRD 1839 DBLG9620 ANDY B S SPRINGFIELD SPRINGFIELD MO C#4443,Devs:Devs Member Meals,186.75  ,
+,,,,,,,,$186.75  ,$186.75  
+,,,,,,,,,
+,12/03/2021,Expenditure,,No,Andy B's Springfield,,Devs Checking (7527),,58.37  
+,,,,No,,DBT CRD 1903 DBUJB327 ANDY B S SPRINGFIELD SPRINGFIELD MO C#4443,Devs:Devs Member Meals,58.37  ,
+,,,,,,,,$58.37  ,$58.37  
+,,,,,,,,,
+,12/05/2021,Bill,,No,Microsoft Corporation,,Accounts Payable (A/P),,20.00  
+,,,,No,,Office 365 Business Essentials ($5/mo/user),Devs:Devs Software & Hosting,20.00  ,
+,,,,,,,,$20.00  ,$20.00  
+,,,,,,,,,
+,12/06/2021,Expenditure,,No,Microsoft Corporation,,Devs Checking (7527),,25.00  
+,,,,No,,DBT CRD 1949 DBTQ82B4 MSFT E0100GPXMG MSBILL.INFO WA C#4443,Devs:Devs Office Supplies,25.00  ,
+,,,,,,,,$25.00  ,$25.00  
+,,,,,,,,,
+,12/17/2021,Payment,,No,Mostly Serious,Paid via QuickBooks Payments: Payment ID 0688CE,Undeposited Funds,"1,500.00  ",
+,,,,No,,,Accounts Receivable (A/R),,"1,500.00  "
+,,,,,,,,"$1,500.00  ","$1,500.00  "
+,,,,,,,,,
+,12/17/2021,Deposit,,No,Mostly Serious,System-recorded deposit for QuickBooks Payments,Devs Checking (7527),"1,500.00  ",
+,,,,No,,Paid via QuickBooks Payments: Payment ID 0688CE,Undeposited Funds,,"1,500.00  "
+,,,,,,,,"$1,500.00  ","$1,500.00  "
+,,,,,,,,,
+,12/17/2021,Expenditure,,No,QuickBooks Payments,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs Checking (7527),,43.75  
+,,,,No,,"System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",Devs:Devs Payment Fees (Intuit),43.75  ,
+,,,,,,,,$43.75  ,$43.75  
+,,,,,,,,,
+TOTAL,,,,,,,,"$22,971.43  ","$22,971.43  "
 ,,,,,,,,,
 ,,,,,,,,,
-"Monday, Dec 13, 2021 07:12:10 PM GMT-8",,,,,,,,,
+"Sunday, Jan 16, 2022 06:42:03 PM GMT-8",,,,,,,,,
